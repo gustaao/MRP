@@ -1,0 +1,231 @@
+K †{  ³tB€ vendas2_pşÿ– <rvendas2_p.dfm‰xbBpvendas2_p.pas+»VB dSystem   fTObject72#XfCharÖo?1fWord~gTObject.EqualspR8ğgTObject.GetHashCodeqR8ğgTObject.ToStringrR8ğgTObject.DispatchvR8ğgTObject.NewInstancexR8ğgTObject.FreeInstanceyR8ğfInteger Îsµfstring,¼ËfUnicodeString,¼ËgTObject.Free]R8ğg@HandleAnyExceptioné`pÅg@DoneExcepté`pÅg	@UStrCatNé`pÅg@UStrArrayClrï©áØg@HandleFinallyé`pÅf
+WideStringİ—¯íf	PWideCharDç?şgFalse±*ºõgTrue´*ºõg@CallDynaInsté`pÅg@UStrClr\ª«>fBoolean8¼bfExtended×é­¤fRealÜbĞf	TDateTimeWÑ×cdSysInit   cdWindows   gMB_YESNO¸}ç1gMB_OK¬}ç1gVK_F1ü~ç1gVK_F2ÿ~ç1gVK_F3ç1gVK_F4ç1gVK_F5ç1cdMessages   gWM_NEXTDLGCTL$~ç1cdSysUtils   gDate{1æogTime{1æogIntToStrT|å·gFloatToStrF+I.ŸÇşkfTFloatFormatQçJ„gffNumberÓHfTFormatSettings+¨F gFloatToStrFNUwögCurrencyString:"&ËfTSysCharSet£‚ÅQg	CharInSet`{ag	CharInSet±”ÂgStrToFloatDefO"„Ÿ„ LÈg
+StrToFloat-E_åŸĞˆê÷g
+FloatToStr-E_åŸÀL"¤gFormatFloatjêî¾Ÿ{pÀtgStrToFloatDefbÑVíg
+StrToFloat¿¾òg
+FloatToStr¿¾ògFormatFloat±Â2%g	DateToStr­«-ÍŸğ-¸g	DateToStrˆ;LÃg	TimeToStr­«-ÍŸvc#´g	TimeToStrˆ;LÃcdVariants   cdClasses   fTShiftStateÑ‰cìgTComponent.UpdateRegistry•Í…wgTComponent.WriteState™Í…wgTComponent.SafeCallException³Í…wgTComponent.UpdateAction´Í…wgTPersistent.Assignª›êfTStreamk;ÑûfTStringsª5˜cdGraphics   cdControls   gTWinControl.AssignTo+¡,gTWinControl.CanAutoSize+¡,gTWinControl.CanResize+¡,gTWinControl.ConstrainedResize+¡,gTWinControl.CreateHandle+¡,g#TWinControl.CustomAlignInsertBefore +¡,gTWinControl.CustomAlignPosition!+¡,gTWinControl.DestroyWnd%+¡,g!TWinControl.DockReplaceDockClient(+¡,gTWinControl.GetClientOrigin5+¡,gTWinControl.GetControlExtents7+¡,gTWinControl.GetDeviceContext8+¡,gTWinControl.SetParentBackgroundX+¡,g#TWinControl.SetParentDoubleBufferedY+¡,gTWinControl.ShowControl[+¡,g+TWinControl.UpdateControlOriginalParentSize]+¡,gTWinControl.Invalidate–+¡,gTWinControl.Repaintœ+¡,gTWinControl.SetBoundsŸ+¡,gTWinControl.Update¢+¡,gTControl.CreateTouchManager°ÆÒ¦gTControl.GetActionÄÆÒ¦gTControl.GetEnabledÊÆÒ¦g!TControl.GetFloatingDockSiteClassÌÆÒ¦gTControl.SetAutoSizeàÆÒ¦gTControl.SetDragModeáÆÒ¦gTControl.SetEnabledâÆÒ¦gTControl.SetNameãÆÒ¦gTControl.SetBiDiModeæÆÒ¦gTControl.GetDragImagesîÆÒ¦gTControl.InitiateAction)ÇÒ¦gmrYes¾}ç1gTControl.SetVisiblekÆÒ¦gmrOk¯}ç1gTControl.GetText™ÆÒ¦gTControl.SetTextšÆÒ¦gTControl.Perform/ÇÒ¦cdForms   fTFormf¶fTCloseAction¿¬şgTCustomForm.AlignControlsURÎ®gTCustomForm.ClientWndProcXRÎ®gTCustomForm.CreateParamsZRÎ®gTCustomForm.CreateWindowHandle[RÎ®gTCustomForm.CreateWnd\RÎ®gTCustomForm.DefineProperties^RÎ®gTCustomForm.DestroyHandle_RÎ®gTCustomForm.DestroyWindowHandle`RÎ®gTCustomForm.DoCreatebRÎ®gTCustomForm.DoDestroycRÎ®gTCustomForm.GetClientRecthRÎ®gTCustomForm.GetFloatingiRÎ®gTCustomForm.LoadedmRÎ®gTCustomForm.NotificationnRÎ®gTCustomForm.PaintWindowpRÎ®gTCustomForm.ReadStaterRÎ®gTCustomForm.RequestAlignsRÎ®gTCustomForm.SetParentBiDiModeuRÎ®gTCustomForm.SetParentwRÎ®gTCustomForm.UpdateActionsxRÎ®gTCustomForm.ValidateRenamezRÎ®gTCustomForm.WndProc|RÎ®gTCustomForm.Resizing}RÎ®gTCustomForm.QueryInterfaceRÎ®gTCustomForm.CreateºRÎ®gTCustomForm.CreateNew»RÎ®gTCustomForm.Destroy¼RÎ®gTCustomForm.CloseQuery¾RÎ®gTCustomForm.DefaultHandler¿RÎ®gTCustomForm.SetFocusÍRÎ®gTCustomForm.SetFocusedControlÎRÎ®gTCustomForm.ShowModalĞRÎ®gTCustomForm.WantChildKeyÑRÎ®gTCustomForm.AfterConstructionÓRÎ®gTCustomForm.BeforeDestructionÔRÎ®g%TScrollingWinControl.AdjustClientRectj\ª5g&TScrollingWinControl.AutoScrollEnabledl\ª5g%TScrollingWinControl.AutoScrollInViewm\ª5gTScrollingWinControl.DoGesturer\ª5g(TScrollingWinControl.DoGetGestureOptionss\ª5g.TFormIãïgApplicationÍîé²gTApplication.MessageBox†©åJgTCustomForm.ReleaseËRÎ®gTCustomForm.Close½RÎ®gcaFree>Gª‘cdDialogs   cdStdCtrls   fTLabel†"dfTEditcåñg.TLabeliöóµg.TEditF¹ÏWgTCustomEdit.SetReadOnly±ò¹ÔgTCustomEdit.SelectAlláò¹ÔcdGrids   cdDBGrids   fTDBGridnçCœg.TDBGridQ»!îcdFMTBcd   cdDB   fTDataSourceÖ‘OšfTIntegerFieldyqf
+TDateFieldí[ªıf
+TTimeFieldÌ(0×fTSingleFieldææ]fTFMTBCDFieldA²äVfTStringField4n•şg.TDataSource¹e-ìg.TIntegerField\Eìfg.TDateFieldĞ/ˆOg.TTimeField¯ü)g.TSingleFieldqºÄ¯g.TFMTBCDField$†Â¨g.TStringFieldBsPgTDataSet.FieldByNameÍÿŠfTBlobStreamModen„!gbmRead‚´gTDataSet.OpenëÿŠgTDataSet.InsertáÿŠgTDataSet.FirstÓÿŠgTDataSet.NextêÿŠgTDataSet.EditËÿŠgTDataSet.CloseÄÿŠgTDataSet.IsEmptyãÿŠŸşA¾ÌfTDataSet‘öéòcdProvider   fTDataSetProviderx_OÇg.TDataSetProvider[3-cdDBClient   fTClientDataSetÅ|Ag.TClientDataSet¨Pû’cdSqlExpr   f	TSQLQuery€äa¨g
+.TSQLQueryc¸?úcdExtCtrls   fTShapeóZ:fTImagej#,.fTBevelñ‹K,fTPanelqW"Ôg.TShapeÖ.ö‹g.TImageM÷	€g.TBevelÔ_)~g.TPanelT+ &cdjpeg   f
+TJPEGImage,WÔÍg.TJPEGImage+²gTJPEGImage.CreateywéecdJvComponentBase   cdJvThreadTimer   fTJvThreadTimerˆ”Ç=g.TJvThreadTimerkh¥gTJvThreadTimer.SetEnabled´´ÜÕcdButtons   fTBitBtnœ¼>àg.TBitBtn2cdJvExStdCtrls   cdJvMemo   fTJvMemoÖ~<g.TJvMemoª\gTJvCustomMemo.GetLinest®:ºcdMask   cdDBCtrls   fTDBEdit’	.tg.TDBEdituİÆcd	JvListBox   cd
+JvPlaylist   cdJvWavePlayer   cdMPlayer   cePrincipal_p   ceDMPrincipal_p   ce	Funcoes_p   gGerar_id³£0g
+fmLRStringd•Ncevendas2_Pagamento_p   gvendas2_PagamentoÛ‰fTvendas2_Pagamento·Á‰g.Tvendas2_PagamentoêŠŸÛcePesquisaClientes_p   gPesquisaClientesl>fTPesquisaClientes^µ$g.TPesquisaClientesA‰Ñce	DMVenda_p   gDMVendaDó®c5vendas2_p€  _¸Ïc5System   c5SysInit   >c5Windows   @c5Messages   Pc5SysUtils   Tc5Variants   †c5Classes   ˆc5Graphics   šc5Controls   œc5Forms   èc5Dialogs   •c5StdCtrls   ™c5Grids   µc5DBGrids   ¹c5FMTBcd   Åc5DB   Éc5Provider   1c5DBClient   =c5SqlExpr   Ic5ExtCtrls   Uc5jpeg   yc5JvComponentBase   ‰c5JvThreadTimer   c5Buttons   c5JvExStdCtrls   ©c5JvMemo   ­c5Mask   ½c5DBCtrls   Ác5	JvListBox   Íc5
+JvPlaylist   Ñc5JvWavePlayer   Õc5MPlayer   Ùc&.Tvendas2€  òD¢Ó^ *Tvendas2ˆ  qÄ` vendas2æ  ×İ`‘'wNumeroItemæ  ‘aÙE~7.2F  b 5Principal_p   İc5DMPrincipal_p   ác5	Funcoes_p   åc5vendas2_Pagamento_p   ñc5PesquisaClientes_p   c5	DMVenda_p   c(Tvendas2.CarregaImagemVenda€  Â‘Ù Á˜d`!Selff  `ø Imagem  "
+ Jpg  PcœÉ  `ÿ(Tvendas2.AbreVenda€  À‘Ù ¡˜d`!Self  `cœÙ  `ÿ(Tvendas2.Finaliza€  Á‘Ù ˜d`!Self  ` i   cœá  `ÿ(Tvendas2.BitBtnNovaVendaClick€  ¹‘Ù áˆd`!Self  `!Sender  cœí  `ÿ(Tvendas2.BitBtnClienteClick€  »‘Ù )ˆd`!Self  ` !Sender  cœù  `ÿ( Tvendas2.BitBtnFinalizaVendaClick€  º‘Ù qˆd`!Self  `!Sender  cœ  `ÿ(Tvendas2.BitBtnSairClick€  ¶‘Ù ˆd`!Self  ` !Sender  cœ  `ÿ(Tvendas2.edtCodProdutoExit€  µ‘Ù Ñˆd`!Self  `!Sender   .f  À .f  
+ø .f    .f  
+ğcœ  `ÿ(Tvendas2.edtDescontoKeyPress€  ¾‘Ù ¸ˆd`!Self  ` !Sender  "Key   CharSetf    .    .   cœ9  `ÿ(Tvendas2.edtQtdExit€  ¸‘Ù Qˆd`!Self  `!Sender   wValorVendaf  Ğ wQtdf  À .  f  .f    .  f  .f  € .  f  .f  Áş .  f  .f  ş .  f  .f  Aş .f  
+ø .f  
+ğ .f  ş .f  
+è .f  Áı .f  
+àcœU  `ÿ(Tvendas2.edtQtdKeyPress€  ¿‘Ù ¸ˆd`!Self  ` !Sender  "Key   CharSetf    .    .   cœ©  `ÿ(Tvendas2.edtValorKeyPress€  ½‘Ù ¸ˆd`!Self  ` !Sender  "Key   CharSetf    .    .   cœÅ  `ÿ(Tvendas2.FormActivate€  ³‘Ù 	ˆd`!Self  `!Sender   .f  à .f  
+øcœá  `ÿ(Tvendas2.FormClose€  ¼‘Ù ˆd`!Self  ` !Sender  "Action  (cœõ  `ÿ(Tvendas2.FormKeyDown€  ·‘Ù qˆd`!Self  `
+!Sender  "Key  !Shift&   cœ  `ÿ(Tvendas2.FormKeyPress€  ²‘Ù bˆd`!Self  `!Sender  "Key  cœ  `ÿ(Tvendas2.ThreadDataHoraTimer€  ´‘Ù Ğˆd`!Self  `!Sender   .f  à .f  
+øcœ)  `ÿ(Finalization€  é`pÅ !d c(vendas2_p€       !d cşG   `­}FL¡  2ƒ& ‰şÜ&%? ,dbgProdutos 
+ .!œA  `ÿ,	qClientes 
+ F1œE  `ÿ,cdsClientes 
+ DAœI  `ÿ,dspClientes 
+ BQœM  `ÿ,
+dsClientes 
+ 0aœQ  `ÿ,	qProdutos 
+ FqœU  `ÿ,cdsProdutos 
+ DœY  `ÿ,dspProdutos 
+ B‘œ]  `ÿ,
+dsProdutos 
+ 0¡œa  `ÿ,Label3 
+ *±œe  `ÿ,Shape1 
+ HÁœi  `ÿ,Shape2 
+ HÑœm  `ÿ,
+ImageVenda 
+ Jáœq  `ÿ,	LabelHora 
+ *ñœu  `ÿ,ThreadDataHora 
+ Rœy  `ÿ,	LabelData 
+ *œ}  `ÿ,Shape4 
+ H!œ  `ÿ,BitBtnNovaVenda 
+ T1œ…  `ÿ,BitBtnCliente 
+ TAœ‰  `ÿ,BitBtnFinalizaVenda 
+ TQœ  `ÿ,BitBtnCancelaVenda 
+ Taœ‘  `ÿ,
+BitBtnSair 
+ Tqœ•  `ÿ,	MemoCupom 
+ Vœ™  `ÿ,qPedidos 
+ F‘œ  `ÿ,
+dspPedidos 
+ B¡œ¡  `ÿ,
+cdsPedidos 
+ D±œ¥  `ÿ,	dsPedidos 
+ 0Áœ©  `ÿ,qItens 
+ FÑœ­  `ÿ,dspItens 
+ Báœ±  `ÿ,cdsItens 
+ Dñœµ  `ÿ,dsItens 
+ 0œ¹  `ÿ,DBEdit2 
+ Xœ½  `ÿ,BitBtnProdutos 
+ T!œÁ  `ÿ,cdsPedidosCDPEDIDO 
+ 21œÅ  `ÿ,cdsPedidosCDVENDEDOR 
+ 2AœÉ  `ÿ,cdsPedidosCDUSUARIO 
+ 2QœÍ  `ÿ,cdsPedidosCDCLIENTE 
+ 2aœÑ  `ÿ,cdsPedidosDATA 
+ 4qœÕ  `ÿ,cdsPedidosHORA 
+ 6œÙ  `ÿ,cdsPedidosQTD 
+ 8‘œİ  `ÿ,cdsPedidosVALOR_VENDA 
+ :¡œá  `ÿ,cdsPedidosSUBTOTAL 
+ :±œå  `ÿ,cdsPedidosDESCONTO 
+ 8Áœé  `ÿ,cdsPedidosACRESCIMO 
+ 8Ñœí  `ÿ,cdsPedidosVALORTOTAL 
+ :áœñ  `ÿ,cdsPedidosNF_EMITIDA 
+ 2ñœõ  `ÿ,cdsPedidosCDPAGAMENTO 
+ 2œù  `ÿ,cdsProdutosCDPRODUTO 
+ 2œı  `ÿ,cdsProdutosCDFORNECEDOR 
+ 2!œ  `ÿ,cdsProdutosCDINTERNO 
+ 21œ  `ÿ,cdsProdutosCDBARRAS 
+ <Aœ	  `ÿ,cdsProdutosCDGRUPO 
+ 2Qœ  `ÿ,cdsProdutosCDSUBGRUPO 
+ 2aœ  `ÿ,cdsProdutosDESCRICAO 
+ <qœ  `ÿ,cdsProdutosVALOR_CUSTO 
+ 8œ  `ÿ,cdsProdutosVALOR_VENDA 
+ 8‘œ  `ÿ,cdsProdutosVALOR_CONTABIL 
+ 8¡œ!  `ÿ,cdsProdutosMARGEM 
+ 8±œ%  `ÿ,cdsProdutosUNID_ENTRADA 
+ 8Áœ)  `ÿ,cdsProdutosUNID_SAIDA 
+ 8Ñœ-  `ÿ,cdsProdutosSERVICO 
+ 2áœ1  `ÿ,cdsProdutosIPI 
+ 8ñœ5  `ÿ,cdsProdutosICMS 
+ 8œ9  `ÿ,cdsProdutosCFOP 
+ <œ=  `ÿ,cdsProdutosSIT_TRIBUTARIA 
+ <!œA  `ÿ,cdsProdutosCOMISSAO 
+ 81œE  `ÿ,cdsProdutosDESCONTO 
+ 8AœI  `ÿ,cdsProdutosQTD_DESCONTO 
+ 8QœM  `ÿ,cdsProdutosAPLICACAO 
+ <aœQ  `ÿ,cdsProdutosTIPO_UN_ENTRADA 
+ <qœU  `ÿ,cdsProdutosTIPO_UN_SAIDA 
+ <œY  `ÿ,Label7 
+ *‘œ]  `ÿ,DBEdit3 
+ X¡œa  `ÿ,Shape5 
+ H±œe  `ÿ,BitBtnCancelaItem 
+ TÁœi  `ÿ,Shape3 
+ HÑœm  `ÿ,cdsClientesCDCLIENTE 
+ 2áœq  `ÿ,cdsClientesCDMASCOTE 
+ 2ñœu  `ÿ,cdsClientesNOME 
+ <œy  `ÿ,cdsClientesAPELIDO 
+ <œ}  `ÿ,cdsClientesENDERECO 
+ <!œ  `ÿ,cdsClientesNUMERO 
+ <1œ…  `ÿ,cdsClientesBAIRRO 
+ <Aœ‰  `ÿ,cdsClientesCIDADE 
+ <Qœ  `ÿ,cdsClientesCEP 
+ <aœ‘  `ÿ,cdsClientesUF 
+ <qœ•  `ÿ,cdsClientesCPF_CNPJ 
+ <œ™  `ÿ,cdsClientesIE_RG 
+ <‘œ  `ÿ,cdsClientesDATA_CADASTRO 
+ 4¡œ¡  `ÿ,cdsClientesTIPO_PESSOA 
+ 2±œ¥  `ÿ,cdsClientesPNG 
+ 2Áœ©  `ÿ,cdsClientesEMAIL 
+ <Ñœ­  `ÿ,cdsClientesLIMITE_CREDITO 
+ 8áœ±  `ÿ,cdsClientesRESTRICAO 
+ 2ñœµ  `ÿ,cdsClientesTIPO_RESTRICAO 
+ <œ¹  `ÿ,LabelProduto 
+ *œ½  `ÿ,Bevel1 
+ L!œÁ  `ÿ,Bevel2 
+ L1œÅ  `ÿ,cdsItensCDPEDIDO_ITEN 
+ 2AœÉ  `ÿ,cdsItensCDPEDIDO 
+ 2QœÍ  `ÿ,cdsItensCDPRODUTO 
+ 2aœÑ  `ÿ,cdsItensVALOR_UNITARIO 
+ :qœÕ  `ÿ,cdsItensQTD 
+ 8œÙ  `ÿ,cdsItensVALOR_TOTAL 
+ :‘œİ  `ÿ,cdsItensSUBTOTAL 
+ :¡œá  `ÿ,cdsItensDESCONTO 
+ 8±œå  `ÿ,cdsItensACRESCIMO 
+ 8Áœé  `ÿ,cdsItensCDVENDEDOR 
+ 2Ñœí  `ÿ,cdsItensCONTADOR 
+ 2áœñ  `ÿ,pnlVenda 
+ Nñœõ  `ÿ,Shape9 
+ Hœù  `ÿ,Shape6 
+ Hœı  `ÿ,Label1 
+ *!œ  `ÿ,Label8 
+ *1œ  `ÿ,Label9 
+ *Aœ	  `ÿ,Label10 
+ *Qœ  `ÿ,Label2 
+ *aœ  `ÿ,edtCodProduto 
+ ,qœ  `ÿ,edtValor 
+ ,œ  `ÿ,edtDesconto 
+ ,‘œ  `ÿ,edtQtd 
+ ,¡œ!  `ÿ,EdtValorTotal 
+ ,±œ%  `ÿ,Label4 
+ *Áœ)  `ÿ,Edit1 
+ ,Ñœ-  `ÿ,Edit2 
+ ,áœ1  `ÿ,Label5 
+ *ñœ5  `ÿ.FormKeyPress 
+ èˆœ9  `ÿ.FormActivate 
+ èáˆœ=  `ÿ.ThreadDataHoraTimer 
+ è)ˆœA  `ÿ.edtCodProdutoExit 
+ èˆœE  `ÿ.BitBtnSairClick 
+ èˆœI  `ÿ.FormKeyDown 
+ èˆœM  `ÿ.
+edtQtdExit 
+ èUˆœQ  `ÿ.BitBtnNovaVendaClick 
+ èíˆœU  `ÿ.BitBtnFinalizaVendaClick 
+ èˆœY  `ÿ.BitBtnClienteClick 
+ èùˆœ]  `ÿ.	FormClose 
+ èõˆœa  `ÿ.edtValorKeyPress 
+ èÅˆœe  `ÿ.edtDescontoKeyPress 
+ è9ˆœi  `ÿ.edtQtdKeyPress 
+ è©ˆœm  `ÿ.	AbreVenda  èÙ˜œq  `ÿ.Finaliza  èá˜œu  `ÿ.CarregaImagemVenda  èÉ˜œy  `ÿcD   b   €ÿÿÿ @     E   d lÛX                  t  ì      ²  „                                                                                                                                                                                                                                                                                                                                              ~ º  ˆ    dbgProdutosŒ   	qClientes   cdsClientes”   dspClientes˜   
+dsClientesœ   	qProdutos    cdsProdutos¤   dspProdutos¨   
+dsProdutos¬   Label3°   Shape1´   Shape2¸   
+ImageVenda¼   	LabelHoraÀ   ThreadDataHoraÄ   	LabelDataÈ   Shape4Ì  	 BitBtnNovaVendaĞ  	 BitBtnClienteÔ  	 BitBtnFinalizaVendaØ  	 BitBtnCancelaVendaÜ  	 
+BitBtnSairà  
+ 	MemoCupomä   qPedidosè   
+dspPedidosì   
+cdsPedidosğ   	dsPedidosô   qItensø   dspItensü   cdsItens    dsItens   DBEdit2  	 BitBtnProdutos   cdsPedidosCDPEDIDO   cdsPedidosCDVENDEDOR   cdsPedidosCDUSUARIO   cdsPedidosCDCLIENTE   cdsPedidosDATA    cdsPedidosHORA$   cdsPedidosQTD(   cdsPedidosVALOR_VENDA,   cdsPedidosSUBTOTAL0   cdsPedidosDESCONTO4   cdsPedidosACRESCIMO8   cdsPedidosVALORTOTAL<   cdsPedidosNF_EMITIDA@   cdsPedidosCDPAGAMENTOD   cdsProdutosCDPRODUTOH   cdsProdutosCDFORNECEDORL   cdsProdutosCDINTERNOP   cdsProdutosCDBARRAST   cdsProdutosCDGRUPOX   cdsProdutosCDSUBGRUPO\   cdsProdutosDESCRICAO`   cdsProdutosVALOR_CUSTOd   cdsProdutosVALOR_VENDAh   cdsProdutosVALOR_CONTABILl   cdsProdutosMARGEMp   cdsProdutosUNID_ENTRADAt   cdsProdutosUNID_SAIDAx   cdsProdutosSERVICO|   cdsProdutosIPI€   cdsProdutosICMS„   cdsProdutosCFOPˆ   cdsProdutosSIT_TRIBUTARIAŒ   cdsProdutosCOMISSAO   cdsProdutosDESCONTO”   cdsProdutosQTD_DESCONTO˜   cdsProdutosAPLICACAOœ   cdsProdutosTIPO_UN_ENTRADA    cdsProdutosTIPO_UN_SAIDA¤   Label7¨   DBEdit3¬   Shape5°  	 BitBtnCancelaItem´   Shape3¸   cdsClientesCDCLIENTE¼   cdsClientesCDMASCOTEÀ   cdsClientesNOMEÄ   cdsClientesAPELIDOÈ   cdsClientesENDERECOÌ   cdsClientesNUMEROĞ   cdsClientesBAIRROÔ   cdsClientesCIDADEØ   cdsClientesCEPÜ   cdsClientesUFà   cdsClientesCPF_CNPJä   cdsClientesIE_RGè   cdsClientesDATA_CADASTROì   cdsClientesTIPO_PESSOAğ   cdsClientesPNGô   cdsClientesEMAILø   cdsClientesLIMITE_CREDITOü   cdsClientesRESTRICAO    cdsClientesTIPO_RESTRICAO   LabelProduto   Bevel1   Bevel2   cdsItensCDPEDIDO_ITEN   cdsItensCDPEDIDO   cdsItensCDPRODUTO   cdsItensVALOR_UNITARIO    cdsItensQTD$   cdsItensVALOR_TOTAL(   cdsItensSUBTOTAL,   cdsItensDESCONTO0   cdsItensACRESCIMO4   cdsItensCDVENDEDOR8   cdsItensCONTADOR<   pnlVenda@   Shape9D   Shape6H   Label1L   Label8P   Label9T   Label10X   Label2\   edtCodProduto`   edtValord   edtDescontoh   edtQtdl   EdtValorTotalp   Label4t   Edit1x   Edit2|   Label5~     ˆ  dbgProdutos     Œ  	qClientes       cdsClientes     ”  dspClientes     ˜  
+dsClientes     œ  	qProdutos        cdsProdutos     ¤  dspProdutos     ¨  
+dsProdutos     ¬  Label3     °  Shape1     ´  Shape2     ¸  
+ImageVenda     ¼  	LabelHora     À  ThreadDataHora     Ä  	LabelData     È  Shape4     Ì  BitBtnNovaVenda     Ğ  BitBtnCliente     Ô  BitBtnFinalizaVenda     Ø  BitBtnCancelaVenda     Ü  
+BitBtnSair     à  	MemoCupom     ä  qPedidos     è  
+dspPedidos     ì  
+cdsPedidos     ğ  	dsPedidos     ô  qItens     ø  dspItens     ü  cdsItens        dsItens       DBEdit2       BitBtnProdutos       cdsPedidosCDPEDIDO       cdsPedidosCDVENDEDOR       cdsPedidosCDUSUARIO       cdsPedidosCDCLIENTE       cdsPedidosDATA        cdsPedidosHORA     $  cdsPedidosQTD     (  cdsPedidosVALOR_VENDA     ,  cdsPedidosSUBTOTAL     0  cdsPedidosDESCONTO     4  cdsPedidosACRESCIMO     8  cdsPedidosVALORTOTAL     <  cdsPedidosNF_EMITIDA     @  cdsPedidosCDPAGAMENTO     D  cdsProdutosCDPRODUTO     H  cdsProdutosCDFORNECEDOR     L  cdsProdutosCDINTERNO     P  cdsProdutosCDBARRAS     T  cdsProdutosCDGRUPO     X  cdsProdutosCDSUBGRUPO     \  cdsProdutosDESCRICAO     `  cdsProdutosVALOR_CUSTO     d  cdsProdutosVALOR_VENDA     h  cdsProdutosVALOR_CONTABIL     l  cdsProdutosMARGEM     p  cdsProdutosUNID_ENTRADA     t  cdsProdutosUNID_SAIDA     x  cdsProdutosSERVICO     |  cdsProdutosIPI     €  cdsProdutosICMS     „  cdsProdutosCFOP     ˆ  cdsProdutosSIT_TRIBUTARIA     Œ  cdsProdutosCOMISSAO       cdsProdutosDESCONTO     ”  cdsProdutosQTD_DESCONTO     ˜  cdsProdutosAPLICACAO     œ  cdsProdutosTIPO_UN_ENTRADA        cdsProdutosTIPO_UN_SAIDA     ¤  Label7     ¨  DBEdit3     ¬  Shape5     °  BitBtnCancelaItem     ´  Shape3     ¸  cdsClientesCDCLIENTE     ¼  cdsClientesCDMASCOTE     À  cdsClientesNOME     Ä  cdsClientesAPELIDO     È  cdsClientesENDERECO     Ì  cdsClientesNUMERO     Ğ  cdsClientesBAIRRO     Ô  cdsClientesCIDADE     Ø  cdsClientesCEP     Ü  cdsClientesUF     à  cdsClientesCPF_CNPJ     ä  cdsClientesIE_RG     è  cdsClientesDATA_CADASTRO     ì  cdsClientesTIPO_PESSOA     ğ  cdsClientesPNG     ô  cdsClientesEMAIL     ø  cdsClientesLIMITE_CREDITO     ü  cdsClientesRESTRICAO        cdsClientesTIPO_RESTRICAO       LabelProduto       Bevel1       Bevel2       cdsItensCDPEDIDO_ITEN       cdsItensCDPEDIDO       cdsItensCDPRODUTO       cdsItensVALOR_UNITARIO        cdsItensQTD     $  cdsItensVALOR_TOTAL     (  cdsItensSUBTOTAL     ,  cdsItensDESCONTO     0  cdsItensACRESCIMO     4  cdsItensCDVENDEDOR     8  cdsItensCONTADOR     <  pnlVenda     @  Shape9     D  Shape6     H  Label1     L  Label8     P  Label9     T  Label10     X  Label2     \  edtCodProduto     `  edtValor     d  edtDesconto     h  edtQtd     l  EdtValorTotal     p  Label4     t  Edit1     x  Edit2     |  Label5       FormKeyPress     FormActivate     ThreadDataHoraTimer     edtCodProdutoExit     BitBtnSairClick     FormKeyDown     
+edtQtdExit     BitBtnNovaVendaClick     BitBtnFinalizaVendaClick     BitBtnClienteClick     	FormClose     edtValorKeyPress     edtDescontoKeyPress     edtQtdKeyPress   b ôÿY  b ôÿ•  b ôÿØ  b ôÿ  b ôÿX  b ôÿ¯  b ôÿé  b ôÿ-  b ôÿu  b ôÿ·  b ôÿ   b ôÿM  b ôÿ  b ôÿè  B ôÿ  B ôÿ9  B ôÿTvendas2                                                                                     I     FormKeyPress            Self      Sender      Key  <     FormActivate            Self      Sender  C     ThreadDataHoraTimer            Self      Sender  A     edtCodProdutoExit            Self      Sender  ?     BitBtnSairClick            Self      Sender  W     FormKeyDown            Self      Sender      Key       Shift  :     
+edtQtdExit            Self      Sender  D     BitBtnNovaVendaClick            Self      Sender  H     BitBtnFinalizaVendaClick            Self      Sender  B     BitBtnClienteClick            Self      Sender  I     	FormClose            Self      Sender      Action  M     edtValorKeyPress            Self      Sender      Key  P     edtDescontoKeyPress            Self      Sender      Key  K     edtQtdKeyPress            Self      Sender      Key  )     	AbreVenda            Self  (     Finaliza            Self  2     CarregaImagemVenda            Self     Tvendas2X       n vendas2_p        U‹ìQSVW‰Eü3ö¡    ‹ ‹Xh‹ÃºÔ   è    ‹Ğ¡    ‹Ã3É‹ÿ“d  ‹ø‹Ç‹ÿƒú uƒø vUë~Q3ÀUh   dÿ0d‰ ²¡    è    ‹ğ‹×‹Æ‹ÿQ\‹Eü‹€¸  ‹€°  ‹Ö‹ÿQ3ÀZYYd‰ë2é    è    ë&‹Eü‹€¸  ‹€°  3Ò‹ÿQ‹Æè    ²‹Ç‹ÿQü_^[Y]Ã° ÿÿÿÿ   V E N D A _ I M A G E M     U‹ì¹   j j IuùQSV‹Ø‹5    3ÀUh  dÿ0d‰ ‹ƒà  è    ‹ÿRDUü‹‹€Œ   ‹ÿQt‹EüP‹ƒà  è    Z‹ÿQ8Uô‹‹€”   ‹ÿQtÿuôh   Uğ‹‹€˜   ‹ÿQtÿuğEøº   è    ‹EøP‹ƒà  è    Z‹ÿQ8Uè‹‹€œ   ‹ÿQtÿuèh4  Uä‹‹€    ‹ÿQtÿuäUà‹‹€¨   ‹ÿQtÿuàEìº   è    ‹EìP‹ƒà  è    Z‹ÿQ8hD  UØ‹‹€¬   ‹ÿQtÿuØh`  UÔ‹‹€°   ‹ÿQtÿuÔEÜº   è    ‹EÜP‹ƒà  è    Z‹ÿQ8‹ƒà  è    º„  ‹ÿQ8‹‹€   ‹ÿRdHu‹ƒà  è    º(  ‹ÿQ8ë‹ƒà  è    ºÈ  ‹ÿQ8‹ƒà  è    ºh  ‹ÿQ8‹ƒà  è    ºè  ‹ÿQ8‹ƒà  è    ºh  ‹ÿQ83ÀZYYd‰h  EÔº   è    Ãé    ëë^[‹å]Ã° ÿÿÿÿ     -     ° ÿÿÿÿ       ° ÿÿÿÿ   C N P J :       ° ÿÿÿÿ                   I E :   ° ÿÿÿÿK   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   ° ÿÿÿÿH   - - - - - - - - - - - - - - - - - - - - - - - - - C U P O M   F I S C A L - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -     ° ÿÿÿÿI   - - - - - - - - - - - - - - - - - - - - - - - C U P O M   N Ã O   F I S C A L - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   ° ÿÿÿÿ8   I t e m     C ó d i g o       D e s c r i ç ã o                                                                     ° ÿÿÿÿ8             Q t d .       U N .       V L . U n i t ( R $ )     S T     I A T       V L . I t e m ( R $ )             ° ÿÿÿÿ?   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   U‹ì3ÉQQQQSVW‹Ø‹5    3ÀUhÕ  dÿ0d‰ ‹ƒì  è    ‹ƒü  è    j¹ä  º  ¡    ‹ è    ƒø…a  ‹ƒì  è    ¸\  è    ‹Ğ‹ƒ  ‹ÿ‘Ô   ‹‹€  ‹ÿRd‹Ğ‹ƒ  ‹ÿ‘Ô   è    ƒÄøİ$›‹ƒ  ‹ÿ’Ä   ‹‹€0  ‹ÿR\ƒÄøİ$›‹ƒ,  ‹ÿ’Ì   ‹‹€4  ‹ÿR\ƒÄøİ$›‹ƒ0  ‹ÿ’Ì   ‹‹€<  ‹ÿR\ƒÄøİ$›‹ƒ8  ‹ÿ’Ì   è    ƒÄøİ$›‹ƒ   ‹ÿ’Ä   ‹ƒì  ‹ÿ’¤  3Ò‹ƒì  ‹ÿ‘   ‹‹€¤  è    ‹‹€¤  ‹ÿ’|  ‹øO…ÿŒG  G‹ƒü  è    ¸ˆ  è    ‹Ğ‹ƒ  ‹ÿ‘Ô   ‹ƒ  ‹ÿRd‹Ğ‹ƒ  ‹ÿ‘Ô   ‹‹€¨  ‹ÿRd‹Ğ‹ƒ  ‹ÿ‘Ô   ‹‹€¬  ‹ÿR\ƒÄøİ$›‹ƒ  ‹ÿ’Ì   ‹‹€´  ‹ÿR\ƒÄøİ$›‹ƒ$  ‹ÿ’Ì   ‹‹€¼  ‹ÿR\ƒÄøİ$›‹ƒ,  ‹ÿ’Ì   ‹‹€°  ‹ÿR\ƒÄøİ$›‹ƒ   ‹ÿ’Ì   j j ‹ƒ0  ‹ÿ’Ì   ‹‹€È  ‹ÿRd‹Ğ‹ƒ8  ‹ÿ‘Ô   ‹ƒü  ‹ÿ’¤  3Ò‹ƒü  ‹ÿ‘   ‹‹€¤  è    O…ºşÿÿ‹‹€  3Ò‹ÿ‘¨  ‹‹€  ‹€8  ‹ÿRDh¼  ‹‹€`  ‹ÿRdUøè    ÿuøh  Eüº   è    ‹Uü‹‹€  ‹€8  ‹ÿQ8‹‹€  3Ò‹ÿ‘Ğ  ‹‹€  3Ò‹ÿ‘¨  ‹‹€  ‹€8  ‹ÿRDh$  ‹‹€ä  ‹ÿRdUğè    ÿuğh  Eôº   è    ‹Uô‹‹€  ‹€8  ‹ÿQ8‹‹€  3Ò‹ÿ‘Ğ  3ÀZYYd‰hÜ  Eğº   è    Ãé    ëë_^[‹å]Ã C o n f i r m a r   F i n a l i z a ç ã o .     D e s e j a   F i n a l i z a r   e s t a   V e n d a   ?   ° ÿÿÿÿ   G E N _ P E D I D O S _ I D     ° ÿÿÿÿ   G E N _ P E D I D O _ I T E N S _ I D   ° ÿÿÿÿ"   d e l e t e   f r o m   p e d i d o s _ t m p   w h e r e     =   '     ° ÿÿÿÿ   '       ° ÿÿÿÿ.   d e l e t e   f r o m   p e d i d o _ i t e n s _ t m p   w h e r e   c d c a i x a   =   '     SV‹Ø‹5    ²‹ƒ<  ‹ÿQt3Ò‹ƒÌ  ‹ÿQt²‹ƒÜ  ‹ÿQt²‹ƒÔ  ‹ÿQt²‹ƒØ  ‹ÿQt3Ò‹ƒ\  è    3Ò‹ƒ`  è    3Ò‹ƒd  è    3Ò‹ƒh  è    Ç       ²‹ƒà  è    ‹‹€  è    ‹‹€¤  è    ‹‹€  è    ¸¬  è    ‹Ğ‹‹€`  ‹ÿ‘Ô   ‹‹€h  º   ‹ÿ‘Ô   ‹‹€  º   ‹ÿ‘Ô   ‹‹€  º   ‹ÿ‘Ô   ‹‹€T  ºà  ‹ÿ‘ä   è    ƒÄøİ$›‹‹€   ‹ÿ’Ä   è    ƒÄøİ$›‹‹€$  ‹ÿ’Ä   ‹‹€  ‹ÿ’¤  ‹‹€  3Ò‹ÿ‘   ‹Ãè    ‹ƒ\  ‹ÿ’è   ^[Ã ° ÿÿÿÿ   G E N _ P E D I D O S _ T E M P _ I D   ° ÿÿÿÿ
+   C o n s u m i d o r     U‹ìj SV‹    3ÀUhş   dÿ0d‰ ‹    ‹	²¡    è    ‰‹‹€¤  f¾ìÿè    ‹‹ÿ’  H„Š   ¡    ‹ ‹€  è    ‹‹€¸  ‹ÿRd‹Ğ¡    ‹ ‹€  ‹ÿ‘Ô   Uü‹‹€Ä  ‹ÿQt‹Uü¡    ‹ ‹€T  ‹ÿ‘ä   ¡    ‹ ‹€  ‹ÿ’¤  ¡    ‹ ‹€  3Ò‹ÿ‘   ‹è    3À‰3ÀZYYd‰h  Eüè    Ãé    ëğ^[Y]ÃU‹ìj j SV‹ğ‹    3ÀUhP  dÿ0d‰ ‹    ‹	²¡    è    ‰‹‹€œ  è    ‹‹€ˆ  3Ò‹ÿ‘¨  ‹‹€ˆ  ‹€8  ‹ÿRD‹‹€ˆ  ‹€8  ºl  ‹ÿQ8‹‹€ˆ  ‹€8  ºĞ  ‹ÿQ8‹‹€ˆ  ‹€8  º0  ‹ÿQ8‹‹€ˆ  ‹€8  ºt  ‹ÿQ8h  Uø¡    ‹ ‹€`  ‹ÿQtÿuøhT  Eüº   è    ‹Uü‹‹€ˆ  ‹€8  ‹ÿQ8‹‹€Œ  è    ‹‹ÿ’  ‹è    3À‰‹Æè    3ÀZYYd‰hW  Eøº   è    Ãé    ëë^[YY]Ã   ° ÿÿÿÿ+   s e l e c t   p p . c d p e d i d o s _ p a g a m e n t o ,   p p . c d p e d i d o ,   ° ÿÿÿÿ(   p p . c d p a g a m e n t o , p p . v a l o r _ p a g o , p . p a g a m e n t o     ° ÿÿÿÿ   f r o m   p e d i d o s _ p a g a m e n t o   p p       ° ÿÿÿÿ@   l e f t   j o i n   p a g a m e n t o s   p   o n   p . c d p a g a m e n t o   =   p p . c d p e d i d o s _ p a g a m e n t o     ° ÿÿÿÿ    w h e r e   p p . c d p e d i d o s _ p a g a m e n t o   =   '     ° ÿÿÿÿ   '       è    ÃU‹ì¹
+   j j IuùQSV‹Ø3ÀUhZ  dÿ0d‰ UÌ‹ƒ\  è    ƒ}Ì „À  ‹ƒ\  €¸|   …­  ‹ƒ   è    3Ò‹ƒœ  ‹ÿ‘¨  ‹ƒœ  ‹€8  ‹ÿRD‹ƒœ  ‹€8  ºt  ‹ÿQ8h´  UÄ‹ƒ\  è    ÿuÄhè  EÈº   è    ‹UÈ‹ƒœ  ‹€8  ‹ÿQ8hü  U¼‹ƒ\  è    ÿu¼h0  EÀº   è    ‹UÀ‹ƒœ  ‹€8  ‹ÿQ8‹ƒ   è    ‹“   ‹Â‹HX;HTŒ\  ‹Âè    3Ò‹ƒœ  ‹ÿ‘¨  ‹ƒœ  ‹€8  ‹ÿRD‹ƒœ  ‹€8  ºt  ‹ÿQ8hD  U´‹ƒ\  è    ÿu´h   E¸º   è    ‹U¸‹ƒœ  ‹€8  ‹ÿQ8‹ƒ   è    ‹³   ‹Æ‹PX;PT|+j ¹¬  º¼  ¡    ‹ è    ‹ƒ\  ‹ÿ’è   é  ‹Æ‹ÿ’|  H~ ²‹ƒˆ  è    ‹ƒˆ  ‹ÿ’è   éç   U°‹ƒ\  ‹ÿQt‹U°‹ƒ  è    ‹ƒd  ‹ÿR\Û}à›·EèPÿuäÿuà¡    PEüP¹   º   °è    ‹Uü‹ƒ`  è    ‹ƒh  ‹ÿ’è   ëxU¬‹ƒ\  ‹ÿQt‹U¬‹ƒ  è    ‹ƒd  ‹ÿR\Û}Ğ›·EØPÿuÔÿuĞ¡    PEøP¹   º   °è    ‹Uø‹ƒ`  è    ‹ƒ`  è    ‹ƒ`  ‹ÿ’è   3ÀZYYd‰ha  E¬º   è    E´è    E¸è    E¼è    EÀè    EÄè    EÈè    EÌè    Eøº   è    Ãé    ë¦^[‹å]Ã ° ÿÿÿÿ   s e l e c t   *   f r o m   p r o d u t o s   p     ° ÿÿÿÿ   w h e r e   p . c d b a r r a s   = '   ° ÿÿÿÿ   '       ° ÿÿÿÿ   o r   ( p . c d i n t e r n o     = '   ° ÿÿÿÿ   ' )     ° ÿÿÿÿ&   w h e r e   u p p e r   ( p . d e s c r i c a o )   l i k e   u p p e r ( '     ° ÿÿÿÿ   % ' )       A v i s o .     N e n h u m   P r o d u t o   E n c o n t r a d o .     SVWƒÄà‹Ù¾<   ‹ü¹   ó¥·f=ÿ w·À£$’À„ÀufÇ  ƒÄ _^[Ã       ÿ                        U‹ì¹   j j IuùVW‹ğ‹=    3ÀUh4  dÿ0d‰ •lÿÿÿ‹†`  è    ‹…lÿÿÿj j j ‹    è    Û}Ğ›ÛmĞØD  ›ßà„“  •hÿÿÿ‹†`  è    ‹…hÿÿÿ‹    è    Û}À›ÛmÀİ]è›•dÿÿÿ‹†h  è    ‹…dÿÿÿ‹    è    Û}°›Ûm°İ]à›‹‹€¤  è    ¸T  è    ‹Ğ‹‹€ä  ‹ÿ‘Ô   ‹‹€`  ‹ÿRd‹Ğ‹‹€è  ‹ÿ‘Ô   ‹†D  ‹ÿRd‹Ğ‹‹€¨  ‹ÿ‘Ô   ÿuìÿuè‹‹€¬  ‹ÿ’Ì   •`ÿÿÿ‹†h  è    ‹…`ÿÿÿ‹    è    Û} ›Ûm ƒÄøİ$›‹‹€°  ‹ÿ’Ì   İEèÜMàƒÄøİ$›‹‹€´  ‹ÿ’Ì   İEèÜMàƒÄøİ$›‹‹€¸  ‹ÿ’Ì   •\ÿÿÿ‹†d  è    ‹…\ÿÿÿ‹    è    Û}›ÛmƒÄøİ$›‹‹€¼  ‹ÿ’Ì   j j ‹‹€À  ‹ÿ’Ì   ‹    B‹‹€È  ‹ÿ‘Ô   •Xÿÿÿ‹†\  ‹ÿQt‹•Xÿÿÿ‹‹€Ì  ‹ÿ‘ä   ‹‹€¤  ‹ÿ’¤  ‹‹€¤  3Ò‹ÿ‘   h”  …PÿÿÿP•Lÿÿÿ¡    è    ‹…Lÿÿÿ±º   è    ÿµPÿÿÿh¤  •Hÿÿÿ‹†P  ‹ÿQtÿµHÿÿÿh¤  •Dÿÿÿ‹‹€Ì  ‹ÿQtÿµDÿÿÿ…Tÿÿÿº   è    ‹…TÿÿÿP‹†à  è    Z‹ÿQ8‹†à  è    ‰…|ÿÿÿİEàƒÄôÛ<$›Uü¡    è    İEèƒÄôÛ<$›¡    PEøP¹   º   °è    ‹‹€´  ‹ÿR\Û}€›·EˆPÿu„ÿu€¡    PEôP¹   º   °è    h¸  h”  …<ÿÿÿP±º   ‹Eüè    ÿµ<ÿÿÿh¸  •8ÿÿÿ‹‹€Ğ  ‹ÿQtÿµ8ÿÿÿhĞ  ÿuøhè  ÿuô…@ÿÿÿº   è    ‹•@ÿÿÿ‹…|ÿÿÿ‹ÿQ8‹‹€  è    ‹‹€<  ‹ÿR\İ0ÿÿÿ›‹‹€´  ‹ÿR\Ü…0ÿÿÿƒÄøİ$›‹‹€<  ‹ÿ’Ì   ‹‹€  ‹ÿ’¤  ‹‹€  3Ò‹ÿ‘   3Ò‹†\  è    º  ‹†`  è    º”  ‹†d  è    º(  ‹†h  è    ‹‹€<  ‹ÿR\Û½pÿÿÿ›·…xÿÿÿPÿµtÿÿÿÿµpÿÿÿMğ‹    ¸8  è    ‹Uğ‹†l  è    ‹†\  ‹ÿ’è   3ÀZYYd‰h;  …8ÿÿÿº	   è    …\ÿÿÿº   è    Eğº   è    Ãé    ëË_^‹å]Ã       ° ÿÿÿÿ   G E N _ P E D I D O _ I T E N S _ T E M P _ I D     ° ÿÿÿÿ   0   ° ÿÿÿÿ           ° ÿÿÿÿ               ° ÿÿÿÿ       x       ° ÿÿÿÿ                               ° ÿÿÿÿ   0 , 0 0     ° ÿÿÿÿ   1   ° ÿÿÿÿ   # # , # # # , # # 0 . 0 0   SVWƒÄà‹Ù¾<   ‹ü¹   ó¥·f=ÿ w·À£$’À„ÀufÇ  ƒÄ _^[Ã       ÿ                        SVWƒÄà‹Ù¾<   ‹ü¹   ó¥·f=ÿ w·À£$’À„ÀufÇ  ƒÄ _^[Ã       ÿ                        U‹ìƒÄğS3É‰Mü‹Ø3ÀUh¶   dÿ0d‰ ²‹ƒÀ  è    è    İ]ğ›ÿuôÿuğUü¡    è    ‹Uü‹ƒÄ  è    ¡    ‹ ‹@x‹ÿRdHu‹Ãè    ²‹ƒ\  è    ²‹ƒ`  è    ²‹ƒd  è    ²‹ƒh  è    3ÀZYYd‰h½   Eüè    Ãé    ëğ[‹å]ÃÆÃU‹ìSVW‹Ù‹øfƒ;pu‹‡Ì  f¾ìÿè    fƒ;qu‹‡Ğ  f¾ìÿè    fƒ;ru‹‡  f¾ìÿè    fƒ;su‹‡°  f¾ìÿè    fƒ;tu‹‡Ø  f¾ìÿè    fƒ;tu‹‡Ô  f¾ìÿè    fƒ;tu‹Çè    _^[]Â SV‹Ù‹ğfƒ;ufÇ  j 3Éº(   ‹Æè    fƒ;u‹Æè    ^[ÃU‹ìƒÄğS3É‰Mü‹Ø3ÀUh\   dÿ0d‰ è    İ]ğ›ÿuôÿuğUü¡    è    ‹Uü‹ƒ¼  è    3ÀZYYd‰hc   Eüè    Ãé    ëğ[‹å]Ãÿ    Ãƒ-    Ãm‘	    ¡}aeMEø”ÔŒ-9=’¢ ¤ÆuyÈ°´Ê	ÌÎĞÒ%!Ö1ØÚ¾ÀÂÄiî¦òôö¨ªúü¬®²¶¸º¼Qmq5ğş)AIUY]*½.M*A.5.Í,M*A.5.Í,$Y$Y$],*‘4*Y$¡6¡2¡>¡<¡,±*M(5,A,Í*M$5(A(Í&Å&¡4Ñ<Ñ@Ñ>Ñ>Õ4Ù4İ2áBá<İ<İ>á@Ñ@ÑBÑ@ÑFÑ@å>Ñ<ÑBå@İDİDİJİ:İFİBÑ<İ4İ6å6åJİ>İ>İFå@åLåH$Å&Y$¡:Y$Ñ@Ñ@å6å<å>å:å:å:å4å2å>å8ÕHÑDÑ4å8İJÑ@åJ0a$a$ÑBÑ8Ñ:áDİ.á>á8İ8İ:Ñ<Ñ8e(Y$Y$$$$&$¡2¡(¡.¡$¡2$¡"¡"*&á&)40,$U"í6>ù2õ Å.94©*$ÁQE9é¥im•¥µÉíñõùıqu©6¡  á6¡&)D¡&@¡&<¡&4¡ 
+Š$U2¡&íF¡&N¡&ùB¡&õ0¡ ì&Å>¡  9D¡  ©:¡  Ù0¡"á.¡"ÉB¡ ¡ ¡ê* © ÉÉ
+TÉ
+…` 
+">v Ù,Ù"¹H¹<Ù@$¹<Ùf$¹Ù0Ù@$¹"¹
+Ù@¹
+Ù$¹
+Ù ¹
+Ù ¹
+Ù ¹
+Ù$Ù&( á á"á
+á
+…(
+á
+édVX€N
+á
+é©bá*Zá$¤á*Zá$já&(¹ íœ­­­­©"Ş
+í
+é¼íV8X€ÙÜ ùù
+=&2,!(P**2‰"ù4( õı
+=p000*$F"‰á&(- 
+ 0(âP%dâ$2â$>6%dâ$>.
+
+…ZŞ^ä>f,däXä>f,dä±6&4444444&(e 99¦ U*U.â$f
+vU6âf
+x8âf
+x0
+U
+éêâf
+xÒâf
+xp©¾U$©
+Z$íU8UR$$¹"¹0f
+zf,dBf,d
+U
+U,íU<UU&$<!Úä
+Uä
+Uä
+Uäbf
+U
+|ä6U & &&(} ©©¦ ÅÅ¦ á$á&™
+V$f
+€ä
+(É­­­­á4( õ 62*2*2*2*2*2 :æ )$)X$f
+„ä)4( =­
+ ­ ‘-	 “""  -á  1)  5  9  =  AU  Eí  I  Mù  Qõ  UÅ  Y9  ]©  aÙ  uá  yÉ  a

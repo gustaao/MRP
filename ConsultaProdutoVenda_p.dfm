@@ -1,0 +1,543 @@
+object ConsultaProdutoVenda: TConsultaProdutoVenda
+  Left = 0
+  Top = 0
+  Caption = 
+    'MRP Com'#233'rcio - Sistema de Gerenciamento Comercial [Pesquisa Prod' +
+    'utos]'
+  ClientHeight = 377
+  ClientWidth = 1040
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  KeyPreview = True
+  OldCreateOrder = False
+  Position = poDesktopCenter
+  OnKeyPress = FormKeyPress
+  PixelsPerInch = 96
+  TextHeight = 13
+  object DBGrid1: TDBGrid
+    Left = 0
+    Top = 0
+    Width = 1040
+    Height = 252
+    Align = alClient
+    DataSource = dsProdutos
+    TabOrder = 0
+    TitleFont.Charset = DEFAULT_CHARSET
+    TitleFont.Color = clWindowText
+    TitleFont.Height = -11
+    TitleFont.Name = 'Tahoma'
+    TitleFont.Style = []
+    Columns = <
+      item
+        Expanded = False
+        FieldName = 'CDINTERNO'
+        Title.Alignment = taCenter
+        Visible = True
+      end
+      item
+        Expanded = False
+        FieldName = 'CDBARRAS'
+        Title.Alignment = taCenter
+        Width = 77
+        Visible = True
+      end
+      item
+        Expanded = False
+        FieldName = 'GRUPO'
+        Title.Alignment = taCenter
+        Width = 122
+        Visible = True
+      end
+      item
+        Expanded = False
+        FieldName = 'SUBGRUPO'
+        Title.Alignment = taCenter
+        Width = 112
+        Visible = True
+      end
+      item
+        Expanded = False
+        FieldName = 'DESCRICAO'
+        Title.Alignment = taCenter
+        Width = 226
+        Visible = True
+      end
+      item
+        Expanded = False
+        FieldName = 'VALOR_VENDA'
+        Title.Alignment = taCenter
+        Width = 104
+        Visible = True
+      end
+      item
+        Expanded = False
+        FieldName = 'ESTOQUE_QTD'
+        Title.Alignment = taCenter
+        Width = 79
+        Visible = True
+      end
+      item
+        Expanded = False
+        FieldName = 'APLICACAO'
+        Title.Alignment = taCenter
+        Width = 230
+        Visible = True
+      end>
+  end
+  object PanelButton: TPanel
+    Left = 0
+    Top = 252
+    Width = 1040
+    Height = 48
+    Align = alBottom
+    BevelOuter = bvNone
+    TabOrder = 1
+    object Label1: TLabel
+      Left = 9
+      Top = 4
+      Width = 45
+      Height = 13
+      Caption = 'Aplica'#231#227'o'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clBlue
+      Font.Height = -11
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+    end
+    object DBEdit1: TDBEdit
+      Left = 8
+      Top = 20
+      Width = 791
+      Height = 21
+      TabStop = False
+      DataField = 'APLICACAO'
+      DataSource = dsProdutos
+      Enabled = False
+      ReadOnly = True
+      TabOrder = 0
+    end
+  end
+  object Panel2: TPanel
+    Left = 0
+    Top = 300
+    Width = 1040
+    Height = 77
+    Align = alBottom
+    TabOrder = 2
+    object RadioGroupPesquisa: TRadioGroup
+      Left = 2
+      Top = 0
+      Width = 345
+      Height = 76
+      Caption = 'Pesquisa'
+      Columns = 3
+      ItemIndex = 0
+      Items.Strings = (
+        'C'#243'digo Interno'
+        'C'#243'digo de Barras'
+        'Descri'#231#227'o'
+        'Grupo'
+        'Subgrupo'
+        'Fornecedor'
+        'Aplica'#231#227'o')
+      TabOrder = 0
+      OnClick = RadioGroupPesquisaClick
+    end
+    object GroupBox2: TGroupBox
+      Left = 677
+      Top = 5
+      Width = 123
+      Height = 67
+      TabOrder = 1
+      object BitBtnSair: TBitBtn
+        Left = 24
+        Top = 23
+        Width = 76
+        Height = 30
+        Hint = 'Mostra Geral (s/ Pedidos Baixados)'
+        Caption = '&Sair'
+        DoubleBuffered = True
+        Glyph.Data = {
+          AA040000424DAA04000000000000360000002800000013000000130000000100
+          18000000000074040000C40E0000C40E00000000000000000000FFFFFFFFFFFF
+          FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+          FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFF
+          FFFFDFDEDE6C6E6F2932332734312D36352F39382F3A382F39382F39382F3938
+          2E3938303A392532303F4140FCF9F9000000FFFFFFFFFFFFFFFFFFFEFEFEB2B0
+          B06874735A8E8923766D025C53005950005D5100615600625700625700645A00
+          645A02786D000600CDC2C4000000FFFFFFFFFFFFFFFFFFFFFFFFBABBB68B8887
+          C8BCBEB3B5B474928E396A6718524C19544F205954245E5826605A28615A3475
+          70000B06CFC7CA000000FFFFFFFEFEFEFDFDFEDCDCF29292A37E8178A7A7A5B3
+          AFB0B6B1B19D9E9E69787638524F2A434128423F304846324A48405E5A000000
+          CFCCCC000000FFFFFFFFFFFDFDFDF18A8ACD1F1F8E6D6D7BA2A2979E9E9FA3A3
+          A4AAA6A6A09D9D8385846163643F42423739383A3C3C4B4F4E000000CECECE00
+          0000FEFEFFD5D5E1CFCFCF6363B40303B53636A582828A99998F9A9A9A9C9D9D
+          9595959493938988885D5C5C3636353736364A4848000000CECECE000000D4D4
+          ED0F0FA95454C43C3CBE2222D11414CD3A3A9F98988C9F9F979A9A9C9393938B
+          8B8B8888885F5F5F333333333333454444000000CECECE000000CCCCE80000B4
+          0000D30000CB0101CB0000CE0D0DCC3131A6B3B3999B9B998E8E908686868181
+          815D5D5D323232303030414141000000CFCFCF000000CECEE90303B90303D200
+          00C70101CA1111CF1B1BD62A2ADD1414AAB0B0928E8E8F9F9F9F8686864E4E4E
+          2F2F2F2D2D2D3C3C3C000000CFCFCF000000C6C6E82C2CC45454E24B4BDB4E4E
+          DB4848D75757E13E3ED362629EA1A1908A8A8C8F8F8FA4A4A45B5B5B2626262A
+          2A2A383838000000D0D0D0000000C4C4E71B1BB76B6BDC6767D87373E26E6EE6
+          5757CB6E6E9DACAC969191918989898181819494947171712727272626263636
+          36000000CFCFCF000000E1E1F35F5FC27F7FCF5858C27D7DDC7878D86E6EA6A1
+          A19A9898978F8F8F888888868686888888545454242424232323323232000000
+          D0D0D0000000FFFFFFFFFFFFFFFFFF8A8AD63737AD7676A9A6A6A4A2A29D9494
+          948D8D8D8585857E7E7E7575754D4D4D2222222020202E2E2E000000D1D1D100
+          0000FFFFFFFFFFFFF8F8FD9D9DDF515197848486AAAAA49A9A9A8C8C8C848484
+          7C7C7C7676767272724B4B4B1E1E1E1E1E1E292929000000D1D1D1000000FFFF
+          FFFFFFFFFEFEFFF4F4FBB0B0B180807C9A9A9A8E8E8E8181817979797171716B
+          6B6B6868684646461C1C1C1B1B1B252525000000D1D1D1000000FFFFFFFFFFFF
+          FFFFFFFFFFFEB5B5B380807FA7A7A79D9D9D8E8E8E8484847C7C7C7676767373
+          734E4E4E1F1F1F1D1D1D292929000000CECECE000000FFFFFFFFFFFFFFFFFFFF
+          FFFFBABABA4040402828281F1F1F1717170F0F0F0A0A0A070707020202000000
+          000000000000000000000000DCDCDC000000FFFFFFFFFFFFFFFFFFFFFFFFFCFC
+          FCDADADAC3C3C3C5C5C5C8C8C8C8C8C8CACACAC9C9C9CBCBCBCECECED3D3D3D4
+          D4D4CECECEDBDBDBFFFFFF000000}
+        ParentDoubleBuffered = False
+        ParentShowHint = False
+        ShowHint = True
+        TabOrder = 0
+        OnClick = BitBtnSairClick
+      end
+    end
+    object GroupBox1: TGroupBox
+      Left = 351
+      Top = 0
+      Width = 322
+      Height = 75
+      Caption = 'Digite o texto para busca:'
+      TabOrder = 2
+      TabStop = True
+      object MaskEditPesquisa: TMaskEdit
+        Left = 9
+        Top = 33
+        Width = 166
+        Height = 24
+        CharCase = ecUpperCase
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clWindowText
+        Font.Height = -15
+        Font.Name = 'MS Sans Serif'
+        Font.Style = []
+        ParentFont = False
+        TabOrder = 0
+      end
+      object BitBtnOK: TJvXPButton
+        Left = 183
+        Top = 28
+        Width = 62
+        Height = 30
+        Caption = '&OK'
+        TabOrder = 1
+        Glyph.Data = {
+          07544269746D617076060000424D760600000000000036040000280000001800
+          0000180000000100080000000000400200000000000000000000000100000001
+          0000FF00FF00045379004551590068535800765857007A5856007A6362007B65
+          63007A696D0075706D006D6E7400706C7D00864A4300804A4400814C4700824E
+          4900844F4B0087534D008E5C58008E665F0093665C0095675C0096685E008269
+          6900976960009A6860009E6E67009F7369008A7376008F737600877078008972
+          780093757B00A0746B00A5746900A0766C00A9776A00A77E6D00AA7A6D00AA79
+          7400B2817700B1867900B5907D00BD957E00EAA36500E9AB6B00EAAB6C00EDAF
+          6D00EBAF7400EBB07600045982001A5E8000175A97001F5D9700185A99000562
+          8F000163910005669500036C9C00046D9E000A6E9A000B709D003B608200175E
+          A5001A5DA7000271A5000274A9000578AC00037FB700486B8B00507683006E79
+          81001F73CF000C67D3001073EA001074F0001680A7001C86AB001D8BB4001C95
+          BB00248FB600289CBC003297B400438297007F8489004D9CBB0041A0BC006CAC
+          BD00099ACE001195C10016A9D70019ACD70026ABCF003AAFC7003FB4CB003FB1
+          D30033B8DC00358AE7003A8EE5003590EE002D8CF2002B93FE002F9CFF00359E
+          FF00389FFF0014B1E2001BB6E00012BDEF0025BBE30027BFE2002BB8E2003CA7
+          FC0035AAFF004490C70044A9C50045ACCE0054B1CA0062AFC90066BBCE0044BD
+          E10040ABFB0040ABFC0041AFFF004AB0FA0018C1EF000CC2F7000DC5FB000DC7
+          FE0019C9F8001ACCFE0036C7ED0025D7FE003AD3FB003DD3FB0053C2DD006CC7
+          DC0049CEE2005BD5E2005CD5E2005BD4F00050DAF00070CFE50063D5E20069D5
+          E2007BD5E20045E6FE0056EEFE006AEFF7007DE9FE007AEEFE0066F2FB0069F6
+          FE0076F3FA007FF7FE007BFCFE0080808400B18E8400CBA48A00CEA58C00D0A7
+          8C00CFAF9000D3B29A00DCB89800F0BF8000E3BD9500C9ACA400D5BFBD00EFC0
+          8600F0C48B00F4C78900F8CB8800E2C79C00F3CF9300F0C99700F4CE9800FBD5
+          9000F4D19900FFDE9A00FFDD9D00FFE19C00D9C1A700DAC7A700DDCCB400EACC
+          A000EFD7A700F6DDA500E3D3B600FDE2A500FFEBA700F7E3AF00FFEDAB00FEEE
+          B200F8EBB600FCEBB600FCEEB600FEF2B2008BABC7008ED5E300B2D5E30081FF
+          FE0087FFFE008EFFFE0092F7FE009FF7FF0095FFFE0098FAFE009FFFFE00A0E9
+          EF00AAEEF600A6FFFE00BAFFFE00F2E7C200F2EDCD00FCF3C100FEF7C500FFFE
+          C500FDFAC900FFFFCB00FFFFCD00FBF4D000FFFFD100FFFFD400FFFFD900FEFC
+          DD00C1FFFF00D5FFFF00DDFFFF00FEF4E500FFFFE600FFFFEB00EBF4F800F2FF
+          FF00FFFFFA00F8FFFF00FFFFFE00000000000000000000000000000000000000
+          0000000000000000000000000000000000000000000000000000000000000000
+          0000000000000000000000000000000000000000000000000000000000000000
+          000000000000000000000000000000000000000000000B020900000000000000
+          000000000000000000000000001E3F4054000000003939393939393939390000
+          000000001F344B707100003939595958696E7773503D37370000001C364A6878
+          6200394C8891837F81848B87724E3B3232001C354A677861000042899791837F
+          81828676564D3B3901203E4965786300000042899791837F7C60271A211B160D
+          014548676F640000000042899791837D521729B4D3DBBA2A0508C47B64000000
+          000042899791835B17A5E4DDDDDDDEDDAB281A64000000000000428997918346
+          9CEAE4D7D9D9D9C2BEA40D00000000000000428999959513B6E5DDD9D9DDDDBD
+          A9BB260D00000000000042CFD08D5F16D4D9D9DDD9D9DDB930B29E1000000000
+          00004174515C6A16DEDDD9D9DDDDD5A72CB2A2100000000000003B5E96918316
+          D4D9DDD9DDD5B02E2EBC9E10000000000000418997918306B4DDD9D9C2ACA3AC
+          C2C2240D00000000000042899791835325D7BBA7302EAEE3EAA1100000000000
+          000042899791836B0A2BC3B3AAAFD9EAA612100000000000000042899791837F
+          6C47219FB7B8A0210310000000000000000042899791837F8184579B06041010
+          33000000000000000000428ECDCBCACCC7C7C7C7988C5A443900000000000000
+          000042C6EAE2E0D1CCC7C7C7C79A926C390000000000000000004255E6E7E1D2
+          CDC7C7C7C7C7934F390000000000000000000042437575C5908F89895D5D3C39
+          0000000000000000000000000042424242424242424200000000000000000000
+          0000}
+        OnClick = BitBtnOKClick
+      end
+      object BitBtnGeral: TJvXPButton
+        Left = 251
+        Top = 28
+        Width = 62
+        Height = 30
+        Caption = '&Geral'
+        TabOrder = 2
+        Glyph.Data = {
+          07544269746D6170BE050000424DBE050000000000007E030000280000001800
+          000018000000010008000000000040020000120B0000120B0000D2000000D200
+          000000000000FFFFFF00FF00FF0082FFFE0080FBFA0084FFFE0083FEFC0087FF
+          FE0096FFFE00ACFFFE0082FFFF0080FBFB0083FFFF0084FFFF0083FEFE0088FF
+          FF008AFFFF0089FCFC009FFFFF00C2FFFF00EDFFFF0067FCFF007AFAFE0076F0
+          F400CEFEFF0064F6FF0064F7FF006EF6FF0068E5ED006AE3EB0090FAFF00BAFC
+          FF005DF4FF005CEEFB0060F4FF0062F4FF005DDCE7005DDDE7005FDDE70060DD
+          E70063E0E90074E2EA0077E3ED0058D5E2005ED9E50090E3ED0039E6FF0043CE
+          E20048DCF2004FC6D70070EDFF0079E9FA0073DDED009CE1EB0036E2FF003DE2
+          FF0037C1DA004EE5FE006EE7FA0079EBFF006BD0E20027C7EA002EDDFE0033DA
+          FE0033DEFE0035DEFE003DDEFF003BD7F60038C5E10037C1DC004DE0FF004AD8
+          F6004EE3FF004EE2FE005ACAE2005CCAE20069E5FF005DCBE2006AE6FF005ECC
+          E20078E2F70089D4E20095D7E50012CFFF0024D3FF0036D7FF0035CFF60037D1
+          F80039D7FF003AD9FF0038D1F6003AB0CA0049C7E70042B5D10041ADC70060D7
+          F20066E2FF0066E3FF005FD0EA005DCCE50068E3FF0075E0F8005EB4C7005CB0
+          C40076E0F80062BACF0078E2FA005EB2C5007AE3FB0060B2C5006AC5D90083E5
+          FB0067B4C50088C0CE000EC4F6000FCBFE0011CCFF0011CBFE0012C9FE0012C7
+          FC0014CBFF0014CCFF0014CAFE0014CBFE0014C9FC001ED1FF001CADD50024D1
+          FE0030C5EE002EBFE60035D4FF0034D0FB0037CFF6003FB5D50053CCED004BB8
+          D5004095AD006CD7F30055A9BF006FD5EF0075DDF80068C4DC0099D8E9009EDC
+          ED000CC7FE000FC6FE000FC5FC000DA6D80012B7EA0012B6E90018ABD800169F
+          C90018A0CC003BB7E0003096B7003DB8E00040BCE5003FBBE20045BDE20050BC
+          DC007ACFE90079CEE7007FCFE7008CD0E60088C9DE0089C4D7007DACBA000C92
+          C4000C91C2001392C1002295BF002DA7D1002D9FC600288EB0003AB5DE002E8B
+          AA0040A4C90042A7CA0049B4DA0035839F0048A5C7000B91C7000C93CA000C91
+          C7000D92C900119ACE000F84B100138CBA0059ADCF000274A9000273A700026E
+          A00002628E0002608C00037EB400076E9A000A8EC6001790C400007DBA00007A
+          B700007BB7000079B6000078B50000659700005B88000175AC00026DA0000B7A
+          AF009AC2D500FFFFFF0002020202020202020202020202BDBDBDBDBDBDBD0202
+          02020202020202020202020202BDBD7E939480869FAABDBD0202020202020202
+          02020202BD5B212E5379594E6C9CB6CDBD0202020202020202020202BD1C1A41
+          757A5864689BB7C6BD0202020202020202020202BD272341757A5864689BB7C8
+          BD0202020202BDBDBDBECEC1BD272240737655616599B5C8BD020202BDBD7E93
+          95818788BD2419377D54463B6F9EB8C9BD0202BD5B212E537B5A4F6DBD2A1E50
+          8BA0A38E8FA2B2C5BD0202BD1C1A41757C844B67BD516E8598A7A9ACB1B0B4BC
+          BD0202BD272341757C844B67BD5E383D7279424E89ABC2CFBD0202BD27224073
+          77564A67BD2B15367478584C6A9DB6CABD0202BD2419377D7F473C70BD282341
+          757A5864689BB7C8BD0202BD2A1E508BA1A471A6BD272341757A5864689BB7C8
+          BD0202BD516E8598A8BBADB3BD26203E909182608CAEC4C7BD0202BD5E383D72
+          7B434F8ABD251B393F3F4832335CB9C9BD0202BD2B1536747A844D6BBD35181F
+          0908070503163096BD0202BD282341757C846366BDD0011413120F0C0D100A44
+          BD0202BD272341757C576269AFBDBDA5522D291D2C31BDBD020202BD26203E90
+          92835F8D9AC3CCBDBDBDBDBDBDBD0202020202BD251B393F3F493A345DBACBC0
+          0202020202020202020202BD35181F0908070604172F97BF0202020202020202
+          020202BDD0011413120F0C0E110B45BE020202020202020202020202BDBDA552
+          2D291D2C31BEBE020202020202020202020202020202BDBDBDBDBDBDBD020202
+          02020202020202020202}
+        OnClick = BitBtnGeralClick
+      end
+    end
+  end
+  object qProdutos: TSQLQuery
+    MaxBlobSize = -1
+    Params = <>
+    SQL.Strings = (
+      'select p.cdproduto, p.cdfornecedor, p.cdinterno,'
+      '       p.cdbarras, p.cdgrupo, p.cdsubgrupo, p.descricao,'
+      '       p.valor_custo, p.valor_venda, p.valor_contabil,'
+      '       p.margem, p.unid_entrada, p.unid_saida, p.servico,'
+      
+        '       p.ipi, p.icms, p.cfop, p.sit_tributaria, grupo.descricao ' +
+        'as grupo,'
+      
+        '       subgrupos.descricao as subgrupo, f.apelido, tipo_un_entra' +
+        'da, '
+      
+        '       tipo_un_saida, cdcentro_custo, estoque_qtd, estoque_minim' +
+        'o,'
+      '       p.uso_consumo, p.aplicacao, f.apelido as fornecedor'
+      ''
+      'from produtos p'
+      'inner join grupo on grupo.cdgrupo = p.cdgrupo'
+      'inner join subgrupos on subgrupos.cdsubgrupo = p.cdsubgrupo'
+      'inner join fornecedores f on f.cdfornecedor = p.cdfornecedor'
+      '')
+    SQLConnection = DMPrincipal.SQLCon
+    Left = 886
+    Top = 180
+  end
+  object dspProdutos: TDataSetProvider
+    DataSet = qProdutos
+    UpdateMode = upWhereKeyOnly
+    Left = 883
+    Top = 127
+  end
+  object cdsProdutos: TClientDataSet
+    Aggregates = <>
+    Params = <>
+    ProviderName = 'dspProdutos'
+    Left = 886
+    Top = 83
+    object cdsProdutosCDPRODUTO: TIntegerField
+      DisplayLabel = 'C'#243'digo:'
+      FieldName = 'CDPRODUTO'
+      Required = True
+    end
+    object cdsProdutosCDFORNECEDOR: TIntegerField
+      DisplayLabel = 'C'#243'd. Fornecedor:'
+      FieldName = 'CDFORNECEDOR'
+    end
+    object cdsProdutosCDINTERNO: TStringField
+      DisplayLabel = 'C'#243'd. Interno'
+      FieldName = 'CDINTERNO'
+      Size = 8
+    end
+    object cdsProdutosCDBARRAS: TStringField
+      DisplayLabel = 'C'#243'd. Barras:'
+      FieldName = 'CDBARRAS'
+      Size = 15
+    end
+    object cdsProdutosCDGRUPO: TIntegerField
+      DisplayLabel = 'C'#243'd. Grupo'
+      FieldName = 'CDGRUPO'
+    end
+    object cdsProdutosCDSUBGRUPO: TIntegerField
+      DisplayLabel = 'C'#243'd. SubGrupo:'
+      FieldName = 'CDSUBGRUPO'
+    end
+    object cdsProdutosDESCRICAO: TStringField
+      DisplayLabel = 'Produto'
+      FieldName = 'DESCRICAO'
+      Size = 100
+    end
+    object cdsProdutosVALOR_CUSTO: TFloatField
+      DisplayLabel = 'Custo:'
+      FieldName = 'VALOR_CUSTO'
+      DisplayFormat = '###,###,#0.00'
+    end
+    object cdsProdutosVALOR_VENDA: TFloatField
+      DisplayLabel = 'Valor Venda:'
+      FieldName = 'VALOR_VENDA'
+      DisplayFormat = '###,###,#0.00'
+    end
+    object cdsProdutosVALOR_CONTABIL: TFloatField
+      DisplayLabel = 'Valor Cont'#225'bil'
+      FieldName = 'VALOR_CONTABIL'
+      DisplayFormat = '###,###,#0.00'
+    end
+    object cdsProdutosMARGEM: TFloatField
+      DisplayLabel = 'Margem:'
+      FieldName = 'MARGEM'
+      DisplayFormat = '###,###,#0.00'
+    end
+    object cdsProdutosUNID_ENTRADA: TFloatField
+      DisplayLabel = 'Unid. Entrada:'
+      FieldName = 'UNID_ENTRADA'
+      DisplayFormat = '###,###,#0.00'
+    end
+    object cdsProdutosUNID_SAIDA: TFloatField
+      DisplayLabel = 'Unid. Sa'#237'da:'
+      FieldName = 'UNID_SAIDA'
+      DisplayFormat = '###,###,#0.00'
+    end
+    object cdsProdutosSERVICO: TIntegerField
+      DisplayLabel = 'Servi'#231'o:'
+      FieldName = 'SERVICO'
+    end
+    object cdsProdutosIPI: TFloatField
+      DisplayLabel = 'IPI:'
+      FieldName = 'IPI'
+      DisplayFormat = '###,###,#0.00'
+    end
+    object cdsProdutosICMS: TFloatField
+      DisplayLabel = 'ICMS:'
+      FieldName = 'ICMS'
+      DisplayFormat = '###,###,#0.00'
+    end
+    object cdsProdutosCFOP: TStringField
+      DisplayLabel = 'CFOP:'
+      FieldName = 'CFOP'
+      FixedChar = True
+      Size = 4
+    end
+    object cdsProdutosSIT_TRIBUTARIA: TStringField
+      DisplayLabel = 'Sit. Tribut'#225'ria:'
+      FieldName = 'SIT_TRIBUTARIA'
+      Size = 10
+    end
+    object cdsProdutosGRUPO: TStringField
+      DisplayLabel = 'Grupo:'
+      FieldName = 'GRUPO'
+      Size = 50
+    end
+    object cdsProdutosSUBGRUPO: TStringField
+      DisplayLabel = 'SubGrupo:'
+      FieldName = 'SUBGRUPO'
+      Size = 50
+    end
+    object cdsProdutosAPELIDO: TStringField
+      DisplayLabel = 'Fornecedor:'
+      FieldName = 'APELIDO'
+      Size = 50
+    end
+    object cdsProdutosTIPO_UN_ENTRADA: TStringField
+      DisplayLabel = 'Tipo Un. Entrada'
+      FieldName = 'TIPO_UN_ENTRADA'
+      FixedChar = True
+      Size = 3
+    end
+    object cdsProdutosTIPO_UN_SAIDA: TStringField
+      DisplayLabel = 'Tipo Un. Sa'#237'da'
+      FieldName = 'TIPO_UN_SAIDA'
+      FixedChar = True
+      Size = 3
+    end
+    object cdsProdutosCDCENTRO_CUSTO: TIntegerField
+      DisplayLabel = 'C'#243'd. Centro Custo'
+      FieldName = 'CDCENTRO_CUSTO'
+    end
+    object cdsProdutosESTOQUE_QTD: TFloatField
+      DisplayLabel = 'Qtd.:'
+      FieldName = 'ESTOQUE_QTD'
+      DisplayFormat = '###,###,#0.00'
+    end
+    object cdsProdutosESTOQUE_MINIMO: TFloatField
+      DisplayLabel = 'Qtd. M'#237'nima:'
+      FieldName = 'ESTOQUE_MINIMO'
+      DisplayFormat = '###,###,#0.00'
+    end
+    object cdsProdutosUSO_CONSUMO: TIntegerField
+      DisplayLabel = 'Uso/Consumo:'
+      FieldName = 'USO_CONSUMO'
+    end
+    object cdsProdutosAPLICACAO: TStringField
+      DisplayLabel = 'Aplica'#231#227'o:'
+      FieldName = 'APLICACAO'
+      Size = 500
+    end
+    object cdsProdutosFORNECEDOR: TStringField
+      DisplayLabel = 'Fornecedor'
+      FieldName = 'FORNECEDOR'
+      Size = 50
+    end
+  end
+  object dsProdutos: TDataSource
+    DataSet = cdsProdutos
+    Left = 883
+    Top = 42
+  end
+end

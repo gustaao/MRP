@@ -1,0 +1,59 @@
+K ¯$  ‚CIs|]; TelaContatoTransportador_pşÿ– <rTelaContatoTransportador_p.dfm÷CIpTelaContatoTransportador_p.pas³CI dSystem   fTObject72#XfCharÖo?1gTObject.EqualspR8ğgTObject.GetHashCodeqR8ğgTObject.ToStringrR8ğgTObject.DispatchvR8ğgTObject.NewInstancexR8ğgTObject.FreeInstanceyR8ğfstring,¼ËfUnicodeString,¼Ëf
+WideStringİ—¯íf	PWideCharDç?şfBoolean8¼bfInteger ÎsµcdSysInit   cdWindows   gMB_OK¬}ç1gMB_YESNO¸}ç1cdMessages   gWM_NEXTDLGCTL$~ç1cdSysUtils   cdVariants   cdClasses   gTComponent.UpdateRegistry•Í…wgTComponent.WriteState™Í…wgTComponent.SafeCallException³Í…wgTComponent.UpdateAction´Í…wgTPersistent.Assignª›êcdGraphics   cdControls   gTWinControl.AssignTo+¡,gTWinControl.CanAutoSize+¡,gTWinControl.CanResize+¡,gTWinControl.ConstrainedResize+¡,gTWinControl.CreateHandle+¡,g#TWinControl.CustomAlignInsertBefore +¡,gTWinControl.CustomAlignPosition!+¡,gTWinControl.DestroyWnd%+¡,g!TWinControl.DockReplaceDockClient(+¡,gTWinControl.GetClientOrigin5+¡,gTWinControl.GetControlExtents7+¡,gTWinControl.GetDeviceContext8+¡,gTWinControl.SetParentBackgroundX+¡,g#TWinControl.SetParentDoubleBufferedY+¡,gTWinControl.ShowControl[+¡,g+TWinControl.UpdateControlOriginalParentSize]+¡,gTWinControl.Invalidate–+¡,gTWinControl.Repaintœ+¡,gTWinControl.SetBoundsŸ+¡,gTWinControl.Update¢+¡,gTControl.CreateTouchManager°ÆÒ¦gTControl.GetActionÄÆÒ¦gTControl.GetEnabledÊÆÒ¦g!TControl.GetFloatingDockSiteClassÌÆÒ¦gTControl.SetAutoSizeàÆÒ¦gTControl.SetDragModeáÆÒ¦gTControl.SetEnabledâÆÒ¦gTControl.SetNameãÆÒ¦gTControl.SetBiDiModeæÆÒ¦gTControl.GetDragImagesîÆÒ¦gTControl.InitiateAction)ÇÒ¦gmrYes¾}ç1fTWinControl;
+Œ”gTControl.Perform/ÇÒ¦cdForms   fTFormf¶fTCloseAction¿¬şgTCustomForm.AlignControlsURÎ®gTCustomForm.ClientWndProcXRÎ®gTCustomForm.CreateParamsZRÎ®gTCustomForm.CreateWindowHandle[RÎ®gTCustomForm.CreateWnd\RÎ®gTCustomForm.DefineProperties^RÎ®gTCustomForm.DestroyHandle_RÎ®gTCustomForm.DestroyWindowHandle`RÎ®gTCustomForm.DoCreatebRÎ®gTCustomForm.DoDestroycRÎ®gTCustomForm.GetClientRecthRÎ®gTCustomForm.GetFloatingiRÎ®gTCustomForm.LoadedmRÎ®gTCustomForm.NotificationnRÎ®gTCustomForm.PaintWindowpRÎ®gTCustomForm.ReadStaterRÎ®gTCustomForm.RequestAlignsRÎ®gTCustomForm.SetParentBiDiModeuRÎ®gTCustomForm.SetParentwRÎ®gTCustomForm.UpdateActionsxRÎ®gTCustomForm.ValidateRenamezRÎ®gTCustomForm.WndProc|RÎ®gTCustomForm.Resizing}RÎ®gTCustomForm.QueryInterfaceRÎ®gTCustomForm.CreateºRÎ®gTCustomForm.CreateNew»RÎ®gTCustomForm.Destroy¼RÎ®gTCustomForm.CloseQuery¾RÎ®gTCustomForm.DefaultHandler¿RÎ®gTCustomForm.SetFocusÍRÎ®gTCustomForm.SetFocusedControlÎRÎ®gTCustomForm.ShowModalĞRÎ®gTCustomForm.WantChildKeyÑRÎ®gTCustomForm.AfterConstructionÓRÎ®gTCustomForm.BeforeDestructionÔRÎ®g%TScrollingWinControl.AdjustClientRectj\ª5g&TScrollingWinControl.AutoScrollEnabledl\ª5g%TScrollingWinControl.AutoScrollInViewm\ª5gTScrollingWinControl.DoGesturer\ª5g(TScrollingWinControl.DoGetGestureOptionss\ª5g.TFormIãïgApplicationÍîé²fTApplication¿ˆĞ²gTApplication.MessageBox†©åJgTCustomForm.Close½RÎ®gcaFree>Gª‘cdDB   fTDataSet‘öéògTDataSet.EditËÿŠgTDataSet.IsEmptyãÿŠŸşA¾ÌgTDataSet.DeleteÉÿŠfTDataSetStateaÌúgdsInsertãufTField/€F‰gTDataSet.InsertáÿŠcdDialogs   cdStdCtrls   fTLabel†"dg.TLabeliöóµcdMask   cdDBCtrls   fTDBEdit’	.tfTDBMemoQÁ@¿g.TDBEdituİÆg.TDBMemo4•cdButtons   fTBitBtnœ¼>àg.TBitBtn2cdExtCtrls   fTPanelqW"Ôg.TPanelT+ &cdGrids   cdDBGrids   fTDBGridnçCœg.TDBGridQ»!îcdJvExButtons   cdJvBitBtn   f	TJvBitBtn‹’wg
+.TJvBitBtnnÚoÉcePrincipal_p   ceDMPrincipal_p   ceDMForncedores_p   gDMFornecedores‡Yó@fTDMFornecedoresyóÙ@ce	Funcoes_p   gInsertState~Ğ}gBrowseState~Ğ}gGerar_id³£0ceDBClient  fTCustomClientDataSetš¢â\c5TelaContatoTransportador_p€  _¸Ïc5System   c5SysInit   "c5Windows   $c5Messages   *c5SysUtils   .c5Variants   0c5Classes   2c5Graphics   >c5Controls   @c5Forms   †c5DB   èc5Dialogs   úc5StdCtrls   üc5Mask   c5DBCtrls   	c5Buttons   c5ExtCtrls   )c5Grids   5c5DBGrids   9c5JvExButtons   Ec5JvBitBtn   Ic&.TTelaContatoTransportador€   œğŸ2 *TTelaContatoTransportadorˆ  ½ÈN4 TelaContatoTransportadoræ  Ë.,N4n7.2F  6 5Principal_p   Uc5DMPrincipal_p   Yc5DMForncedores_p   ]c5	Funcoes_p   ic()TTelaContatoTransportador.BitBtnAlterarClick€  é'æ Xˆ84!Selff  4ø!Senderf  ğcœù  4ÿ()TTelaContatoTransportador.BitBtnExcluirClick€  é'æ ±ˆ84!Selff  4ø!Senderf  à .f  ğ .f  îcœ  4ÿ((TTelaContatoTransportador.BitBtnGravarClick€  é'æ ˆ84!Selff  4ø!Senderf  ğcœ  4ÿ()TTelaContatoTransportador.BitBtnIncluirClick€  é'æ zˆ84!Selff  4ø!Senderf  ğcœ%  4ÿ(&TTelaContatoTransportador.BitBtnSairClick€  ÿè'æ 0ˆ84!Selff  4ø!Senderf  ğcœ1  4ÿ(*TTelaContatoTransportador.BitBtnCancelarClick€   é'æ ^ˆ84!Selff  4ø!Senderf  ğcœ=  4ÿ( TTelaContatoTransportador.FormClose€  şè'æ 2ˆ84!Selff  4ø!Senderf  è"Actionf  ğcœI  4ÿ(#TTelaContatoTransportador.FormKeyPress€  é'æ Œˆ84!Selff  4ø!Senderf  è"Keyf  ğcœY  4ÿ(Finalization€  é`pÅ !8 c(TelaContatoTransportador_p€       !8 cşG   4iFİ  2ƒ áÙ‰şÜ&   € ,DBGrid1 
+ *!œm  4ÿ,	pnlBotoes 
+ (1œq  4ÿ,BitBtnIncluir 
+ &Aœu  4ÿ,BitBtnExcluir 
+ &Qœy  4ÿ,BitBtnCancelar 
+ &aœ}  4ÿ,BitBtnAlterar 
+ &qœ  4ÿ,BitBtnGravar 
+ &œ…  4ÿ,
+BitBtnSair 
+ &‘œ‰  4ÿ,BitBtnRelatorios 
+ ,¡œ  4ÿ,PanelCampos 
+ (±œ‘  4ÿ,Label1 
+  Áœ•  4ÿ,Label3 
+  Ñœ™  4ÿ,Label4 
+  áœ  4ÿ,Label5 
+  ñœ¡  4ÿ,Label6 
+  œ¥  4ÿ,Label7 
+  œ©  4ÿ,DBEdit1 
+ "!œ­  4ÿ,DBEdit3 
+ "1œ±  4ÿ,DBEdit4 
+ "Aœµ  4ÿ,DBEdit5 
+ "Qœ¹  4ÿ,DBEdit6 
+ "aœ½  4ÿ,DBEdit7 
+ "qœÁ  4ÿ,Label2 
+  œÅ  4ÿ,DBEdit2 
+ "‘œÉ  4ÿ,Label8 
+  ¡œÍ  4ÿ,DBEdit8 
+ "±œÑ  4ÿ,Label9 
+  ÁœÕ  4ÿ,DBMemo1 
+ $ÑœÙ  4ÿ.	FormClose 
+ èIˆœİ  4ÿ.BitBtnSairClick 
+ è1ˆœá  4ÿ.BitBtnCancelarClick 
+ è=ˆœå  4ÿ.FormKeyPress 
+ èYˆœé  4ÿ.BitBtnIncluirClick 
+ è%ˆœí  4ÿ.BitBtnExcluirClick 
+ èˆœñ  4ÿ.BitBtnAlterarClick 
+ èùˆœõ  4ÿ.BitBtnGravarClick 
+ èˆœù  4ÿcD   6   €ÿÿÿ @     l±X                  t  +      å  ü                                                                                                                                                                                                                                                                                                                                               ü  ˆ    DBGrid1Œ   	pnlBotoes   BitBtnIncluir”   BitBtnExcluir˜   BitBtnCancelarœ   BitBtnAlterar    BitBtnGravar¤   
+BitBtnSair¨   BitBtnRelatorios¬   PanelCampos°   Label1´   Label3¸   Label4¼   Label5À   Label6Ä   Label7È   DBEdit1Ì   DBEdit3Ğ   DBEdit4Ô   DBEdit5Ø   DBEdit6Ü   DBEdit7à   Label2ä   DBEdit2è   Label8ì   DBEdit8ğ   Label9ô   DBMemo1        	FormClose     BitBtnSairClick     BitBtnCancelarClick     FormKeyPress     BitBtnIncluirClick     BitBtnExcluirClick     BitBtnAlterarClick     BitBtnGravarClick  TTelaContatoTransportador                                TTelaContatoTransportadorX       n TelaContatoTransportador_p     U‹ìƒÄø‰Uø‰Eü¡    è    ¡    ‹ ‹€ô   è    YY]ÃU‹ìƒÄğ‰Uğ‰Eü¡    ‹ ‹€ô   ‰Eø‹Eø‹@X‹Uø;BTE÷€}÷ tj ¹˜   º¨   ¡    ‹ è    ëFj¹ğ   º  ¡    ‹ è    ƒøu)¡    ‹ ‹€ô   è    ¡    ‹ ‹€ô   3Ò‹ÿ‘   ‹å]Ã  A v i s o .     N ã o   E x i s t e m   R e g i s t r o s   p a r a   E x c l u s ã o   C o n f i r m a r   E x c l u s ã o .   D e s e j a   R e a l m e n t e   E x c l u i r   e s t e   R e g i s t r o   ?     U‹ìƒÄø‰Uø‰Eü¡    è    ¡    ‹ ‹€ô   €¸¡   u!¸Œ   è    ‹Ğ¡    ‹ ‹€  ‹ÿ‘Ô   ¡    ‹ ‹€ô   ‹ÿ’¤  ¡    ‹ ‹€ô   3Ò‹ÿ‘   YY]Ã   ° ÿÿÿÿ   G E N _ F O R N E C E D O R E S _ C O N T A T O _ I D   U‹ìƒÄø‰Uø‰Eü¡    è    ¡    ‹ ‹€ô   è    ‹Eü‹€Ì  ‹ÿ’è   YY]ÃU‹ìƒÄø‰Uø‰Eü‹Eüè    YY]ÃU‹ìƒÄø‰Uø‰Eü¡    è    ¡    ‹ ‹€ô   ‹ÿ’\  YY]ÃU‹ìƒÄô‰Mø‰Uô‰Eü‹EøÆ ‹å]ÃU‹ìƒÄô‰Mø‰Uô‰Eü‹Eøfƒ8u‹EøfÇ   j 3Éº(   ‹Eüè    ‹Eøfƒ8u‹Eüè    ‹å]Ãÿ    Ãƒ-    Ãmq  Ù Ù İÙÙÙÜ
+8ÎĞÄÀB–<¤¦ªx4´6º¼:FDHjØÚlT Xn¢p¬rtv°®z¶|~bdfhÒŒJ’”LN˜šPRV¨Z\^`ÆÔÖ¸œ²¾ÂÈÊÌÙåI 1,=4Y&%22ù2bA1%Q İ İ8ÙˆH ùá
+m
+aì aP
+
+Şâ
+
+Şâağ
+aÁ á
+q
+a,
+ua*a*aÂ %á
+m
+aø2 1 ä =á
+q
+a0 I2 YZ„"ä iå
+ åRy$L4:$.i,B*.–$"*"‘ ’4  P“Ò  İ  İ İ İ İ İ
+  İ "İ $İ &İ (İ *İ ,İ .İ 0İ 2İ 4İ  6İ" 8İ$ :İ& <İ( >İ* @İ, Bİ. Dİ0 Fİ2 Hİ4 Jİ6 Lİ8 NI RPèİ: P1 TRĞİ< R= VTÚİ> TY XVòİ@ V% ZXÂİB X \ZŠİD Zù ^\~İF \ `^ªİH ^á  nı     ~eLı„ °º¼ÈàêYı„	     Šê¹ıàı’šêQı}ı ¼   !  ªêeı°e^ı´ö­ı´}Åıº)   -  Âê±ıÈ‚	ıÊ5   9  ĞA   E  Ú}%ıàM   Q  æU  è]   a  òe  òi  ”(ù          %   1   =   I   Y   i          a

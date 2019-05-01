@@ -1,0 +1,551 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<PropertyGroup>
+			<ProjectGuid>{E1283144-DE9A-4C35-B9BF-3F47CE8B13FE}</ProjectGuid>
+			<MainSource>MRP.dpr</MainSource>
+			<ProjectVersion>12.2</ProjectVersion>
+			<Base>True</Base>
+			<Config Condition="'$(Config)'==''">Debug</Config>
+			<Platform>Win32</Platform>
+			<AppType>Application</AppType>
+			<FrameworkType>VCL</FrameworkType>
+			<DCC_DCCCompiler>DCC32</DCC_DCCCompiler>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Config)'=='Base' or '$(Base)'!=''">
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Config)'=='Debug' or '$(Cfg_1)'!=''">
+			<Cfg_1>true</Cfg_1>
+			<CfgParent>Base</CfgParent>
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Config)'=='Release' or '$(Cfg_2)'!=''">
+			<Cfg_2>true</Cfg_2>
+			<CfgParent>Base</CfgParent>
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Base)'!=''">
+			<DCC_UsePackage>rtl;vcl;vcldb;dbrtl;ibo5admin_d2011;ibo5crt_d2011;vclx;VclSmp;vclimg;svnui;svn;vclactnband;vcldbx;bdertl;vcltouch;xmlrtl;dsnap;dsnapcon;vclib;ibxpress;adortl;IndyCore;IndySystem;IndyProtocols;inet;intrawebdb_110_150;Intraweb_110_150;vclie;websnap;webdsnap;inetdb;inetdbbde;inetdbxpress;soaprtl;vclribbon;dbexpress;DbxCommonDriver;DataSnapIndy10ServerTransport;DataSnapProviderClient;DbxClientDriver;DataSnapClient;dbxcds;DataSnapServer;AzureCloud;DBXInterBaseDriver;DBXMySQLDriver;DBXFirebirdDriver;DBXSybaseASEDriver;DBXSybaseASADriver;DBXOracleDriver;DBXMSSQLDriver;DBXInformixDriver;DBXDb2Driver;TeeTree2D15Tee9;QR5RunDXE;TeeImage915;TeeWorld915;TeeLanguage915;TeePro915;TeeGL915;TeeUI915;TeeDB915;Tee915;ibo5art_d2011;ibo5trt_d2011;ibo5vrt_d2011;ibo5frt_d2011;ibo5xrt_d2011;ibo5rpl_d2011;ibo5fts_d2011;ibo5wrt_d2011;ibo5wxdt_d2011;ibo5wxrt_d2011;ibo5wsrt_d2011;JclDeveloperTools;Jcl;JclVcl;JclContainers;JvCore;JvSystem;JvStdCtrls;JvAppFrm;JvBands;JvDB;JvDlgs;JvBDE;JvControls;JvCmp;JvCrypt;JvCustom;JvDocking;JvDotNetCtrls;JvGlobus;JvHMI;JvJans;JvManagedThreads;JvMM;JvNet;JvPageComps;JvPascalInterpreter;JvPluginSystem;JvPrintPreview;JvRuntimeDesign;JvTimeFramework;JvWizards;JvXPCtrls;S404_r;S404br;cb;ACBrComum;ACBrDiversos;ACBrSerial;ACBrOpenSSL;ACBr_NFe2;ACBrNFeDanfeRVCodeBase;Rave90VCL;ACBr_Boleto</DCC_UsePackage>
+			<DCC_ImageBase>00400000</DCC_ImageBase>
+			<DCC_DcuOutput>.\$(Config)\$(Platform)</DCC_DcuOutput>
+			<DCC_UnitAlias>WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;$(DCC_UnitAlias)</DCC_UnitAlias>
+			<DCC_ExeOutput>.\$(Config)\$(Platform)</DCC_ExeOutput>
+			<DCC_E>false</DCC_E>
+			<DCC_N>false</DCC_N>
+			<DCC_S>false</DCC_S>
+			<DCC_F>false</DCC_F>
+			<DCC_K>false</DCC_K>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Cfg_1)'!=''">
+			<BCC_DebugLineNumbers>true</BCC_DebugLineNumbers>
+			<ILINK_FullDebugInfo>true</ILINK_FullDebugInfo>
+			<DCC_DebugInfoInExe>true</DCC_DebugInfoInExe>
+			<BCC_SourceDebuggingOn>true</BCC_SourceDebuggingOn>
+			<DCC_MapFile>3</DCC_MapFile>
+			<DCC_Define>DEBUG;EUREKALOG;EUREKALOG_VER6;$(DCC_Define)</DCC_Define>
+			<DCC_Optimize>false</DCC_Optimize>
+			<DCC_GenerateStackFrames>true</DCC_GenerateStackFrames>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Cfg_2)'!=''">
+			<DCC_LocalDebugSymbols>false</DCC_LocalDebugSymbols>
+			<DCC_Define>RELEASE;$(DCC_Define)</DCC_Define>
+			<DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
+			<DCC_DebugInformation>false</DCC_DebugInformation>
+		</PropertyGroup>
+		<ItemGroup>
+			<DelphiCompile Include="MRP.dpr">
+				<MainSource>MainSource</MainSource>
+			</DelphiCompile>
+			<DCCReference Include="Principal_p.pas">
+				<Form>Principal</Form>
+			</DCCReference>
+			<DCCReference Include="TelaProdutos_p.pas">
+				<Form>TelaProdutos</Form>
+			</DCCReference>
+			<DCCReference Include="Funcoes_p.pas"/>
+			<DCCReference Include="Clientes_p.pas">
+				<Form>Clientes</Form>
+			</DCCReference>
+			<DCCReference Include="Mascote_p.pas">
+				<Form>Mascote</Form>
+			</DCCReference>
+			<DCCReference Include="Fornecedores_p.pas">
+				<Form>Fornecedores</Form>
+			</DCCReference>
+			<DCCReference Include="Pedidos_p.pas">
+				<Form>Pedidos</Form>
+			</DCCReference>
+			<DCCReference Include="Transportadores_p.pas">
+				<Form>Transportadores</Form>
+			</DCCReference>
+			<DCCReference Include="Usuarios_p.pas">
+				<Form>Usuarios</Form>
+			</DCCReference>
+			<DCCReference Include="Vendas_p.pas">
+				<Form>Vendas</Form>
+			</DCCReference>
+			<DCCReference Include="Vendas_Pagamento_p.pas">
+				<Form>Vendas_Pagamento</Form>
+			</DCCReference>
+			<DCCReference Include="PesquisaClientes_p.pas">
+				<Form>PesquisaClientes</Form>
+			</DCCReference>
+			<DCCReference Include="TelaSubgrupo_p.pas">
+				<Form>TelaSubgrupo</Form>
+			</DCCReference>
+			<DCCReference Include="TelaGrupo_p.pas">
+				<Form>TelaGrupo</Form>
+			</DCCReference>
+			<DCCReference Include="TelaEmpresa_p.pas">
+				<Form>TelaEmpresa</Form>
+			</DCCReference>
+			<DCCReference Include="TelaConfigAdminstrativa_p.pas">
+				<Form>TelaConfigAdministrativa</Form>
+			</DCCReference>
+			<DCCReference Include="DMVenda_p.pas">
+				<Form>DMVenda</Form>
+				<DesignClass>TDataModule</DesignClass>
+			</DCCReference>
+			<DCCReference Include="TelaAgendaBanhoeTosa_p.pas">
+				<Form>TelaAgendaBanhoeTosa</Form>
+			</DCCReference>
+			<DCCReference Include="TelaCadastraBanho_p.pas">
+				<Form>TelaCadastraBanho</Form>
+			</DCCReference>
+			<DCCReference Include="TelaAgendaClinica_p.pas">
+				<Form>TelaAgendaClinica</Form>
+			</DCCReference>
+			<DCCReference Include="TelaVeterinarios_p.pas">
+				<Form>TelaVeterinarios</Form>
+			</DCCReference>
+			<DCCReference Include="TelaCadastraConsulta_p.pas">
+				<Form>TelaCadastraConsulta</Form>
+			</DCCReference>
+			<DCCReference Include="TelaProcedimentos_p.pas">
+				<Form>TelaProcedimentos</Form>
+			</DCCReference>
+			<DCCReference Include="ConsultaProdutos_p.pas">
+				<Form>ConsultaProdutos</Form>
+			</DCCReference>
+			<DCCReference Include="TelaServidor_p.pas">
+				<Form>TelaServidor</Form>
+			</DCCReference>
+			<DCCReference Include="TelaSobre_p.pas">
+				<Form>TelaSobre</Form>
+			</DCCReference>
+			<DCCReference Include="TelaFoneFornecedor_p.pas">
+				<Form>TelaFoneFornecedor</Form>
+			</DCCReference>
+			<DCCReference Include="TelaRacas_p.pas">
+				<Form>TelaRacas</Form>
+			</DCCReference>
+			<DCCReference Include="TelaFoneClientes_p.pas">
+				<Form>TelaFoneCliente</Form>
+			</DCCReference>
+			<DCCReference Include="DMForncedores_p.pas">
+				<Form>DMFornecedores</Form>
+				<DesignClass>TDataModule</DesignClass>
+			</DCCReference>
+			<DCCReference Include="TelaContatoFornecedor_p.pas">
+				<Form>TelaContatoFornecedor</Form>
+			</DCCReference>
+			<DCCReference Include="DMClientes_p.pas">
+				<Form>DMClientes</Form>
+				<DesignClass>TDataModule</DesignClass>
+			</DCCReference>
+			<DCCReference Include="TelaCadastraMascote_p.pas">
+				<Form>TelaCadastraMascote</Form>
+			</DCCReference>
+			<DCCReference Include="ConsultaCliente_p.pas">
+				<Form>ConsultaCliente</Form>
+			</DCCReference>
+			<DCCReference Include="TelaCadastraTosador_p.pas">
+				<Form>TelaCadastraTosador</Form>
+			</DCCReference>
+			<DCCReference Include="TelaAberturaCaixa_p.pas">
+				<Form>TelaAberturaCaixa</Form>
+			</DCCReference>
+			<DCCReference Include="TelaCaixa_p.pas">
+				<Form>TelaCaixa</Form>
+			</DCCReference>
+			<DCCReference Include="RelatorioBoletimCaixa_p.pas">
+				<Form>RelatorioBoletimCaixa</Form>
+			</DCCReference>
+			<DCCReference Include="ConsultaProdutoVenda_p.pas">
+				<Form>ConsultaProdutoVenda</Form>
+			</DCCReference>
+			<DCCReference Include="PerguntaData_p.pas">
+				<Form>PerguntaData</Form>
+			</DCCReference>
+			<DCCReference Include="TelaContaCliente_p.pas">
+				<Form>TelaContaCliente</Form>
+			</DCCReference>
+			<DCCReference Include="TelaAcesso_p.pas">
+				<Form>TelaAcesso</Form>
+			</DCCReference>
+			<DCCReference Include="TelaContasPagar_p.pas">
+				<Form>TelaContasPagar</Form>
+			</DCCReference>
+			<DCCReference Include="LivroCaixa_p.pas">
+				<Form>LivroCaixa</Form>
+			</DCCReference>
+			<DCCReference Include="TelaMovimentacaoCaixa_p.pas">
+				<Form>TelaMovimentacaoCaixa</Form>
+			</DCCReference>
+			<DCCReference Include="TelaAlteraSenha_p.pas">
+				<Form>TelaAlteraSenha</Form>
+			</DCCReference>
+			<DCCReference Include="DMPrincipal_p.pas">
+				<Form>DMPrincipal</Form>
+				<DesignClass>TDataModule</DesignClass>
+			</DCCReference>
+			<DCCReference Include="TelaVendedores_p.pas">
+				<Form>TelaVendedores</Form>
+			</DCCReference>
+			<DCCReference Include="TelaCodigoSerial_p.pas">
+				<Form>TelaCodigoSerial</Form>
+			</DCCReference>
+			<DCCReference Include="TelaPlanoContas_p.pas">
+				<Form>TelaPlanoContas</Form>
+			</DCCReference>
+			<DCCReference Include="PesquisaPlanoContas_p.pas">
+				<Form>PesquisaPlanoContas</Form>
+			</DCCReference>
+			<DCCReference Include="PesquisaFornecedores_p.pas">
+				<Form>PesquisaFornecedores</Form>
+			</DCCReference>
+			<DCCReference Include="TelaSituacaoTributaria_p.pas">
+				<Form>TelaSituacaoTributaria</Form>
+			</DCCReference>
+			<DCCReference Include="TelaNaturezaOperacao_p.pas">
+				<Form>TelaNaturezaOperacao</Form>
+			</DCCReference>
+			<DCCReference Include="TelaClassificacaoFiscal_p.pas">
+				<Form>TelaClassificacaoFiscal</Form>
+			</DCCReference>
+			<DCCReference Include="TelaConfiguracaoAgenda_p.pas">
+				<Form>TelaConfiguracaoAgenda</Form>
+			</DCCReference>
+			<DCCReference Include="TelaAgendamento_p.pas">
+				<Form>TelaAgendamento</Form>
+			</DCCReference>
+			<DCCReference Include="TelaAgendamentoRapido_p.pas">
+				<Form>TelaAgendamentoRapido</Form>
+			</DCCReference>
+			<DCCReference Include="Vendas2_p.pas">
+				<Form>vendas2</Form>
+			</DCCReference>
+			<DCCReference Include="TelaNFe_p.pas">
+				<Form>TelaNFe</Form>
+			</DCCReference>
+			<DCCReference Include="DMNFE_p.pas">
+				<Form>DMNFE</Form>
+				<DesignClass>TDataModule</DesignClass>
+			</DCCReference>
+			<DCCReference Include="TelaNavegador_p.pas">
+				<Form>TelaNavegador</Form>
+			</DCCReference>
+			<DCCReference Include="TelaNF_p.pas">
+				<Form>TelaNF</Form>
+			</DCCReference>
+			<DCCReference Include="TelaGeracaoNF_p.pas">
+				<Form>TelaGeracaoNF</Form>
+			</DCCReference>
+			<DCCReference Include="TelaOrdemServico_p.pas">
+				<Form>TelaOrdemServico</Form>
+			</DCCReference>
+			<DCCReference Include="ListagemPlanoContas_p.pas">
+				<Form>ListagemPlanoContas</Form>
+			</DCCReference>
+			<DCCReference Include="ListagemFornecedores_p.pas">
+				<Form>ListagemFornecedores</Form>
+			</DCCReference>
+			<DCCReference Include="TelaContasReceber_p.pas">
+				<Form>TelaContasReceber</Form>
+			</DCCReference>
+			<DCCReference Include="RelatorioCtasPagarPeriodo_p.pas">
+				<Form>RelatorioCtasPagarPeriodo</Form>
+			</DCCReference>
+			<DCCReference Include="RelatorioCtasPagasPeriodo_p.pas">
+				<Form>RelatorioCtasPagasPeriodo</Form>
+			</DCCReference>
+			<DCCReference Include="TelaDespesaConta_p.pas">
+				<Form>TelaDespesaConta</Form>
+			</DCCReference>
+			<DCCReference Include="TelaColaboradores_p.pas">
+				<Form>TelaColaboradores</Form>
+			</DCCReference>
+			<DCCReference Include="TelaCargos_p.pas">
+				<Form>TelaCargos</Form>
+			</DCCReference>
+			<DCCReference Include="RelatorioDemosntrativoConta_p.pas">
+				<Form>RelatorioDemonstrativoConta</Form>
+			</DCCReference>
+			<DCCReference Include="TelaConfiguracaoTecnica_p.pas">
+				<Form>TelaConfiguracaoTecnica</Form>
+			</DCCReference>
+			<DCCReference Include="PesquisaVendedores_p.pas">
+				<Form>PesquisaVendedores</Form>
+			</DCCReference>
+			<DCCReference Include="TelaConfiguracaoVenda_p.pas">
+				<Form>TelaConfiguracaoVenda</Form>
+			</DCCReference>
+			<DCCReference Include="TelaConfiguracaoContabil_p.pas">
+				<Form>TelaConfiguracaoContabil</Form>
+			</DCCReference>
+			<DCCReference Include="TelaOrdemCompra_p.pas">
+				<Form>TelaOrdemCompra</Form>
+			</DCCReference>
+			<DCCReference Include="TelaContatoCliente_p.pas">
+				<Form>TelaContatoCliente</Form>
+			</DCCReference>
+			<DCCReference Include="TelaContatoTransportador_p.pas">
+				<Form>TelaContatoTransportador</Form>
+			</DCCReference>
+			<DCCReference Include="TelaOportunidadeNegocios_p.pas">
+				<Form>TelaOportunidadeNegocios</Form>
+			</DCCReference>
+			<DCCReference Include="TelaPrazos_p.pas">
+				<Form>TelaPrazos</Form>
+			</DCCReference>
+			<DCCReference Include="PesquisaTransportadores_p.pas">
+				<Form>PesquisaTransportadores</Form>
+			</DCCReference>
+			<DCCReference Include="PesquisaNaturezaOperacao_p.pas">
+				<Form>PesquisaNaturezaOperacao</Form>
+			</DCCReference>
+			<DCCReference Include="PerguntaNFe_p.pas">
+				<Form>PerguntaNFe</Form>
+			</DCCReference>
+			<DCCReference Include="DMProduto_p.pas">
+				<Form>DMProduto</Form>
+				<DesignClass>TDataModule</DesignClass>
+			</DCCReference>
+			<DCCReference Include="PesquisaSituacaoTributaria_p.pas">
+				<Form>PesquisaSituacaoTributaria</Form>
+			</DCCReference>
+			<DCCReference Include="PesquisaOrigemProduto_p.pas">
+				<Form>PesquisaOrigemProduto</Form>
+			</DCCReference>
+			<DCCReference Include="PesquisaCSOSN_p.pas">
+				<Form>PesquisaCSOSN</Form>
+			</DCCReference>
+			<DCCReference Include="PesquisaSTIPI_p.pas">
+				<Form>PesquisaSTIPI</Form>
+			</DCCReference>
+			<DCCReference Include="PesquisaSTPIS_Cofins_p.pas">
+				<Form>PesquisaSTPIS_Cofins</Form>
+			</DCCReference>
+			<DCCReference Include="PesquisaEnqIPI_p.pas">
+				<Form>PesquisaEnqIPI</Form>
+			</DCCReference>
+			<DCCReference Include="RelatorioOC_p.pas">
+				<Form>RelatorioOC</Form>
+			</DCCReference>
+			<DCCReference Include="PesquisaCondicaoPagto_p.pas">
+				<Form>PesquisaCondicaoPagto</Form>
+			</DCCReference>
+			<DCCReference Include="TelaOrdemCompraMsg_p.pas">
+				<Form>TelaOrdemCompraMsg</Form>
+			</DCCReference>
+			<DCCReference Include="TelaRecebeNF_p.pas">
+				<Form>TelaRecebeNF</Form>
+			</DCCReference>
+			<DCCReference Include="PesquisaOrdemCompra_p.pas">
+				<Form>PesquisaOrdemCompra</Form>
+			</DCCReference>
+			<DCCReference Include="TelaRecebeNFVencimento_p.pas">
+				<Form>TelaRecebeNFVencimento</Form>
+			</DCCReference>
+			<DCCReference Include="TelaSegmentoTrabalho_p.pas">
+				<Form>TelaSegmentoTrabalho</Form>
+			</DCCReference>
+			<DCCReference Include="TelaRejeicaoNFe_p.pas">
+				<Form>TelaRejeicaoNFe</Form>
+			</DCCReference>
+			<DCCReference Include="RelatorioCtasRecebidasPeriodo_p.pas">
+				<Form>RelatorioCtasRecebidasPeriodo</Form>
+			</DCCReference>
+			<DCCReference Include="TelaFormaPagto_p.pas">
+				<Form>TelaFormaPagto</Form>
+			</DCCReference>
+			<DCCReference Include="RelatorioFluxoCaixa_p.pas">
+				<Form>RelatorioFluxoCaixa</Form>
+			</DCCReference>
+			<DCCReference Include="ListagemGrupo_p.pas">
+				<Form>ListagemGrupo</Form>
+			</DCCReference>
+			<DCCReference Include="ListagemSubGrupo_p.pas">
+				<Form>ListagemSubGrupo</Form>
+			</DCCReference>
+			<DCCReference Include="ListagemProdutos_p.pas">
+				<Form>ListagemProdutos</Form>
+			</DCCReference>
+			<DCCReference Include="ListagemPrazosGarantias_p.pas">
+				<Form>ListagemPrazosGarantias</Form>
+			</DCCReference>
+			<DCCReference Include="ListagemVendedores_p.pas">
+				<Form>ListagemVendedores</Form>
+			</DCCReference>
+			<DCCReference Include="ListagemClientes_p.pas">
+				<Form>ListagemClientes</Form>
+			</DCCReference>
+			<DCCReference Include="TelaICMSEstado_p.pas">
+				<Form>TelaICMSEstado</Form>
+			</DCCReference>
+			<DCCReference Include="TelaAutorizacao_p.pas">
+				<Form>TelaAutorizacao</Form>
+			</DCCReference>
+			<DCCReference Include="RelatorioPedidos_p.pas">
+				<Form>RelatorioPedidos</Form>
+			</DCCReference>
+			<DCCReference Include="TelaLinhaProdutos_p.pas">
+				<Form>TelaLinhaProdutos</Form>
+			</DCCReference>
+			<DCCReference Include="TelaConsulta_p.pas">
+				<Form>TelaConsulta</Form>
+			</DCCReference>
+			<DCCReference Include="ListagemRacas_p.pas">
+				<Form>ListagemRacas</Form>
+			</DCCReference>
+			<DCCReference Include="RelatorioOrcamento_p.pas">
+				<Form>RelatorioOrcamento</Form>
+			</DCCReference>
+			<DCCReference Include="PerguntaOrcamento_p.pas">
+				<Form>PerguntaOrcamento</Form>
+			</DCCReference>
+			<DCCReference Include="ListagemLinhaProdutos_p.pas">
+				<Form>ListagemLinhaProdutos</Form>
+			</DCCReference>
+			<DCCReference Include="ListagemCargoseFuncoes_p.pas">
+				<Form>ListagemCargoseFuncoes</Form>
+			</DCCReference>
+			<DCCReference Include="RelatorioFichaCadastral_p.pas">
+				<Form>RelatorioFichaCadastral</Form>
+			</DCCReference>
+			<DCCReference Include="TelaBanco_p.pas">
+				<Form>TelaBanco</Form>
+			</DCCReference>
+			<DCCReference Include="TelaSocios_p.pas">
+				<Form>TelaSocios</Form>
+			</DCCReference>
+			<DCCReference Include="TelaComissoes_p.pas">
+				<Form>TelaComissoes</Form>
+			</DCCReference>
+			<DCCReference Include="TelaVacinas_p.pas">
+				<Form>TelaVacinas</Form>
+			</DCCReference>
+			<DCCReference Include="TelaEnderecoCobranca_p.pas">
+				<Form>TelaEnderecoCobranca</Form>
+			</DCCReference>
+			<DCCReference Include="StatsClasses.pas"/>
+			<DCCReference Include="TelaRelatoriosVendas_p.pas">
+				<Form>TelaRelatoriosVendas</Form>
+			</DCCReference>
+			<DCCReference Include="PerguntaDataUnica_p.pas">
+				<Form>PerguntaDataUnica</Form>
+			</DCCReference>
+			<DCCReference Include="RelatorioVendasSemanal_p.pas">
+				<Form>RelatorioVendasSemanal</Form>
+			</DCCReference>
+			<DCCReference Include="RelatorioVendasMensal_p.pas">
+				<Form>RelatorioVendasMensal</Form>
+			</DCCReference>
+			<DCCReference Include="PerguntaMesAno_p.pas">
+				<Form>PerguntaMesAno</Form>
+			</DCCReference>
+			<DCCReference Include="RelatorioVendasAnual_p.pas">
+				<Form>RelatorioVendasAnual</Form>
+			</DCCReference>
+			<DCCReference Include="RelatorioAgendaSalao_p.pas">
+				<Form>RelatorioAgendaSalao</Form>
+			</DCCReference>
+			<DCCReference Include="GraficoVendasDia_p.pas">
+				<Form>GraficoVendasDia</Form>
+			</DCCReference>
+			<DCCReference Include="TelaReceituario_p.pas">
+				<Form>TelaReceituario</Form>
+			</DCCReference>
+			<DCCReference Include="TelaCompatibilidade_p.pas">
+				<Form>TelaCompatibilidade</Form>
+			</DCCReference>
+			<DCCReference Include="TelaCapturaXML_p.pas">
+				<Form>TelaCapturaXML</Form>
+			</DCCReference>
+			<DCCReference Include="DMRecebeNFe_p.pas">
+				<Form>DMRecebeNFe</Form>
+				<DesignClass>TDataModule</DesignClass>
+			</DCCReference>
+			<DCCReference Include="RelatorioMovimentacaoProduto_p.pas">
+				<Form>RelatorioMovimentacaoProduto</Form>
+			</DCCReference>
+			<DCCReference Include="TelaCadastraCliente_p.pas">
+				<Form>TelaCadastraCliente</Form>
+			</DCCReference>
+			<DCCReference Include="TelaCustosProduto_p.pas">
+				<Form>TelaCustosProduto</Form>
+			</DCCReference>
+			<None Include="Profiling\AQtimeModule1.aqt"/>
+			<BuildConfiguration Include="Release">
+				<Key>Cfg_2</Key>
+				<CfgParent>Base</CfgParent>
+			</BuildConfiguration>
+			<BuildConfiguration Include="Base">
+				<Key>Base</Key>
+			</BuildConfiguration>
+			<BuildConfiguration Include="Debug">
+				<Key>Cfg_1</Key>
+				<CfgParent>Base</CfgParent>
+			</BuildConfiguration>
+		</ItemGroup>
+		<Import Condition="Exists('$(BDS)\Bin\CodeGear.Delphi.Targets')" Project="$(BDS)\Bin\CodeGear.Delphi.Targets"/>
+		<Import Condition="Exists('$(APPDATA)\Embarcadero\$(BDSAPPDATABASEDIR)\8.0\UserTools.proj')" Project="$(APPDATA)\Embarcadero\$(BDSAPPDATABASEDIR)\8.0\UserTools.proj"/>
+		<ProjectExtensions>
+			<Borland.Personality>Delphi.Personality.12</Borland.Personality>
+			<Borland.ProjectType/>
+			<BorlandProject>
+				<Delphi.Personality>
+					<VersionInfo>
+						<VersionInfo Name="IncludeVerInfo">True</VersionInfo>
+						<VersionInfo Name="AutoIncBuild">True</VersionInfo>
+						<VersionInfo Name="MajorVer">1</VersionInfo>
+						<VersionInfo Name="MinorVer">0</VersionInfo>
+						<VersionInfo Name="Release">0</VersionInfo>
+						<VersionInfo Name="Build">35</VersionInfo>
+						<VersionInfo Name="Debug">False</VersionInfo>
+						<VersionInfo Name="PreRelease">False</VersionInfo>
+						<VersionInfo Name="Special">True</VersionInfo>
+						<VersionInfo Name="Private">False</VersionInfo>
+						<VersionInfo Name="DLL">False</VersionInfo>
+						<VersionInfo Name="Locale">1046</VersionInfo>
+						<VersionInfo Name="CodePage">1252</VersionInfo>
+					</VersionInfo>
+					<VersionInfoKeys>
+						<VersionInfoKeys Name="CompanyName">Onzenet - Software House</VersionInfoKeys>
+						<VersionInfoKeys Name="FileDescription">MRP - Comércio</VersionInfoKeys>
+						<VersionInfoKeys Name="FileVersion">1.0.0.35</VersionInfoKeys>
+						<VersionInfoKeys Name="InternalName"/>
+						<VersionInfoKeys Name="LegalCopyright"/>
+						<VersionInfoKeys Name="LegalTrademarks"/>
+						<VersionInfoKeys Name="OriginalFilename"/>
+						<VersionInfoKeys Name="ProductName"/>
+						<VersionInfoKeys Name="ProductVersion">1.0.0.0</VersionInfoKeys>
+						<VersionInfoKeys Name="Comments"/>
+						<VersionInfoKeys Name="SpecialBuild"/>
+					</VersionInfoKeys>
+					<Source>
+						<Source Name="MainSource">MRP.dpr</Source>
+					</Source>
+					<Excluded_Packages>
+						<Excluded_Packages Name="C:\Users\Public\Documents\RAD Studio\Acbr\Lib\Delphi\LibD15\ACBr_Diversos.bpl">ACBr - Calculadora, Extenso, Validador, Troco, CMC7, Fala, BarCode, EnterTab, GIF, QrCode, InStore, CargaBal - (http://www.projetoacbr.com.br/)</Excluded_Packages>
+						<Excluded_Packages Name="C:\Users\Public\Documents\RAD Studio\Acbr\Lib\Delphi\LibD15\ACBr_TCP.bpl">ACBr - Socket, CEP, TCP, IBGE, CNIEE, Suframa, Download, FTP, HTTP, NFPws, IBPTax, CNPJ, CPF, Cotação, E-mail - (http://www.projectoacbr.com.br/)</Excluded_Packages>
+						<Excluded_Packages Name="$(BDSBIN)\dcloffice2k150.bpl">Microsoft Office 2000 Sample Automation Server Wrapper Components</Excluded_Packages>
+						<Excluded_Packages Name="$(BDSBIN)\dclofficexp150.bpl">Microsoft Office XP Sample Automation Server Wrapper Components</Excluded_Packages>
+					</Excluded_Packages>
+				</Delphi.Personality>
+				<Platforms>
+					<Platform value="Win32">True</Platform>
+				</Platforms>
+			</BorlandProject>
+			<ProjectFileVersion>12</ProjectFileVersion>
+		</ProjectExtensions>
+	</Project>

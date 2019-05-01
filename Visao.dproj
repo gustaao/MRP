@@ -1,0 +1,260 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<PropertyGroup>
+			<ProjectGuid>{E1283144-DE9A-4C35-B9BF-3F47CE8B13FE}</ProjectGuid>
+			<MainSource>Visao.dpr</MainSource>
+			<ProjectVersion>12.2</ProjectVersion>
+			<Base>True</Base>
+			<Config Condition="'$(Config)'==''">Debug</Config>
+			<Platform>Win32</Platform>
+			<AppType>Application</AppType>
+			<FrameworkType>VCL</FrameworkType>
+			<DCC_DCCCompiler>DCC32</DCC_DCCCompiler>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Config)'=='Base' or '$(Base)'!=''">
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Config)'=='Debug' or '$(Cfg_1)'!=''">
+			<Cfg_1>true</Cfg_1>
+			<CfgParent>Base</CfgParent>
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Config)'=='Release' or '$(Cfg_2)'!=''">
+			<Cfg_2>true</Cfg_2>
+			<CfgParent>Base</CfgParent>
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Base)'!=''">
+			<DCC_UsePackage>rtl;vcl;vcldb;dbrtl;ibo5admin_d2011;ibo5crt_d2011;vclx;VclSmp;vclimg;svnui;svn;vclactnband;vcldbx;bdertl;vcltouch;xmlrtl;dsnap;dsnapcon;vclib;ibxpress;adortl;IndyCore;IndySystem;IndyProtocols;inet;intrawebdb_110_150;Intraweb_110_150;vclie;websnap;webdsnap;inetdb;inetdbbde;inetdbxpress;soaprtl;vclribbon;dbexpress;DbxCommonDriver;DataSnapIndy10ServerTransport;DataSnapProviderClient;DbxClientDriver;DataSnapClient;dbxcds;DataSnapServer;AzureCloud;DBXInterBaseDriver;DBXMySQLDriver;DBXFirebirdDriver;DBXSybaseASEDriver;DBXSybaseASADriver;DBXOracleDriver;DBXMSSQLDriver;DBXInformixDriver;DBXDb2Driver;TeeTree2D15Tee9;QR5RunDXE;TeeImage915;TeeWorld915;TeeLanguage915;TeePro915;TeeGL915;TeeUI915;TeeDB915;Tee915;ibo5art_d2011;ibo5trt_d2011;ibo5vrt_d2011;ibo5frt_d2011;ibo5xrt_d2011;ibo5rpl_d2011;ibo5fts_d2011;ibo5wrt_d2011;ibo5wxdt_d2011;ibo5wxrt_d2011;ibo5wsrt_d2011;JclDeveloperTools;Jcl;JclVcl;JclContainers;JvCore;JvSystem;JvStdCtrls;JvAppFrm;JvBands;JvDB;JvDlgs;JvBDE;JvControls;JvCmp;JvCrypt;JvCustom;JvDocking;JvDotNetCtrls;JvGlobus;JvHMI;JvJans;JvManagedThreads;JvMM;JvNet;JvPageComps;JvPascalInterpreter;JvPluginSystem;JvPrintPreview;JvRuntimeDesign;JvTimeFramework;JvWizards;JvXPCtrls;S404_r;S404br;cb;ACBrComum;ACBrDiversos;ACBrSerial;ACBrOpenSSL;ACBr_NFe2;ACBrNFeDanfeRVCodeBase;Rave90VCL;ACBr_Boleto</DCC_UsePackage>
+			<DCC_ImageBase>00400000</DCC_ImageBase>
+			<DCC_DcuOutput>.\$(Config)\$(Platform)</DCC_DcuOutput>
+			<DCC_UnitAlias>WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;$(DCC_UnitAlias)</DCC_UnitAlias>
+			<DCC_ExeOutput>.\$(Config)\$(Platform)</DCC_ExeOutput>
+			<DCC_E>false</DCC_E>
+			<DCC_N>false</DCC_N>
+			<DCC_S>false</DCC_S>
+			<DCC_F>false</DCC_F>
+			<DCC_K>false</DCC_K>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Cfg_1)'!=''">
+			<DCC_MapFile>3</DCC_MapFile>
+			<DCC_Define>DEBUG;EUREKALOG;EUREKALOG_VER6;$(DCC_Define)</DCC_Define>
+			<DCC_Optimize>false</DCC_Optimize>
+			<DCC_GenerateStackFrames>true</DCC_GenerateStackFrames>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Cfg_2)'!=''">
+			<DCC_LocalDebugSymbols>false</DCC_LocalDebugSymbols>
+			<DCC_Define>RELEASE;$(DCC_Define)</DCC_Define>
+			<DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
+			<DCC_DebugInformation>false</DCC_DebugInformation>
+		</PropertyGroup>
+		<ItemGroup>
+			<DelphiCompile Include="Visao.dpr">
+				<MainSource>MainSource</MainSource>
+			</DelphiCompile>
+			<DCCReference Include="Principal_p.pas">
+				<Form>Principal</Form>
+			</DCCReference>
+			<DCCReference Include="DMPrincipal_p.pas">
+				<Form>DMPrincipal</Form>
+				<DesignClass>TDataModule</DesignClass>
+			</DCCReference>
+			<DCCReference Include="TelaProdutos_p.pas">
+				<Form>TelaProdutos</Form>
+			</DCCReference>
+			<DCCReference Include="Funcoes_p.pas"/>
+			<DCCReference Include="Clientes_p.pas">
+				<Form>Clientes</Form>
+			</DCCReference>
+			<DCCReference Include="Mascote_p.pas">
+				<Form>Mascote</Form>
+			</DCCReference>
+			<DCCReference Include="Fornecedores_p.pas">
+				<Form>Fornecedores</Form>
+			</DCCReference>
+			<DCCReference Include="Pedidos_p.pas">
+				<Form>Pedidos</Form>
+			</DCCReference>
+			<DCCReference Include="Transportadores_p.pas">
+				<Form>Transportadores</Form>
+			</DCCReference>
+			<DCCReference Include="Usuarios_p.pas">
+				<Form>Usuarios</Form>
+			</DCCReference>
+			<DCCReference Include="Vendas_p.pas">
+				<Form>Vendas</Form>
+			</DCCReference>
+			<DCCReference Include="Vendas_Pagamento_p.pas">
+				<Form>Vendas_Pagamento</Form>
+			</DCCReference>
+			<DCCReference Include="PesquisaClientes_p.pas">
+				<Form>PesquisaClientes</Form>
+			</DCCReference>
+			<DCCReference Include="TelaSubgrupo_p.pas">
+				<Form>TelaSubgrupo</Form>
+			</DCCReference>
+			<DCCReference Include="TelaGrupo_p.pas">
+				<Form>TelaGrupo</Form>
+			</DCCReference>
+			<DCCReference Include="TelaEmpresa_p.pas">
+				<Form>TelaEmpresa</Form>
+			</DCCReference>
+			<DCCReference Include="TelaConfigAdminstrativa_p.pas">
+				<Form>TelaConfigAdministrativa</Form>
+			</DCCReference>
+			<DCCReference Include="DMVenda_p.pas">
+				<Form>DMVenda</Form>
+				<DesignClass>TDataModule</DesignClass>
+			</DCCReference>
+			<DCCReference Include="TelaAgendaBanhoeTosa_p.pas">
+				<Form>TelaAgendaBanhoeTosa</Form>
+			</DCCReference>
+			<DCCReference Include="TelaCadastraBanho_p.pas">
+				<Form>TelaCadastraBanho</Form>
+			</DCCReference>
+			<DCCReference Include="TelaAgendaClinica_p.pas">
+				<Form>TelaAgendaClinica</Form>
+			</DCCReference>
+			<DCCReference Include="TelaVeterinarios_p.pas">
+				<Form>TelaVeterinarios</Form>
+			</DCCReference>
+			<DCCReference Include="TelaCadastraConsulta_p.pas">
+				<Form>TelaCadastraConsulta</Form>
+			</DCCReference>
+			<DCCReference Include="TelaProcedimentos_p.pas">
+				<Form>TelaProcedimentos</Form>
+			</DCCReference>
+			<DCCReference Include="ConsultaProdutos_p.pas">
+				<Form>ConsultaProdutos</Form>
+			</DCCReference>
+			<DCCReference Include="TelaServidor_p.pas">
+				<Form>TelaServidor</Form>
+			</DCCReference>
+			<DCCReference Include="TelaSobre_p.pas">
+				<Form>TelaSobre</Form>
+			</DCCReference>
+			<DCCReference Include="TelaFoneFornecedor_p.pas">
+				<Form>TelaFoneFornecedor</Form>
+			</DCCReference>
+			<DCCReference Include="TelaRacas_p.pas">
+				<Form>TelaRacas</Form>
+			</DCCReference>
+			<DCCReference Include="TelaFoneClientes_p.pas">
+				<Form>TelaFoneCliente</Form>
+			</DCCReference>
+			<DCCReference Include="DMForncedores_p.pas">
+				<Form>DMFornecedores</Form>
+				<DesignClass>TDataModule</DesignClass>
+			</DCCReference>
+			<DCCReference Include="TelaContatoFornecedor_p.pas">
+				<Form>TelaContatoFornecedor</Form>
+			</DCCReference>
+			<DCCReference Include="DMClientes_p.pas">
+				<Form>DMClientes</Form>
+				<DesignClass>TDataModule</DesignClass>
+			</DCCReference>
+			<DCCReference Include="TelaCadastraMascote_p.pas">
+				<Form>TelaCadastraMascote</Form>
+			</DCCReference>
+			<DCCReference Include="ConsultaCliente_p.pas">
+				<Form>ConsultaCliente</Form>
+			</DCCReference>
+			<DCCReference Include="TelaCadastraTosador_p.pas">
+				<Form>TelaCadastraTosador</Form>
+			</DCCReference>
+			<DCCReference Include="TelaAberturaCaixa_p.pas">
+				<Form>TelaAberturaCaixa</Form>
+			</DCCReference>
+			<DCCReference Include="TelaCaixa_p.pas">
+				<Form>TelaCaixa</Form>
+			</DCCReference>
+			<DCCReference Include="RelatorioBoletimCaixa_p.pas">
+				<Form>RelatorioBoletimCaixa</Form>
+			</DCCReference>
+			<DCCReference Include="ConsultaProdutoVenda_p.pas">
+				<Form>ConsultaProdutoVenda</Form>
+			</DCCReference>
+			<DCCReference Include="PerguntaData_p.pas">
+				<Form>PerguntaData</Form>
+			</DCCReference>
+			<DCCReference Include="TelaContaCliente_p.pas">
+				<Form>TelaContaCliente</Form>
+			</DCCReference>
+			<DCCReference Include="TelaAcesso_p.pas">
+				<Form>TelaAcesso</Form>
+			</DCCReference>
+			<DCCReference Include="TelaContasPagar_p.pas">
+				<Form>TelaContasPagar</Form>
+			</DCCReference>
+			<DCCReference Include="LivroCaixa_p.pas">
+				<Form>LivroCaixa</Form>
+			</DCCReference>
+			<DCCReference Include="TelaMovimentacaoCaixa_p.pas">
+				<Form>TelaMovimentacaoCaixa</Form>
+			</DCCReference>
+			<DCCReference Include="..\Biblioteca de Fontes\programacao\Projetos\TrueSafe - Versão Final\MAXTEL_EVOLUTION\TelaPreVenda_p.pas">
+				<Form>TelaPreVenda</Form>
+			</DCCReference>
+			<DCCReference Include="TelaAlteraSenha_p.pas">
+				<Form>TelaAlteraSenha</Form>
+			</DCCReference>
+			<BuildConfiguration Include="Release">
+				<Key>Cfg_2</Key>
+				<CfgParent>Base</CfgParent>
+			</BuildConfiguration>
+			<BuildConfiguration Include="Base">
+				<Key>Base</Key>
+			</BuildConfiguration>
+			<BuildConfiguration Include="Debug">
+				<Key>Cfg_1</Key>
+				<CfgParent>Base</CfgParent>
+			</BuildConfiguration>
+		</ItemGroup>
+		<Import Condition="Exists('$(BDS)\Bin\CodeGear.Delphi.Targets')" Project="$(BDS)\Bin\CodeGear.Delphi.Targets"/>
+		<Import Condition="Exists('$(APPDATA)\Embarcadero\$(BDSAPPDATABASEDIR)\8.0\UserTools.proj')" Project="$(APPDATA)\Embarcadero\$(BDSAPPDATABASEDIR)\8.0\UserTools.proj"/>
+		<ProjectExtensions>
+			<Borland.Personality>Delphi.Personality.12</Borland.Personality>
+			<Borland.ProjectType/>
+			<BorlandProject>
+				<Delphi.Personality>
+					<VersionInfo>
+						<VersionInfo Name="IncludeVerInfo">True</VersionInfo>
+						<VersionInfo Name="AutoIncBuild">False</VersionInfo>
+						<VersionInfo Name="MajorVer">1</VersionInfo>
+						<VersionInfo Name="MinorVer">0</VersionInfo>
+						<VersionInfo Name="Release">0</VersionInfo>
+						<VersionInfo Name="Build">0</VersionInfo>
+						<VersionInfo Name="Debug">False</VersionInfo>
+						<VersionInfo Name="PreRelease">False</VersionInfo>
+						<VersionInfo Name="Special">False</VersionInfo>
+						<VersionInfo Name="Private">False</VersionInfo>
+						<VersionInfo Name="DLL">False</VersionInfo>
+						<VersionInfo Name="Locale">1046</VersionInfo>
+						<VersionInfo Name="CodePage">1252</VersionInfo>
+					</VersionInfo>
+					<VersionInfoKeys>
+						<VersionInfoKeys Name="CompanyName">GMSoftware</VersionInfoKeys>
+						<VersionInfoKeys Name="FileDescription"/>
+						<VersionInfoKeys Name="FileVersion">1.0.0.0</VersionInfoKeys>
+						<VersionInfoKeys Name="InternalName"/>
+						<VersionInfoKeys Name="LegalCopyright"/>
+						<VersionInfoKeys Name="LegalTrademarks"/>
+						<VersionInfoKeys Name="OriginalFilename"/>
+						<VersionInfoKeys Name="ProductName"/>
+						<VersionInfoKeys Name="ProductVersion">1.0.0.0</VersionInfoKeys>
+						<VersionInfoKeys Name="Comments"/>
+					</VersionInfoKeys>
+					<Source>
+						<Source Name="MainSource">Visao.dpr</Source>
+					</Source>
+					<Excluded_Packages>
+						<Excluded_Packages Name="$(BDSBIN)\dcloffice2k150.bpl">Microsoft Office 2000 Sample Automation Server Wrapper Components</Excluded_Packages>
+						<Excluded_Packages Name="$(BDSBIN)\dclofficexp150.bpl">Microsoft Office XP Sample Automation Server Wrapper Components</Excluded_Packages>
+					</Excluded_Packages>
+				</Delphi.Personality>
+				<Platforms>
+					<Platform value="Win32">True</Platform>
+				</Platforms>
+			</BorlandProject>
+			<ProjectFileVersion>12</ProjectFileVersion>
+		</ProjectExtensions>
+	</Project>

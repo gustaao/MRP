@@ -1,0 +1,1454 @@
+K Q‘ éáIàÿa§ RelatorioOC_p˛ˇñ <rRelatorioOC_p.dfmÆd–HpRelatorioOC_p.pas∂]ﬁH dSystem   gCompilerVersionπË≠7fTVisibilityClassesãö<fBoolean8ÅºbfTObject72#Xfstring,ºÀfUnicodeString,ºÀfInteger†ŒsµgTObject.EqualspR8gTObject.GetHashCodeqR8gTObject.ToStringrR8gTObject.DispatchvR8gTObject.NewInstancexR8gTObject.FreeInstanceyR8gFalse±*∫ıfReal‹b–gTrue¥*∫ıfExtended◊È≠§g
+@UStrEqualÈ`p≈g	@UStrCatNÈ`p≈g@UStrArrayClrÔ©·ÿg@UStrClr\™´>g@HandleFinallyÈ`p≈gTObject.Free]R8g@HandleAnyExceptionÈ`p≈g@DoneExceptÈ`p≈g	@UStrCat3ÅøÑcg@UStrAsg∫Z3´gCopy    g	@UStrCopy©˛óDf	TDateTimeW—◊f	PWideCharDÁ?˛f
+WideString›óØÌg@HandleOnExceptionÈ`p≈g@UStrToPWCharÁ-˚cdSysInit   cdWindows   gMB_OK¨}Á1cdMessages   cdSysUtils   gTrimﬁæ^ˆgStrToFloatDefO"ÑüÑ†L»gFormatFloatjÍÓæü{p¿tfTFormatSettings+®F gFormatFloat±¬2%gCurrencyString:"&ÀgStrToFloatDefb—VÌgFormatDateTimeÍPΩºüeXï"gFloatToStrF+I.ü«˛kfTFloatFormatQÁJÑgffNumber”êHgIntToStrT|Â∑g	DateToStr≠´-Õü-∏gFormatDateTime1?¿!gFloatToStrFNUwˆg	DateToStrà;L√f	Exception‰î[g
+.Exception«h9^cdVariants   cdClasses   gTComponent.UpdateRegistryïÕÖwgTComponent.WriteStateôÕÖwgTComponent.SafeCallException≥ÕÖwgTComponent.UpdateAction¥ÕÖwgTPersistent.Assign™çõÍfTStreamk;—˚cdGraphics   cdControls   gTWinControl.AssignTo+°,gTWinControl.CanAutoSize+°,gTWinControl.CanResize+°,gTWinControl.ConstrainedResize+°,gTWinControl.CreateHandle+°,g#TWinControl.CustomAlignInsertBefore +°,gTWinControl.CustomAlignPosition!+°,gTWinControl.DestroyWnd%+°,g!TWinControl.DockReplaceDockClient(+°,gTWinControl.GetClientOrigin5+°,gTWinControl.GetControlExtents7+°,gTWinControl.GetDeviceContext8+°,gTWinControl.SetParentBackgroundX+°,g#TWinControl.SetParentDoubleBufferedY+°,gTWinControl.ShowControl[+°,g+TWinControl.UpdateControlOriginalParentSize]+°,gTWinControl.Invalidateñ+°,gTWinControl.Repaintú+°,gTWinControl.SetBoundsü+°,gTWinControl.Update¢+°,gTControl.CreateTouchManager∞∆“¶gTControl.GetActionƒ∆“¶gTControl.GetEnabled ∆“¶g!TControl.GetFloatingDockSiteClassÃ∆“¶gTControl.SetAutoSize‡∆“¶gTControl.SetDragMode·∆“¶gTControl.SetEnabled‚∆“¶gTControl.SetName„∆“¶gTControl.SetBiDiModeÊ∆“¶gTControl.GetDragImagesÓ∆“¶gTControl.InitiateAction)«“¶gTControl.SetWidthl∆“¶gTControl.SetLeftb∆“¶gTControl.SetTopj∆“¶cdForms   fTFormf∂gTCustomForm.AlignControlsURŒÆgTCustomForm.ClientWndProcXRŒÆgTCustomForm.CreateParamsZRŒÆgTCustomForm.CreateWindowHandle[RŒÆgTCustomForm.CreateWnd\RŒÆgTCustomForm.DefineProperties^RŒÆgTCustomForm.DestroyHandle_RŒÆgTCustomForm.DestroyWindowHandle`RŒÆgTCustomForm.DoCreatebRŒÆgTCustomForm.DoDestroycRŒÆgTCustomForm.GetClientRecthRŒÆgTCustomForm.GetFloatingiRŒÆgTCustomForm.LoadedmRŒÆgTCustomForm.NotificationnRŒÆgTCustomForm.PaintWindowpRŒÆgTCustomForm.ReadStaterRŒÆgTCustomForm.RequestAlignsRŒÆgTCustomForm.SetParentBiDiModeuRŒÆgTCustomForm.SetParentwRŒÆgTCustomForm.UpdateActionsxRŒÆgTCustomForm.ValidateRenamezRŒÆgTCustomForm.WndProc|RŒÆgTCustomForm.Resizing}RŒÆgTCustomForm.QueryInterfaceÅRŒÆgTCustomForm.Create∫RŒÆgTCustomForm.CreateNewªRŒÆgTCustomForm.DestroyºRŒÆgTCustomForm.CloseQueryæRŒÆgTCustomForm.DefaultHandlerøRŒÆgTCustomForm.SetFocusÕRŒÆgTCustomForm.SetFocusedControlŒRŒÆgTCustomForm.ShowModal–RŒÆgTCustomForm.WantChildKey—RŒÆgTCustomForm.AfterConstruction”RŒÆgTCustomForm.BeforeDestruction‘RŒÆg%TScrollingWinControl.AdjustClientRectj\™5g&TScrollingWinControl.AutoScrollEnabledl\™5g%TScrollingWinControl.AutoScrollInViewm\™5gTScrollingWinControl.DoGesturer\™5g(TScrollingWinControl.DoGetGestureOptionss\™5g.TFormI„ÔgApplicationÕÓÈ≤gTApplication.MessageBoxÜ©ÂJcdDialogs   cdDB   gTDataSet.FieldByNameÕˇäfTBlobStreamModenÑ!gbmReadçÇ¥gTDataSet.CloseƒˇägTDataSet.OpenÎˇägTField.GetEditTextÄ†[!gTParam.SetAsFloatä”g!cdQuickRpt   f	TQuickRep50˛πfTQRBandaaú%fTQRGroupµkˇ+fTQRCustomBandË«ÄfTCustomQuickRepd^d~g
+.TQuickRep‹g.TQRBandD5zwg	.TQRGroupò?›}gTCustomQuickRep.NewPageycdQRCtrls   f	TQRDBTextﬁÆ‹fTQRExpr∫º~efTQRLabelEmÂfTQRShape©Ã≠íf
+TQRSysData∑Ÿî∫fTQRImageø!XÊg
+.TQRDBText¡Çı-g.TQRExprùê\∑g	.TQRLabel(AÔ6g	.TQRShapeå†ã‰g.TQRSysDataö≠rg	.TQRImage¢ı58gTQRCustomLabel.SetCaptionÏw±ögTQRDBText.SetMaskœ,tgTQRCustomLabel.GetCaptionËw±öcdExtCtrls   cd
+IBDatabase   fTIBTransactionÁV˘g.TIBTransaction *ÙJgTIBTransaction.SetActive)w+ëgTIBTransaction.StartTransaction?w+ëgTIBTransaction.Commit;w+ëgTIBTransaction.Rollback=w+ëcdIBCustomDataSet   cdIBQuery   fTIBQuery+÷tÏg	.TIBQuery™R>gTIBQuery.ParamByNamexˆâÑgTIBQuery.ExecSQLvˆâÑcdjpeg   f
+TJPEGImage,W‘Õg.TJPEGImage+≤gTJPEGImage.CreateywÈecdStdCtrls   cdButtons   fTBitBtnúº>‡g.TBitBtnê2cd	grimgctrl   fTQRPDFShape·E¢#g.TQRPDFShapeƒÄuceDMIB_p   gDMIB˛º8öcePerguntaCodigoPedidof_p   gPerguntaCodigoPedidoféﬂ≤vce	FunData_p   gFormataCNPJeCPFoG-˚g	FormataIE
+_fÛceMask  gTCustomMaskEdit.GetText`g6c5RelatorioOC_pÄ  _∏éœc5System   c5SysInit   Jc5Windows   Lc5Messages   Pc5SysUtils   Rc5Variants   xc5Classes   zc5Graphics   àc5Controls   äc5Forms   –c5Dialogs   Uc5DB   Yc5QuickRpt   yc5QRCtrls   °c5ExtCtrls   ·c5
+IBDatabase   Âc5IBCustomDataSet   c5IBQuery   c5JPEG   c5StdCtrls   )c5Buttons   -c5	grimgctrl   9c&.TRelatorioOCÄ  HFÜD *TRelatorioOCà  e.h4F RelatorioOCÊ  sîÅ4FÅ FECHAPAGINAÊ  Æ4çµÖ VarNRPEDIDOÊ  Æ4çµâ'VarExibirFISPQouCAÊ  'D™ÜU='VarNumeroPaginasÊ  ÀƒOÙY=7.2F  H 5DMIB_p   Ec5PerguntaCodigoPedidof_p   Mc5	FunData_p   Uc(+TRelatorioOC.LimpaCondicaoPagtoÄ  UO}Ã —SàJF!Selff  F¯!	VarIniciof  cúÒ  Fˇ(+TRelatorioOC.QRBand2BeforePrintÄ  GO}Ã ÅàJF!Selff  F¯!Senderf  *Ò˛"	PrintBandf  ·˛ .f  ‡ .f  ÿ .f  ¿ .f  † .f  ò .f  Äcú˝  Fˇ(,TRelatorioOC.QRGroup1BeforePrintÄ  HO}Ã bàJF!Selff  F¯!Senderf  *"	PrintBandf  Ëcú%  Fˇ(*TRelatorioOC.QRBand3AfterPrintÄ  IO}Ã ëàJF!Selff  F¯!Senderf  *‡!BandPrintedf  ﬁ Jpgf  > bf  Ëcú5  Fˇ(+TRelatorioOC.QRBand4BeforePrintÄ  JO}Ã :àJF!Selff  F¯!Senderf  *"	PrintBandf  ËcúM  Fˇ((TRelatorioOC.QRDBText14PrintÄ  RO}Ã —àJF!Selff  F¯!senderf  Ë"Valuef  
+cú]  Fˇ('TRelatorioOC.QRDBText7PrintÄ  QO}Ã !àJF!Selff  F¯!senderf  ÿ"Valuef  
+ FoneOriginalf  
+Ë Montagemf  
+‡cúm  Fˇ(0TRelatorioOC.MostraCondicaoPagamentoÄ  TO}Ã #}òJF!Selff  F¯ .f  ‡ .f  ÿ .f  ¿ .f  ∏ .f  † .f  ò .f  Ä .f  Ò˛ .f  ¡˛ .f  ±˛ .f  Å˛ .f  q˛ .f  A˛ .f  1˛ .f  ˛ .f  Ò˝ .f  ¡˝ .f  ±˝ .f  Å˝ .f  q˝ .f  A˝ .f  1˝ .f  ˝ .f  Ò¸ .f  ¡¸ .f  ±¸ .f  Å¸ .f  q¸ .f  A¸ .f  1¸ .f  ¸ .f  Ò˚ .f  ¡˚ .f  ±˚ .f  Å˚ .f  q˚ .f  A˚ .f  1˚ .f  ˚ .f  Ò˙ .f  ¡˙ .f  ±˙ .f  Å˙ .f  q˙ .f  A˙ .f  1˙ .f  ˙ .f  Ò˘ .f  ¡˘ .f  ±˘ .f  Å˘ .f  q˘ .f  A˘ .f  1˘ .f  ˘ .f  Ò¯ .f  ¡¯ .f  ±¯ .f  Å¯ .f  q¯ .f  A¯ .f  1¯ .f  ¯ .f  Ò˜ .f  ¡˜ .f  ±˜ .f  Å˜ .f  q˜ .f  A˜ .f  1˜ .f  ˜ .f  Òˆ .f  ¡ˆ .f  ±ˆ .f  Åˆ .f  qˆ .f  Aˆ .f  1ˆ .f  ˆ .f  Òı .f  ¡ı .f  ±ı .f  Åı .f  qı .f  Aı .f  1ı .f  ı .f  ÒÙ .f  ¡Ù .f  ±Ù .f  ÅÙ .f  qÙ .f  AÙ .f  1Ù .f  Ù .f  ÒÛ .f  ¡Û .f  ±Û .f  ÅÛ .f  qÛ .f  AÛ .f  1Û .f  Û .f  ÒÚ .f  ¡Ú .f  ±Ú .f  ÅÚ .f  qÚ .f  AÚ .f  1Ú .f  Ú .f  ÒÒ .f  ¡Ò .f  ±Ò .f  ÅÒ .f  qÒ .f  AÒ .f  1Ò .f  Ò .f  Ò .f  ¡ .f  ± .f  Å .f  q .f  A .f  1 .f   .f  ÒÔ .f  ¡Ô .f  ±Ô .f  ÅÔ .f  qÔ .f  AÔ .f  1Ô .f  Ô .f  ÒÓ .f  ¡Ó .f  ±Ó .f  ÅÓ .f  qÓ .f  AÓ .f  1Ó .f  Ó .f  ÒÌ .f  ¡Ì .f  ±Ì .f  ÅÌ .f  qÌ .f  AÌ .f  1Ì .f  Ì .f  ÒÏ .f  ¡Ï .f  ±Ï .f  ÅÏ .f  qÏ .f  AÏ .f  1Ï .f  Ï .f  ÒÎ .f  ¡Î .f  ±Î .f  ÅÎ .f  qÎ .f  AÎ .f  1Î .f  Î .f  ÒÍ .f  ¡Í .f  ±Í .f  ÅÍ .f  qÍ .f  AÍ .f  1Í .f  Í .f  ÒÈ .f  ¡È .f  ±È .f  ÅÈ .f  qÈ .f  AÈ .f  1È .f  È .f  ÒË .f  ¡Ë .f  ±Ë .f  ÅË .f  qË .f  AË .f  1Ë .f  Ë .f  ÒÁ .f  ¡Á .f  ±Á .f  ÅÁ .f  qÁ .f  AÁ .f  1Á .f  Á .f  ÒÊ .f  ¡Ê .f  ±Ê .f  ÅÊ .f  qÊ .f  AÊ .f  1Ê .f  Ê .f  ÒÂ .f  ¡Â .f  ±Â .f  ÅÂ .f  qÂ .f  AÂ .f  1Â .f  Â .f  Ò‰ .f  ¡‰ .f  ±‰ .f  Å‰ .f  q‰ .f  A‰ .f  1‰ .f  ‰ .f  Ò„ .f  ¡„ .f  ±„ .f  Å„ .f  q„ .f  A„ .f  1„ .f  „ .f  Ò‚ .f  ¡‚ .f  ±‚ .f  Å‚ .f  q‚ .f  A‚ .f  1‚ .f  ‚ .f  Ò· .f  ¡· .f  ±· .f  Å· .f  q· .f  A· .f  1· .f  · .f  Ò‡ .f  ¡‡ .f  ±‡ .f  Å‡ .f  q‡ .f  A‡ .f  1‡ .f  ‡ .f  Òﬂ .f  ¡ﬂ .f  ±ﬂ .f  Åﬂ .f  qﬂ .f  Aﬂ .f  1ﬂ .f  ﬂ .f  Òﬁ .f  ¡ﬁ .f  ±ﬁ .f  Åﬁ .f  qﬁ .f  Aﬁ .f  1ﬁ .f  ﬁ .f  Ò› .f  ¡› .f  ±› .f  Å› .f  q› .f  A› .f  1› .f  › .f  Ò‹ .f  ¡‹ .f  ±‹ .f  Å‹ .f  q‹ .f  A‹ .f  1‹ .f  ‹ .f  Ò€ .f  ¡€ .f  ±€ .f  Å€ .f  q€ .f  A€ .f  1€ .f  € .f  Ò⁄ .f  ¡⁄ .f  ±⁄ .f  Å⁄ .f  q⁄ .f  A⁄ .f  1⁄ .f  ⁄ .f  ÒŸ .f  ¡Ÿ .f  ±Ÿ .f  ÅŸ .f  qŸ .f  AŸ .f  1Ÿ .f  Ÿ .f  Òÿ .f  ¡ÿ .f  ±ÿ .f  Åÿ .f  qÿ .f  Aÿ .f  1ÿ .f  ÿ .f  Ò◊ .f  ¡◊ .f  ±◊ .f  Å◊ .f  q◊ .f  A◊ .f  1◊ .f  ◊ .f  Ò÷ .f  ¡÷ .f  ±÷ .f  Å÷ .f  q÷ .f  A÷ .f  1÷ .f  ÷ .f  Ò’ .f  ¡’ .f  ±’ .f  Å’ .f  q’ .f  A’ .f  1’ .f  ’ .f  Ò‘ .f  ¡‘ .f  ±‘ .f  Å‘ .f  q‘ .f  A‘ .f  1‘ .f  ‘ .f  Ò” .f  ¡” .f  ±” .f  Å” .f  q” .f  A” .f  1” .f  ” .f  Ò“ .f  ¡“ .f  ±“ .f  Å“ .f  q“ .f  A“ .f  1“ .f  “ .f  Ò— .f  ¡— .f  ±— .f  Å— .f  q— .f  A— .f  1— .f  — .f  Ò– .f  ¡– .f  ±– .f  Å– .f  q– .f  A– .f  1– .f  – .f  Òœ .f  ¡œ .f  ±œ .f  Åœ .f  qœ .f  Aœ .f  1œ .f  œ .f  ÒŒ .f  ¡Œ .f  ±Œ .f  ÅŒ .f  qŒ .f  AŒ .f  1Œ .f  Œ .f  ÒÕ .f  ¡Õ .f  ±Õ .f  ÅÕ .f  qÕ .f  AÕ .f  1Õ .f  Õ .f  ÒÃ .f  ¡Ã .f  ±Ã .f  ÅÃ .f  qÃ .f  AÃ .f  1Ã .f  Ã .f  ÒÀ .f  ¡À .f  ±À .f  ÅÀ .f  qÀ .f  AÀ .f  1À .f  À .f  Ò  .f  ¡  .f  ±  .f  Å  .f  q  .f  A  .f  1  .f    .f  Ò… .f  ¡… .f  ±… .f  Å… .f  q… .f  A… .f  1… .f  … .f  Ò» .f  ¡» .f  ±» .f  Å» .f  q» .f  A» .f  1» .f  » .f  Ò« .f  ¡« .f  ±« .f  Å« .f  q« .f  A« .f  1« .f  « .f  Ò∆ .f  ¡∆ .f  ±∆ .f  Å∆ .f  q∆ .f  A∆ .f  1∆ .f  ∆ .f  Ò≈ .f  ¡≈ .f  ±≈ .f  Å≈ .f  q≈ .f  A≈ .f  1≈ .f  ≈ .f  Òƒ .f  ¡ƒ .f  ±ƒ .f  Åƒ .f  qƒ .f  Aƒ .f  1ƒ .f  ƒ .f  Ò√ .f  ¡√ .f  ±√ .f  Å√ .f  q√ .f  A√ .f  1√ .f  √ .f  Ò¬ .f  ¡¬ .f  ±¬ .f  Å¬ .f  q¬ .f  A¬ .f  1¬ .f  ¬ .f  Ò¡ .f  ¡¡ .f  ±¡ .f  Å¡ .f  q¡ .f  A¡ .f  1¡ .f  ¡ .f  Ò¿ .f  ¡¿ .f  ±¿ .f  Å¿ .f  q¿ .f  A¿ .f  1¿ .f  ¿ .f  Òø .f  ¡ø .f  ±ø .f  Åø .f  qø .f  Aø .f  1ø .f  ø .f  Òæ .f  ¡æ .f  ±æ .f  Åæ .f  qæ .f  Aæ .f  1æ .f  æ .f  ÒΩ .f  ¡Ω .f  ±Ω .f  ÅΩ .f  qΩ .f  AΩ .f  1Ω .f  Ω .f  Òº .f  ¡º .f  ±º .f  Åº .f  qº .f  Aº .f  1º .f  º .f  Òª .f  ¡ª .f  ±ª .f  Åª .f  qª .f  Aª .f  1ª .f  ª .f  Ò∫ .f  ¡∫ .f  ±∫ .f  Å∫ .f  q∫ .f  A∫ .f  1∫ .f  ∫ .f  Òπ .f  ¡π .f  ±π .f  Åπ .f  qπ .f  Aπ .f  1π .f  π .f  Ò∏ .f  ¡∏ .f  ±∏ .f  Å∏ .f  q∏ .f  A∏ .f  1∏ .f  ∏ .f  Ò∑ .f  ¡∑ .f  ±∑ .f  Å∑ .f  q∑ .f  A∑ .f  1∑ .f  ∑ .f  Ò∂ .f  ¡∂ .f  ±∂ .f  Å∂ .f  q∂ .f  A∂ .f  1∂ .f  ∂ .f  Òµ .f  ¡µ .f  ±µ .f  Åµ .f  qµ .f  Aµ .f  1µ .f  µ .f  Ò¥ .f  ¡¥ .f  ±¥ .f  Å¥ .f  q¥ .f  A¥ .f  1¥ .f  ¥ .f  Ò≥ .f  ¡≥ .f  ±≥ .f  Å≥ .f  q≥ .f  A≥ .f  1≥ .f  ≥ .f  Ò≤ .f  ¡≤ .f  ±≤ .f  Å≤ .f  q≤ .f  A≤ .f  1≤ .f  ≤ .f  Ò± .f  ¡± .f  ±± .f  Å± .f  q± .f  A± .f  1± .f  ± .f  Ò∞ .f  ¡∞ .f  ±∞ .f  Å∞ .f  q∞ .f  A∞ .f  1∞ .f  ∞ .f  ÒØ .f  ¡Ø .f  ±Ø .f  ÅØ .f  qØ .f  AØ .f  1Ø .f  Ø .f  ÒÆ .f  ¡Æ .f  ±Æ .f  ÅÆ .f  qÆ .f  AÆ .f  1Æ .f  Æ .f  Ò≠ .f  ¡≠ .f  ±≠ .f  Å≠ .f  q≠ .f  A≠ .f  1≠ .f  ≠ .f  Ò¨ .f  ¡¨ .f  ±¨ .f  Å¨ .f  q¨ .f  A¨ .f  1¨ .f  ¨ .f  Ò´ .f  ¡´ .f  ±´ .f  Å´ .f  q´ .f  A´ .f  1´ .f  ´ .f  Ò™ .f  ¡™ .f  ±™ .f  Å™ .f  q™ .f  A™ .f  1™ .f  ™ .f  Ò© .f  ¡© .f  ±© .f  Å© .f  q© .f  A© .f  1© .f  © .f  Ò® .f  ¡® .f  ±® .f  Å® .f  q® .f  A® .f  1® .f  ® .f  Òß .f  ¡ß .f  ±ß .f  Åß .f  qß .f  Aß .f  1ß .f  ß .f  Ò¶ .f  ¡¶ .f  ±¶ .f  Å¶ .f  q¶ .f  A¶ .f  1¶ .f  ¶ .f  Ò•cúÖ  Fˇ(+TRelatorioOC.QRBand1BeforePrintÄ  KO}Ã ·^àJF!Selff  F¯!Senderf  *a˝"	PrintBandf  Q˝ b1f   Jpg1f  >Ë VarContagemf  ‡ VarmontaMascaraCGCf  
+A˝ VarmontaMascaraCGCFinalf  
+1˝ .f  – .f  » .f  † .f  ò .f  Ä .f  Ò˛ .f  ¡˛ .f  ±˛ .f  Å˛ .f  q˛ .f  A˛ .f  1˛ .f  ˛ .f  Ò˝ .f  ¡˝ .f  ±˝ .f  Å˝ .f  q˝cúÕ  Fˇ(-TRelatorioOC.QuickRep1BeforePrintÄ  LO}Ã AàJF!Selff  F¯!Senderf  ,"PrintReportf  Ëcú9  Fˇ(*TRelatorioOC.QRBand1AfterPrintÄ  MO}Ã aàJF!Selff  F¯!Senderf  *ò!BandPrintedf  ñ VarImpressoAntesf  ‡ Ef  ÿ .f  L– .f  †cúI  Fˇ(.TRelatorioOC.QuickRep1AfterPreviewÄ  NO}Ã TàJF!Selff  F¯!Senderf  cúi  Fˇ(%TRelatorioOC.BitBtn1ClickÄ  PO}Ã 1HàJF!Selff  F¯!Senderf  cúu  Fˇ(#TRelatorioOC.FormCreateÄ  OO}Ã 4àJF!Selff  F¯!Senderf  cúÅ  Fˇ(FinalizationÄ  È`p≈ !êJ cû(RelatorioOC_pÄ       !J cû˛G   F5<F!…  2É  ≈â˛‹&   Ä ,	QuickRep1 
+ $!úë  Fˇ,QRBand1 
+ &1úï  Fˇ,	QRDBText2 
+ .Aúô  Fˇ,	QRDBText4 
+ .Qúù  Fˇ,	QRDBText5 
+ .aú°  Fˇ,	QRDBText6 
+ .qú•  Fˇ,QRBand2 
+ &Åú©  Fˇ,	QRDBText9 
+ .ëú≠  Fˇ,
+QRDBText10 
+ .°ú±  Fˇ,
+QRDBText13 
+ .±úµ  Fˇ,QRExpr1 
+ 0¡úπ  Fˇ,QRBand4 
+ &—úΩ  Fˇ,QRGroup1 
+ (·ú¡  Fˇ,QRBand3 
+ &Òú≈  Fˇ,
+QRDBText15 
+ .ú…  Fˇ,	QRDBText7 
+ .úÕ  Fˇ,	QRDBText8 
+ .!ú—  Fˇ,QRLabelNUMERO 
+ 21ú’  Fˇ,QRLabelAlteracao 
+ 2AúŸ  Fˇ,QRShape1 
+ 4Qú›  Fˇ,	QRLabel16 
+ 2aú·  Fˇ,	QRLabel18 
+ 2qúÂ  Fˇ,	QRLabel19 
+ 2ÅúÈ  Fˇ,	QRLabel20 
+ 2ëúÌ  Fˇ,	QRLabel21 
+ 2°úÒ  Fˇ,	QRLabel14 
+ 2±úı  Fˇ,	QRLabel30 
+ 2¡ú˘  Fˇ,	QRLabel36 
+ 2—ú˝  Fˇ,	QRLabel37 
+ 2·ú  Fˇ,	QRLabel38 
+ 2Òú  Fˇ,	QRLabel39 
+ 2ú	  Fˇ,	QRLabel15 
+ 2ú  Fˇ,QRLabelTXT3 
+ 2!ú  Fˇ,QRLabelTXT4 
+ 21ú  Fˇ,QRLabelTXT5 
+ 2Aú  Fˇ,QRLabelTXT6 
+ 2Qú  Fˇ,QRLabelTXT8 
+ 2aú!  Fˇ,	QRLabel52 
+ 2qú%  Fˇ,	QRLabel51 
+ 2Åú)  Fˇ,	QRLabel54 
+ 2ëú-  Fˇ,	QRLabel55 
+ 2°ú1  Fˇ,	QRLabel56 
+ 2±ú5  Fˇ,	QRLabel58 
+ 2¡ú9  Fˇ,	QRLabel40 
+ 2—ú=  Fˇ,	QRLabel64 
+ 2·úA  Fˇ,	QRDBText1 
+ .ÒúE  Fˇ,IBQ2 
+ <úI  Fˇ,QRLabelEndereco 
+ 2úM  Fˇ,
+QRSysData1 
+ 6!úQ  Fˇ,
+QRSysData2 
+ 61úU  Fˇ,QRLabelEmpresa 
+ 2AúY  Fˇ,	QRLabel28 
+ 2Qú]  Fˇ,
+QRDBText14 
+ .aúa  Fˇ,QRLabelTxT14 
+ 2qúe  Fˇ,	QRLabel33 
+ 2Åúi  Fˇ,
+QRDBText12 
+ .ëúm  Fˇ,	QRLabel31 
+ 2°úq  Fˇ,QRExpr2 
+ 0±úu  Fˇ,QRImgAssinatura 
+ 8¡úy  Fˇ,QRLabelLiberadoPor 
+ 2—ú}  Fˇ,	QRLabel34 
+ 2·úÅ  Fˇ,	QRLabel41 
+ 2ÒúÖ  Fˇ,	QRLabel29 
+ 2úâ  Fˇ,	QRLabel32 
+ 2úç  Fˇ,	QRLabel42 
+ 2!úë  Fˇ,	QRLabel43 
+ 21úï  Fˇ,
+QRDBText16 
+ .Aúô  Fˇ,IBQ3 
+ <Qúù  Fˇ,QRLabel1 
+ 2aú°  Fˇ,IBQ4 
+ <qú•  Fˇ,QRImage1 
+ 8Åú©  Fˇ,qrlData1 
+ 2ëú≠  Fˇ,qrlData2 
+ 2°ú±  Fˇ,qrlData3 
+ 2±úµ  Fˇ,qrl1 
+ 2¡úπ  Fˇ,qrl2 
+ 2—úΩ  Fˇ,qrl3 
+ 2·ú¡  Fˇ,IBQ5 
+ <Òú≈  Fˇ,QRLabelFISPQCA 
+ 2ú…  Fˇ,QRLabelMensagemFISPQCA 
+ 2úÕ  Fˇ,IBT2 
+ :!ú—  Fˇ,IBT3 
+ :1ú’  Fˇ,IBT4 
+ :AúŸ  Fˇ,IBT5 
+ :Qú›  Fˇ,IBQ1 
+ <aú·  Fˇ,BitBtn1 
+ @qúÂ  Fˇ,qrl4 
+ 2ÅúÈ  Fˇ,qrlData4 
+ 2ëúÌ  Fˇ,qrl5 
+ 2°úÒ  Fˇ,qrlData5 
+ 2±úı  Fˇ,qrlData6 
+ 2¡ú˘  Fˇ,qrl6 
+ 2—ú˝  Fˇ,QRLabel3 
+ 2·ú  Fˇ,QRLData7 
+ 2Òú  Fˇ,QRLabel5 
+ 2ú	  Fˇ,QRLData8 
+ 2ú  Fˇ,QRLabel7 
+ 2!ú  Fˇ,QRLData9 
+ 21ú  Fˇ,QRL8 
+ 2Aú  Fˇ,	QRLData11 
+ 2Qú  Fˇ,QRL9 
+ 2aú!  Fˇ,	QRLData12 
+ 2qú%  Fˇ,QRl7 
+ 2Åú)  Fˇ,	QRLData10 
+ 2ëú-  Fˇ,QRL13 
+ 2°ú1  Fˇ,	QRLData13 
+ 2±ú5  Fˇ,QRL10 
+ 2¡ú9  Fˇ,QRL11 
+ 2—ú=  Fˇ,QRL12 
+ 2·úA  Fˇ,QRL14 
+ 2ÒúE  Fˇ,	QRLData14 
+ 2úI  Fˇ,QRL15 
+ 2úM  Fˇ,	QRLData15 
+ 2!úQ  Fˇ,QRLabelCGCouCPF 
+ 21úU  Fˇ,QRLabel6 
+ 2AúY  Fˇ,
+QRDBText18 
+ .Qú]  Fˇ,QRLabel4 
+ 2aúa  Fˇ,QRLabel8 
+ 2qúe  Fˇ,QRLabel9 
+ 2Åúi  Fˇ,
+QRDBText19 
+ .ëúm  Fˇ,	QRLabel11 
+ 2°úq  Fˇ,	QRLabel12 
+ 2±úu  Fˇ,	QRLabel17 
+ 2¡úy  Fˇ,	QRLabel13 
+ 2—ú}  Fˇ,QRLabelOBSCOMPRA 
+ 2·úÅ  Fˇ,	QRLabel22 
+ 2ÒúÖ  Fˇ,	QRLabel25 
+ 2úâ  Fˇ,	QRShape37 
+ 4úç  Fˇ,	QRLabel26 
+ 2!úë  Fˇ,	QRLabel27 
+ 21úï  Fˇ,	QRLabel35 
+ 2Aúô  Fˇ,
+QRDBText21 
+ .Qúù  Fˇ,
+QRDBText22 
+ .aú°  Fˇ,QRLabelTotalIPI 
+ 2qú•  Fˇ,QRLabelTotalICMS 
+ 2Åú©  Fˇ,QRLabelTotalProdutos 
+ 2ëú≠  Fˇ,
+QRDBText17 
+ .°ú±  Fˇ,	QRLabel44 
+ 2±úµ  Fˇ,	QRDBText3 
+ .¡úπ  Fˇ,QRLabel2 
+ 2—úΩ  Fˇ,	QRLabel24 
+ 2·ú¡  Fˇ,	QRLabel23 
+ 2Òú≈  Fˇ,
+QRDBText20 
+ .ú…  Fˇ,	QRLabel45 
+ 2úÕ  Fˇ,	QRLabel46 
+ 2!ú—  Fˇ,QRLabelCNPJ 
+ 21ú’  Fˇ,	QRLabelIE 
+ 2AúŸ  Fˇ,QRPDFShape1 
+ BQú›  Fˇ,QRPDFShape2 
+ Baú·  Fˇ,QRPDFShape3 
+ BqúÂ  Fˇ,QRPDFShape4 
+ BÅúÈ  Fˇ,QRPDFShape9 
+ BëúÌ  Fˇ,QRPDFShape10 
+ B°úÒ  Fˇ,QRPDFShape11 
+ B±úı  Fˇ,QRPDFShape12 
+ B¡ú˘  Fˇ,QRPDFShape13 
+ B—ú˝  Fˇ,QRPDFShape14 
+ B·ú  Fˇ,QRPDFShape15 
+ BÒú  Fˇ,QRPDFShape5 
+ Bú	  Fˇ,QRPDFShape26 
+ Bú  Fˇ,QRPDFShape27 
+ B!ú  Fˇ,QRPDFShape28 
+ B1ú  Fˇ,QRPDFShape29 
+ BAú  Fˇ,QRPDFShape30 
+ BQú  Fˇ,QRPDFShape31 
+ Baú!  Fˇ,QRPDFShape32 
+ Bqú%  Fˇ,QRPDFShape33 
+ BÅú)  Fˇ,QRPDFShape34 
+ Bëú-  Fˇ,QRPDFShape35 
+ B°ú1  Fˇ,QRPDFShape6 
+ B±ú5  Fˇ,QRPDFShape7 
+ B¡ú9  Fˇ,QRPDFShape8 
+ B—ú=  Fˇ,QRPDFShape36 
+ B·úA  Fˇ,QRPDFShape37 
+ BÒúE  Fˇ,QRPDFShape38 
+ BúI  Fˇ,QRPDFShape39 
+ BúM  Fˇ,QRPDFShape40 
+ B!úQ  Fˇ,QRPDFShape41 
+ B1úU  Fˇ,QRPDFShape42 
+ BAúY  Fˇ,QRPDFShape16 
+ BQú]  Fˇ,IBT1 
+ :aúa  Fˇ,	QRLabel10 
+ 2qúe  Fˇ,QRLabelDESCRICAO 
+ 2Åúi  Fˇ,QRLabelRequisicao 
+ 2ëúm  Fˇ,	QRLabel47 
+ 2°úq  Fˇ,QRLabelAutorizado 
+ 2±úu  Fˇ,QRLabelLinha 
+ 2¡úy  Fˇ,	QRLabel49 
+ 2—ú}  Fˇ,	QRLabel50 
+ 2·úÅ  Fˇ.QRBand2BeforePrint 
+ Ë˝àúÖ  Fˇ.QRGroup1BeforePrint 
+ Ë%àúâ  Fˇ.QRBand3AfterPrint 
+ Ë5àúç  Fˇ.QRBand4BeforePrint 
+ ËMàúë  Fˇ.QRBand1BeforePrint 
+ ËÕàúï  Fˇ.QuickRep1BeforePrint 
+ Ë9àúô  Fˇ.QRBand1AfterPrint 
+ ËIàúù  Fˇ.QuickRep1AfterPreview 
+ Ëiàú°  Fˇ.
+FormCreate 
+ ËÅàú•  Fˇ.BitBtn1Click 
+ Ëuàú©  Fˇ.QRDBText7Print 
+ Ëmàú≠  Fˇ.QRDBText14Print 
+ Ë]àú±  Fˇ,VarAgoraConta   Òúµ  Fˇ.MostraCondicaoPagamento  ËÖòúπ  Fˇ.LimpaCondicaoPagto  ËÒàúΩ  FˇcD   H   Äˇˇˇ†@     E   J l3È	X                  t  ü      æ  Ñ                                                                                                                                                                                                                                                                                                                                              Ω ◊  à    	QuickRep1å   QRBand1ê   	QRDBText2î   	QRDBText4ò   	QRDBText5ú   	QRDBText6†   QRBand2§   	QRDBText9®   
+QRDBText10¨   
+QRDBText13∞   QRExpr1¥   QRBand4∏   QRGroup1º   QRBand3¿   
+QRDBText15ƒ   	QRDBText7»   	QRDBText8Ã   QRLabelNUMERO–   QRLabelAlteracao‘   QRShape1ÿ   	QRLabel16‹   	QRLabel18‡   	QRLabel19‰   	QRLabel20Ë   	QRLabel21Ï   	QRLabel14   	QRLabel30Ù   	QRLabel36¯   	QRLabel37¸   	QRLabel38    	QRLabel39   	QRLabel15   QRLabelTXT3   QRLabelTXT4   QRLabelTXT5   QRLabelTXT6   QRLabelTXT8   	QRLabel52    	QRLabel51$   	QRLabel54(   	QRLabel55,   	QRLabel560   	QRLabel584   	QRLabel408   	QRLabel64<   	QRDBText1@   IBQ2D   QRLabelEnderecoH   
+QRSysData1L   
+QRSysData2P   QRLabelEmpresaT   	QRLabel28X   
+QRDBText14\   QRLabelTxT14`   	QRLabel33d   
+QRDBText12h   	QRLabel31l   QRExpr2p  	 QRImgAssinaturat   QRLabelLiberadoPorx   	QRLabel34|   	QRLabel41Ä   	QRLabel29Ñ   	QRLabel32à   	QRLabel42å   	QRLabel43ê   
+QRDBText16î   IBQ3ò   QRLabel1ú   IBQ4†  	 QRImage1§   qrlData1®   qrlData2¨   qrlData3∞   qrl1¥   qrl2∏   qrl3º   IBQ5¿   QRLabelFISPQCAƒ   QRLabelMensagemFISPQCA»  
+ IBT2Ã  
+ IBT3–  
+ IBT4‘  
+ IBT5ÿ   IBQ1‹   BitBtn1‡   qrl4‰   qrlData4Ë   qrl5Ï   qrlData5   qrlData6Ù   qrl6¯   QRLabel3¸   QRLData7    QRLabel5   QRLData8   QRLabel7   QRLData9   QRL8   	QRLData11   QRL9   	QRLData12    QRl7$   	QRLData10(   QRL13,   	QRLData130   QRL104   QRL118   QRL12<   QRL14@   	QRLData14D   QRL15H   	QRLData15L   QRLabelCGCouCPFP   QRLabel6T   
+QRDBText18X   QRLabel4\   QRLabel8`   QRLabel9d   
+QRDBText19h   	QRLabel11l   	QRLabel12p   	QRLabel17t   	QRLabel13x   QRLabelOBSCOMPRA|   	QRLabel22Ä   	QRLabel25Ñ   	QRShape37à   	QRLabel26å   	QRLabel27ê   	QRLabel35î   
+QRDBText21ò   
+QRDBText22ú   QRLabelTotalIPI†   QRLabelTotalICMS§   QRLabelTotalProdutos®   
+QRDBText17¨   	QRLabel44∞   	QRDBText3¥   QRLabel2∏   	QRLabel24º   	QRLabel23¿   
+QRDBText20ƒ   	QRLabel45»   	QRLabel46Ã   QRLabelCNPJ–   	QRLabelIE‘   QRPDFShape1ÿ   QRPDFShape2‹   QRPDFShape3‡   QRPDFShape4‰   QRPDFShape9Ë   QRPDFShape10Ï   QRPDFShape11   QRPDFShape12Ù   QRPDFShape13¯   QRPDFShape14¸   QRPDFShape15    QRPDFShape5   QRPDFShape26   QRPDFShape27   QRPDFShape28   QRPDFShape29   QRPDFShape30   QRPDFShape31   QRPDFShape32    QRPDFShape33$   QRPDFShape34(   QRPDFShape35,   QRPDFShape60   QRPDFShape74   QRPDFShape88   QRPDFShape36<   QRPDFShape37@   QRPDFShape38D   QRPDFShape39H   QRPDFShape40L   QRPDFShape41P   QRPDFShape42T   QRPDFShape16X  
+ IBT1\   	QRLabel10`   QRLabelDESCRICAOd   QRLabelRequisicaoh   	QRLabel47l   QRLabelAutorizadop   QRLabelLinhat   	QRLabel49x   	QRLabel50        QRBand2BeforePrint     QRGroup1BeforePrint     QRBand3AfterPrint     QRBand4BeforePrint     QRBand1BeforePrint     QuickRep1BeforePrint     QRBand1AfterPrint     QuickRep1AfterPreview     
+FormCreate     BitBtn1Click     QRDBText7Print     QRDBText14Print  TRelatorioOC                                                        TRelatorioOCX       n RelatorioOC_p              UãÏÉƒ¯âU¯âE¸ãE¯É¯á§  ˇ$Ö   c   H  3  ¯  ù  "	  á
+  Ã  Ò  ˆ  €  †  E     /  t  ô  3“ãE¸ãÄ∞  Ë    3“ãE¸ãÄ§  Ë    3“ãE¸ãÄ¥  Ë    3“ãE¸ãÄ®  Ë    3“ãE¸ãÄ∏  Ë    3“ãE¸ãÄ¨  Ë    3“ãE¸ãÄ‡  Ë    3“ãE¸ãÄ‰  Ë    3“ãE¸ãÄË  Ë    3“ãE¸ãÄÏ  Ë    3“ãE¸ãÄÙ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ   Ë    3“ãE¸ãÄ¸  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ0  Ë    3“ãE¸ãÄ$  Ë    3“ãE¸ãÄ4  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ8  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ(  Ë    3“ãE¸ãÄ,  Ë    3“ãE¸ãÄ<  Ë    3“ãE¸ãÄ@  Ë    3“ãE¸ãÄD  Ë    3“ãE¸ãÄH  Ë    Èt  ∫Ã  ãE¸ãÄ∞  Ë    ∫‡  ãE¸ãÄ§  Ë    3“ãE¸ãÄ¥  Ë    3“ãE¸ãÄ®  Ë    3“ãE¸ãÄ∏  Ë    3“ãE¸ãÄ¨  Ë    3“ãE¸ãÄ‡  Ë    3“ãE¸ãÄ‰  Ë    3“ãE¸ãÄË  Ë    3“ãE¸ãÄÏ  Ë    3“ãE¸ãÄÙ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ   Ë    3“ãE¸ãÄ¸  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ0  Ë    3“ãE¸ãÄ$  Ë    3“ãE¸ãÄ4  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ8  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ(  Ë    3“ãE¸ãÄ,  Ë    3“ãE¸ãÄ<  Ë    3“ãE¸ãÄ@  Ë    3“ãE¸ãÄD  Ë    3“ãE¸ãÄH  Ë    Èâ  3“ãE¸ãÄ¥  Ë    3“ãE¸ãÄ®  Ë    3“ãE¸ãÄ∏  Ë    3“ãE¸ãÄ¨  Ë    3“ãE¸ãÄ‡  Ë    3“ãE¸ãÄ‰  Ë    3“ãE¸ãÄË  Ë    3“ãE¸ãÄÏ  Ë    3“ãE¸ãÄÙ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ   Ë    3“ãE¸ãÄ¸  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ0  Ë    3“ãE¸ãÄ$  Ë    3“ãE¸ãÄ4  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ8  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ(  Ë    3“ãE¸ãÄ,  Ë    3“ãE¸ãÄ<  Ë    3“ãE¸ãÄ@  Ë    3“ãE¸ãÄD  Ë    3“ãE¸ãÄH  Ë    Èƒ  3“ãE¸ãÄ∏  Ë    3“ãE¸ãÄ¨  Ë    3“ãE¸ãÄ‡  Ë    3“ãE¸ãÄ‰  Ë    3“ãE¸ãÄË  Ë    3“ãE¸ãÄÏ  Ë    3“ãE¸ãÄÙ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ   Ë    3“ãE¸ãÄ¸  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ0  Ë    3“ãE¸ãÄ$  Ë    3“ãE¸ãÄ4  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ8  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ(  Ë    3“ãE¸ãÄ,  Ë    3“ãE¸ãÄ<  Ë    3“ãE¸ãÄ@  Ë    3“ãE¸ãÄD  Ë    3“ãE¸ãÄH  Ë    È  3“ãE¸ãÄ‡  Ë    3“ãE¸ãÄ‰  Ë    3“ãE¸ãÄË  Ë    3“ãE¸ãÄÏ  Ë    3“ãE¸ãÄÙ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ   Ë    3“ãE¸ãÄ¸  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ0  Ë    3“ãE¸ãÄ$  Ë    3“ãE¸ãÄ4  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ8  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ(  Ë    3“ãE¸ãÄ,  Ë    3“ãE¸ãÄ<  Ë    3“ãE¸ãÄ@  Ë    3“ãE¸ãÄD  Ë    3“ãE¸ãÄH  Ë    Èö
+  3“ãE¸ãÄË  Ë    3“ãE¸ãÄÏ  Ë    3“ãE¸ãÄÙ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ   Ë    3“ãE¸ãÄ¸  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ0  Ë    3“ãE¸ãÄ$  Ë    3“ãE¸ãÄ4  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ8  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ(  Ë    3“ãE¸ãÄ,  Ë    3“ãE¸ãÄ<  Ë    3“ãE¸ãÄ@  Ë    3“ãE¸ãÄD  Ë    3“ãE¸ãÄH  Ë    È5	  3“ãE¸ãÄÙ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ   Ë    3“ãE¸ãÄ¸  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ0  Ë    3“ãE¸ãÄ$  Ë    3“ãE¸ãÄ4  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ8  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ(  Ë    3“ãE¸ãÄ,  Ë    3“ãE¸ãÄ<  Ë    3“ãE¸ãÄ@  Ë    3“ãE¸ãÄD  Ë    3“ãE¸ãÄH  Ë    È  3“ãE¸ãÄ   Ë    3“ãE¸ãÄ¸  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ0  Ë    3“ãE¸ãÄ$  Ë    3“ãE¸ãÄ4  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ8  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ(  Ë    3“ãE¸ãÄ,  Ë    3“ãE¸ãÄ<  Ë    3“ãE¸ãÄ@  Ë    3“ãE¸ãÄD  Ë    3“ãE¸ãÄH  Ë    ÈÀ  3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ0  Ë    3“ãE¸ãÄ$  Ë    3“ãE¸ãÄ4  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ8  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ(  Ë    3“ãE¸ãÄ,  Ë    3“ãE¸ãÄ<  Ë    3“ãE¸ãÄ@  Ë    3“ãE¸ãÄD  Ë    3“ãE¸ãÄH  Ë    È∆  3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ0  Ë    3“ãE¸ãÄ$  Ë    3“ãE¸ãÄ4  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ8  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ(  Ë    3“ãE¸ãÄ,  Ë    3“ãE¸ãÄ<  Ë    3“ãE¸ãÄ@  Ë    3“ãE¸ãÄD  Ë    3“ãE¸ãÄH  Ë    È·  3“ãE¸ãÄ0  Ë    3“ãE¸ãÄ$  Ë    3“ãE¸ãÄ4  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ8  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ(  Ë    3“ãE¸ãÄ,  Ë    3“ãE¸ãÄ<  Ë    3“ãE¸ãÄ@  Ë    3“ãE¸ãÄD  Ë    3“ãE¸ãÄH  Ë    È  3“ãE¸ãÄ4  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ8  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ(  Ë    3“ãE¸ãÄ,  Ë    3“ãE¸ãÄ<  Ë    3“ãE¸ãÄ@  Ë    3“ãE¸ãÄD  Ë    3“ãE¸ãÄH  Ë    Èw  3“ãE¸ãÄ8  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ(  Ë    3“ãE¸ãÄ,  Ë    3“ãE¸ãÄ<  Ë    3“ãE¸ãÄ@  Ë    3“ãE¸ãÄD  Ë    3“ãE¸ãÄH  Ë    ÈÚ  3“ãE¸ãÄ(  Ë    3“ãE¸ãÄ,  Ë    3“ãE¸ãÄ<  Ë    3“ãE¸ãÄ@  Ë    3“ãE¸ãÄD  Ë    3“ãE¸ãÄH  Ë    Èç  3“ãE¸ãÄ<  Ë    3“ãE¸ãÄ@  Ë    3“ãE¸ãÄD  Ë    3“ãE¸ãÄH  Ë    ÈH  3“ãE¸ãÄD  Ë    3“ãE¸ãÄH  Ë    È#  3“ãE¸ãÄ∏  Ë    3“ãE¸ãÄ¥  Ë    ãE¸ãÄò  ∆Ä≤  ∫<  ãE¸ãÄò  Ë    3“ãE¸ãÄ∞  Ë    3“ãE¸ãÄ§  Ë    3“ãE¸ãÄ¥  Ë    3“ãE¸ãÄ®  Ë    3“ãE¸ãÄ∏  Ë    3“ãE¸ãÄ¨  Ë    3“ãE¸ãÄ‡  Ë    3“ãE¸ãÄ‰  Ë    3“ãE¸ãÄË  Ë    3“ãE¸ãÄÏ  Ë    3“ãE¸ãÄÙ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ   Ë    3“ãE¸ãÄ¸  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ0  Ë    3“ãE¸ãÄ$  Ë    3“ãE¸ãÄ4  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ8  Ë    3“ãE¸ãÄ  Ë    3“ãE¸ãÄ(  Ë    3“ãE¸ãÄ,  Ë    3“ãE¸ãÄ<  Ë    3“ãE¸ãÄ@  Ë    3“ãE¸ãÄD  Ë    3“ãE¸ãÄH  Ë    YY]√∞ ˇˇˇˇ   1 -     ∞ ˇˇˇˇ'   S e m   C o n d i Á „ o   d e   P a g a m e n t o   E s p e c i f i c a d a .   ∞ ˇˇˇˇ[     A T E N « √ O :   O r d e m   d e   C o m p r a   c o m   P a g a m e n t o   A n t e c i p a d o   e   E n t r e g a   e m   a t È   5   d i a s   a p Û s   o   P a g a m e n t o   UãÏQπ   j j Iu˘áM¸SâM∏âUºâE¸3¿Uh√  dˇ0dâ ∫‹  ãE¸ãÄÿ  Ë    ãˇRd£    ∫¯  ãE¸ãÄÿ  Ë    çU¥ãˇQtãE¥∫  Ë    t*∫,  ãE¸ãÄÿ  Ë    çU∞ãˇQtãE∞∫  Ë    u∆    ∫L  ãE¸ãÄÿ  Ë    çU¨ãˇQtãE¨∫`  Ë    u9∫p  ãE¸ãÄÿ  Ë    çU§ãˇQtãE§çU®Ë    ãU®ãE¸ãÄ`  Ë    Îu∫p  ãE¸ãÄÿ  Ë    çUòãˇQtãEòçUúË    ˇuúhê  ∫L  ãE¸ãÄÿ  Ë    çUêãˇQtãEêçUîË    ˇuîçE†∫   Ë    ãU†ãE¸ãÄ`  Ë    ∫∞  ãE¸ãÄÿ  Ë    ãˇR\€}õfãE¯PˇuÙˇuçMÏã    ∏Ã  Ë    j j j ã    ãEÏË    €}‡õ∫∞  ãE¸ãÄÿ  Ë    ãˇR\€}–õfãEÿPˇu‘ˇu–çMÃã    ∏Ù  Ë    j j j ã    ãEÃË    €}¿õ€m‡€m¿ﬁŸõﬂ‡ûu∫   ãE¸ãÄd  Ë    ÎV°    ã ãÄ∏   ∫L  Ë    çUåãˇQtãEå∫  Ë    u∫à  ãE¸ãÄd  Ë    Î∫º  ãE¸ãÄd  Ë    3¿ZYYdâh   çEå∫   Ë    çEÃË    çEÏË    √È    Î€[ãÂ]√ ∞ ˇˇˇˇ   N U M E R O     ∞ ˇˇˇˇ   E X I G E _ F I S P Q   ∞ ˇˇˇˇ   S   ∞ ˇˇˇˇ   E X I G E _ C A     ∞ ˇˇˇˇ   O E     ∞ ˇˇˇˇ   0   ∞ ˇˇˇˇ	   D E S C R I C A O   ∞ ˇˇˇˇ           O E :       ∞ ˇˇˇˇ   V A L O R U     ∞ ˇˇˇˇ   # # # # # # # # # 0 . 0 0   ∞ ˇˇˇˇ   # # # # # # # # # 0 . 0 0 0 0   ∞ ˇˇˇˇ   # # # , # # # , # # 0 . 0 0     ∞ ˇˇˇˇ   O C _ S E I S _ C A S A S _ D E S C I M A I S   ∞ ˇˇˇˇ   # # # , # # # , # # 0 . 0 0 0 0 0 0     ∞ ˇˇˇˇ   # # # , # # # , # # 0 . 0 0 0 0     UãÏÉƒÙâMÙâU¯âE¸É=    u3¿£    ãE¸ãÄà  Ë    ãÂ]√UãÏÉƒËSVW3€â]ËàMÔâUâE¸3¿UhR  dˇ0dâ ãE¸ãÄt  ãˇR\<ÖÀ   ãE¸ãÄt  3“Ë    °    ã ãÄê   ∫l  Ë    ã–°    ã ãÄê   3…ãˇìd  âEÙãEÙãˇÉ˙ uÉ¯ vYÎ~U3¿Uh‹   dˇ0dâ ≤°    Ë    âE¯ãUÙãE¯ãˇQ\ãE¸ãÄp  ãÄ∞  ãU¯ãˇQ3¿ZYYdâÎ"È    Ë    ÎãE¸ãÄp  ãÄ∞  3“ãˇQãEÙË    ãE¸ãÄÿ  ∫ê  Ë    çUËãˇQtãUËãE¸ãÄx  Ë    «       3¿ZYYdâhY  çEËË    √È    Î_^[ãÂ]√∞ ˇˇˇˇ
+   A S S I N A T U R A     ∞ ˇˇˇˇ	   O B S C O M P R A   UãÏQπ
+   j j Iu˘QáM¸SâMÙâU¯âE¸3¿Uh,  dˇ0dâ °    ã ãÄ∏   ∫D  Ë    çUãˇQtãE∫|  Ë    uN≤ãE¸ãÄl  ãˇQt≤ãE¸ãÄp  ãˇQt∫å  ãE¸ãÄÿ  Ë    çUÏãˇQtãUÏãE¸ãÄt  Ë    Î03“ãE¸ãÄl  ãˇQt3“ãE¸ãÄt  ãˇQt3“ãE¸ãÄp  ãˇQt°    ã ãÄ∏   ∫∞  Ë    çUËãˇQtãEË∫|  Ë    un∫  ãE¸ãÄÿ  Ë    çU‰ãˇQtãE‰∫|  Ë    u"≤ãE¸ãÄt  ãˇQt≤ãE¸ãÄx  ãˇQtÎB3“ãE¸ãÄt  ãˇQt3“ãE¸ãÄx  ãˇQtÎ 3“ãE¸ãÄt  ãˇQt3“ãE¸ãÄx  ãˇQt∫  ãE¸ãÄÿ  Ë    çU‡ãˇQtÉ}‡ u3“ãE¸ãÄ–  Ë    h<  °    ã ã@t∫P  Ë    çUÿãˇQtˇuÿhp  çE‹∫   Ë    ãU‹ãE¸ãÄ  Ë    °    ã ã@t∫‡  Ë    çU‘ãˇQtãE‘∫   Ë    u∫,  ãE¸ãÄ  Ë    °    ã ã@t∫–  Ë    çUÃãˇQtãEÃçU–Ë    É}– u3“ãE¸ãÄ\  Ë    ÎRh	  °    ã ã@t∫–  Ë    çU¿ãˇQtãE¿çUƒË    ˇuƒh|	  çE»∫   Ë    ãU»ãE¸ãÄ\  Ë    3“ãE¸ãÄ@  ãˇë®  ãE¸ãÄ@  ãÄh  ãˇRDãE¸ãÄ@  ãÄh  ∫–	  ãˇQ8ãE¸ãÄ@  ãÄh  ∫h
+  ãˇQ8ãE¸ãÄ@  ãÄh  ∫ò
+  ãˇQ8h  ∫`  ãE¸ãÄÿ  Ë    çU∏ãˇQtˇu∏h|  çEº∫   Ë    ãUºãE¸ãÄ@  ãÄh  ãˇQ8≤ãE¸ãÄ@  ãˇë®  ∫¿  ãE¸ãÄ@  Ë    çU∞ãˇQtãE∞çU¥Ë    ãE¥∫|  Ë    Öõ   ∫‡  ãE¸ãÄ|  Ë    °    ã ã@t∫P  Ë    çU®ãˇQtãM®çE¨∫Ù  Ë    ãU¨ãE¸ãÄx  Ë    ∫8  ãE¸ãÄà  Ë    Ä=     Ñº   ∫º  ãE¸ãÄ¿  Ë    ∫–  ãE¸ãÄƒ  Ë    Èë   Ä=     t83“ãE¸ãÄà  Ë    ∫‡  ãE¸ãÄ|  Ë    ∫–  ãE¸ãÄx  Ë    ÎP3“ãE¸ãÄ|  Ë    3“ãE¸ãÄx  Ë    3“ãE¸ãÄà  Ë    3“ãE¸ãÄ¿  Ë    3“ãE¸ãÄƒ  Ë    3¿ZYYdâh3  çE®∫   Ë    √È    ÎÎ[ãÂ]√∞ ˇˇˇˇ   E X I B E _ O C _ A U T O R I Z A D O R     ∞ ˇˇˇˇ   S   ∞ ˇˇˇˇ   L I B E R A D O P O R   ∞ ˇˇˇˇ   O C _ C O M _ L I B E R A C A O _ P E D _ A N T     ∞ ˇˇˇˇ
+   A N T E C I P A D O     ∞ ˇˇˇˇ   A L T E R A D O _ P O R     ∞ ˇˇˇˇ   A       ∞ ˇˇˇˇ   E M P R E S A 2     ∞ ˇˇˇˇ∞   ,   t e m   o   d i r e i t o   d e   n „ o   r e c e b e r ,   d e v o l v e r   e / o u   c a n c e l a r   e s s e   p e d i d o   s e m   p r e j u Ì z o ,   r e s s a r c i m e n t o   d e   d e s p e s a s ,   p e r d a s   e   d a n o s   d e c o r r e n t e s   d o   d e s c u m p r i m e n t o   d e   q u a i s q u e r   c o n d i Á ı e s .     ∞ ˇˇˇˇ   E m p r e s a 1     ∞ ˇˇˇˇ   E M B .   M A R A   L T D A     ∞ ˇˇˇˇK   R e c e b i m e n t o   È   d e   2 ™   ‡   6 ™   ( f e i r a s ) ,   d a s   0 9 : 0 0   ‡ s   1 1 : 0 0   e   d a s   1 3 : 0 0   ‡ s   1 6 : 0 0 .   ∞ ˇˇˇˇ   E M A I L _ R E C E B I M E N T O _ N F E   ∞ ˇˇˇˇ2   A   N o t a   F i s c a l   E l e t r Ù n i c a ,   d e v e r ·   s e r   e n v i a d a   p a r a       ∞ ˇˇˇˇ#     j u n t o   c o m   r e s p e c t i v o   a r q u i v o   . X M L .   ∞ ˇˇˇˇE   S E L E C T   F i r s t   1   P e d i d o f i t e m . N U M E R O ,   P e d i d o f i t e m . I T E M P ,   I t e n s . R E A C H R O H S   ∞ ˇˇˇˇ   F R O M   P e d i d o f i t e m     ∞ ˇˇˇˇ:   L E F T   O U T E R   J O I N   I t e n s   O N   ( P e d i d o f i t e m . I T E M   =   I t e n s . C D I T E M )     ∞ ˇˇˇˇ   W h e r e   P e d i d o f i t e m . N U M E R O   = '   ∞ ˇˇˇˇ   N U M E R O     ∞ ˇˇˇˇ   '   a n d   I t e n s . R E A C H R O H S = ' S '       ∞ ˇˇˇˇ	   R E A C H R O H S   ∞ ˇˇˇˇ   8 -     ∞ ˇˇˇˇõ   …   d e   r e s p o n s a b i l i d a d e   d o   f o r n e c e d o r   a s s e g u r a r   q u e   o s   p r o d u t o s   e s t „ o   e m   c o n f o r m i d a d e   c o m   a s   d i r e t i v a s   R e a c h   ( E C   1 9 0 7 / 2 0 0 6 )   e   R o H S   ( 2 0 0 2 / 9 6 / E C )   e   i n f o r m a r   a     ∞ ˇˇˇˇ;   q u a l q u e r   a l t e r a Á „ o   n o   p r o d u t o   o u   e m   s e u   p r o c e s s o   p r o d u t i v o .   ∞ ˇˇˇˇ   9 -     ∞ ˇˇˇˇV   P r o d u t o s   q u e   p o s s u e m   F I S P Q   e / o u   C A     e x i g i m o s   o   e n v i o   d o   m e s m o   j u n t o   c o m   a   N o t a   F i s c a l .     UãÏQπ   j j Iu˘áM¸SâM¯âUÙâE¸3¿Uh…  dˇ0dâ ∫‰  ãE¸ãÄÿ  Ë    çUÏãˇQtãEÏçUË    ãE∫  Ë    t9∫‰  ãE¸ãÄÿ  Ë    çU‰ãˇQtãE‰çUËË    ãEË∫@  Ë    Ö‰   ∫‰  ãE¸ãÄÿ  Ë    çU‹ãˇQtãE‹çU‡Ë    ãE‡∫  Ë    u6∫‰  ãE¸ãÄÿ  Ë    çU‘ãˇQtãE‘çUÿË    ãUÿãE¯πl  Ë    ∫‰  ãE¸ãÄÿ  Ë    çUÃãˇQtãEÃçU–Ë    ãE–∫@  Ë    uu∫‰  ãE¸ãÄÿ  Ë    çUƒãˇQtãEƒçU»Ë    ãE»∫@  Ë    u@ãE¯∫®  Ë    Î1∫‰  ãE¸ãÄÿ  Ë    çUºãˇQtãEºçU¿Ë    ãU¿ãE¯Ë    3¿ZYYdâh–  çEº∫   Ë    √È    ÎÎ[ãÂ]√   ∞ ˇˇˇˇ   E N Q U A D R A M E N T O _ I M P O S T O   ∞ ˇˇˇˇ
+   L U C R O   R E A L     ∞ ˇˇˇˇ   L U C R O   P R E S U M I D O   ∞ ˇˇˇˇ     P i s :   1 . 6 5 %   C o f :   7 . 6 0 %     ∞ ˇˇˇˇ%   P R E S U M I D O   P i s :   0 . 6 5 %   C o f :   3 %   C s l l :   1 %   UãÏQπ   j j Iu˘áM¸SâM¯âUÏâE¸3¿Uh"  dˇ0dâ ∫<  ãE¸ãÄÿ  Ë    çUËãˇQtãEËçUÙË    çEË    ˇuhT  çE‰Pπ   ∫   ãEÙË    ˇu‰hd  çE∫   Ë    ˇuht  çE‡Pπ   ∫   ãEÙË    ˇu‡j çE∫   Ë    ˇuhÑ  çE‹Pπ   ∫   ãEÙË    ˇu‹ht  çE∫   Ë    ãE¯ãUË    3¿ZYYdâh)  çE‹∫   Ë    çE∫   Ë    √È    Îﬁ[ãÂ]√  ∞ ˇˇˇˇ   F o n e     ∞ ˇˇˇˇ   (   ∞ ˇˇˇˇ   )   ∞ ˇˇˇˇ       ∞ ˇˇˇˇ   -   UãÏπ  j j Iu˘QâE¸3¿UhDƒ  dˇ0dâ ∫`ƒ  ãE¸ãÄÏ  Ë    3“ãE¸ãÄº  ãˇë®  ãE¸ãÄº  ãÄh  ãˇRDãE¸ãÄº  ãÄh  ∫òƒ  ãˇQ8ãE¸ãÄº  ãÄh  ∫‡ƒ  ãˇQ8hx≈  ∫®≈  ãE¸ãÄÿ  Ë    çïpÈˇˇãˇQtãÖpÈˇˇçïtÈˇˇË    ˇµtÈˇˇhƒ≈  çÖxÈˇˇ∫   Ë    ãïxÈˇˇãE¸ãÄº  ãÄh  ãˇQ8≤ãE¸ãÄº  ãˇë®  ∫ÿ≈  ãE¸ãÄº  Ë    ãˇRdÖ¿Ö°h  ∫Ù≈  ãE¸ãÄº  Ë    çïhÈˇˇãˇQtãÖhÈˇˇçïlÈˇˇË    ãïlÈˇˇãE¸ãÄò  Ë    °    ã ãÄ∏   ∫(∆  Ë    çïdÈˇˇãˇQtãÖdÈˇˇ∫l∆  Ë    Öèg  3“ãE¸ãÄò  Ë    ∫|∆  ãE¸ãÄÿ  Ë    ãˇRdÉ¯ág  ˇ$Ö‹    .  ˘  }    |
+  –  ˛    Ë   §(  :1  ™:  ÙD  P  \  ∫   ãE¸Ë    ÈÆf  ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞∆  ãE¸ãÄº  Ë    ãˇRT›]õˇuÙˇuçMÏã    ∏»∆  Ë    ∫Ë∆  ãE¸ãÄº  Ë    ãˇR\€}‡õfãEËPˇu‰ˇu‡°    PçE‹Pπ   ∫   ∞Ë    ˇuÏh«  ˇu‹çÖ`Èˇˇ∫   Ë    ãï`ÈˇˇãE¸ãÄ§  Ë    ∫   ãE¸Ë    È„e  ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞∆  ãE¸ãÄº  Ë    ãˇRT›]–õˇu‘ˇu–çMÃã    ∏»∆  Ë    ∫Ë∆  ãE¸ãÄº  Ë    ãˇR\€}¿õfãE»Pˇuƒˇu¿°    PçEºPπ   ∫   ∞Ë    ˇuÃh«  ˇuºçÖ\Èˇˇ∫   Ë    ãï\ÈˇˇãE¸ãÄ§  Ë    ∫«  ãE¸ãÄ¥  Ë    ∫(«  ãE¸ãÄº  Ë    ãˇRT›]∞õˇu¥ˇu∞çM¨ã    ∏»∆  Ë    ∫@«  ãE¸ãÄº  Ë    ãˇR\€}†õfãE®Pˇu§ˇu†°    PçEúPπ   ∫   ∞Ë    ˇu¨h«  ˇuúçÖXÈˇˇ∫   Ë    ãïXÈˇˇãE¸ãÄ®  Ë    ∫   ãE¸Ë    È_d  ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞∆  ãE¸ãÄº  Ë    ãˇRT›]êõˇuîˇuêçMåã    ∏»∆  Ë    ∫Ë∆  ãE¸ãÄº  Ë    ãˇR\€}ÄõfãEàPˇuÑˇuÄ°    PçÖ|ˇˇˇPπ   ∫   ∞Ë    ˇuåh«  ˇµ|ˇˇˇçÖTÈˇˇ∫   Ë    ãïTÈˇˇãE¸ãÄ§  Ë    ∫«  ãE¸ãÄ¥  Ë    ∫(«  ãE¸ãÄº  Ë    ãˇRT›ùpˇˇˇõˇµtˇˇˇˇµpˇˇˇççlˇˇˇã    ∏»∆  Ë    ∫@«  ãE¸ãÄº  Ë    ãˇR\€Ω`ˇˇˇõfãÖhˇˇˇPˇµdˇˇˇˇµ`ˇˇˇ°    PçÖ\ˇˇˇPπ   ∫   ∞Ë    ˇµlˇˇˇh«  ˇµ\ˇˇˇçÖPÈˇˇ∫   Ë    ãïPÈˇˇãE¸ãÄ®  Ë    ∫\«  ãE¸ãÄ∏  Ë    ∫p«  ãE¸ãÄº  Ë    ãˇRT›ùPˇˇˇõˇµTˇˇˇˇµPˇˇˇççLˇˇˇã    ∏»∆  Ë    ∫à«  ãE¸ãÄº  Ë    ãˇR\€Ω@ˇˇˇõfãÖHˇˇˇPˇµDˇˇˇˇµ@ˇˇˇ°    PçÖ<ˇˇˇPπ   ∫   ∞Ë    ˇµLˇˇˇh«  ˇµ<ˇˇˇçÖLÈˇˇ∫   Ë    ãïLÈˇˇãE¸ãÄ¨  Ë    ∫   ãE¸Ë    È⁄a  ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞∆  ãE¸ãÄº  Ë    ãˇRT›ù0ˇˇˇõˇµ4ˇˇˇˇµ0ˇˇˇçç,ˇˇˇã    ∏»∆  Ë    ∫Ë∆  ãE¸ãÄº  Ë    ãˇR\€Ω ˇˇˇõfãÖ(ˇˇˇPˇµ$ˇˇˇˇµ ˇˇˇ°    PçÖˇˇˇPπ   ∫   ∞Ë    ˇµ,ˇˇˇh«  ˇµˇˇˇçÖHÈˇˇ∫   Ë    ãïHÈˇˇãE¸ãÄ§  Ë    ∫«  ãE¸ãÄ¥  Ë    ∫(«  ãE¸ãÄº  Ë    ãˇRT›ùˇˇˇõˇµˇˇˇˇµˇˇˇççˇˇˇã    ∏»∆  Ë    ∫@«  ãE¸ãÄº  Ë    ãˇR\€Ω ˇˇˇõfãÖˇˇˇPˇµˇˇˇˇµ ˇˇˇ°    PçÖ¸˛ˇˇPπ   ∫   ∞Ë    ˇµˇˇˇh«  ˇµ¸˛ˇˇçÖDÈˇˇ∫   Ë    ãïDÈˇˇãE¸ãÄ®  Ë    ∫\«  ãE¸ãÄ∏  Ë    ∫p«  ãE¸ãÄº  Ë    ãˇRT›ù˛ˇˇõˇµÙ˛ˇˇˇµ˛ˇˇççÏ˛ˇˇã    ∏»∆  Ë    ∫à«  ãE¸ãÄº  Ë    ãˇR\€Ω‡˛ˇˇõfãÖË˛ˇˇPˇµ‰˛ˇˇˇµ‡˛ˇˇ°    PçÖ‹˛ˇˇPπ   ∫   ∞Ë    ˇµÏ˛ˇˇh«  ˇµ‹˛ˇˇçÖ@Èˇˇ∫   Ë    ãï@ÈˇˇãE¸ãÄ¨  Ë    ∫§«  ãE¸ãÄ‡  Ë    ∫∏«  ãE¸ãÄº  Ë    ãˇRT›ù–˛ˇˇõˇµ‘˛ˇˇˇµ–˛ˇˇççÃ˛ˇˇã    ∏»∆  Ë    ∫–«  ãE¸ãÄº  Ë    ãˇR\€Ω¿˛ˇˇõfãÖ»˛ˇˇPˇµƒ˛ˇˇˇµ¿˛ˇˇ°    PçÖº˛ˇˇPπ   ∫   ∞Ë    ˇµÃ˛ˇˇh«  ˇµº˛ˇˇçÖ<Èˇˇ∫   Ë    ãï<ÈˇˇãE¸ãÄ‰  Ë    ∫   ãE¸Ë    È`^  ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞∆  ãE¸ãÄº  Ë    ãˇRT›ù∞˛ˇˇõˇµ¥˛ˇˇˇµ∞˛ˇˇçç¨˛ˇˇã    ∏»∆  Ë    ∫Ë∆  ãE¸ãÄº  Ë    ãˇR\€Ω†˛ˇˇõfãÖ®˛ˇˇPˇµ§˛ˇˇˇµ†˛ˇˇ°    PçÖú˛ˇˇPπ   ∫   ∞Ë    ˇµ¨˛ˇˇh«  ˇµú˛ˇˇçÖ8Èˇˇ∫   Ë    ãï8ÈˇˇãE¸ãÄ§  Ë    ∫«  ãE¸ãÄ¥  Ë    ∫(«  ãE¸ãÄº  Ë    ãˇRT›ùê˛ˇˇõˇµî˛ˇˇˇµê˛ˇˇççå˛ˇˇã    ∏»∆  Ë    ∫@«  ãE¸ãÄº  Ë    ãˇR\€ΩÄ˛ˇˇõfãÖà˛ˇˇPˇµÑ˛ˇˇˇµÄ˛ˇˇ°    PçÖ|˛ˇˇPπ   ∫   ∞Ë    ˇµå˛ˇˇh«  ˇµ|˛ˇˇçÖ4Èˇˇ∫   Ë    ãï4ÈˇˇãE¸ãÄ®  Ë    ∫\«  ãE¸ãÄ∏  Ë    ∫p«  ãE¸ãÄº  Ë    ãˇRT›ùp˛ˇˇõˇµt˛ˇˇˇµp˛ˇˇççl˛ˇˇã    ∏»∆  Ë    ∫à«  ãE¸ãÄº  Ë    ãˇR\€Ω`˛ˇˇõfãÖh˛ˇˇPˇµd˛ˇˇˇµ`˛ˇˇ°    PçÖ\˛ˇˇPπ   ∫   ∞Ë    ˇµl˛ˇˇh«  ˇµ\˛ˇˇçÖ0Èˇˇ∫   Ë    ãï0ÈˇˇãE¸ãÄ¨  Ë    ∫§«  ãE¸ãÄ‡  Ë    ∫∏«  ãE¸ãÄº  Ë    ãˇRT›ùP˛ˇˇõˇµT˛ˇˇˇµP˛ˇˇççL˛ˇˇã    ∏»∆  Ë    ∫–«  ãE¸ãÄº  Ë    ãˇR\€Ω@˛ˇˇõfãÖH˛ˇˇPˇµD˛ˇˇˇµ@˛ˇˇ°    PçÖ<˛ˇˇPπ   ∫   ∞Ë    ˇµL˛ˇˇh«  ˇµ<˛ˇˇçÖ,Èˇˇ∫   Ë    ãï,ÈˇˇãE¸ãÄ‰  Ë    ∫Ï«  ãE¸ãÄË  Ë    ∫ »  ãE¸ãÄº  Ë    ãˇRT›ù0˛ˇˇõˇµ4˛ˇˇˇµ0˛ˇˇçç,˛ˇˇã    ∏»∆  Ë    ∫»  ãE¸ãÄº  Ë    ãˇR\€Ω ˛ˇˇõfãÖ(˛ˇˇPˇµ$˛ˇˇˇµ ˛ˇˇ°    PçÖ˛ˇˇPπ   ∫   ∞Ë    ˇµ,˛ˇˇh«  ˇµ˛ˇˇçÖ(Èˇˇ∫   Ë    ãï(ÈˇˇãE¸ãÄÏ  Ë    ∫   ãE¸Ë    ÈZ  ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞∆  ãE¸ãÄº  Ë    ãˇRT›ù˛ˇˇõˇµ˛ˇˇˇµ˛ˇˇçç˛ˇˇã    ∏»∆  Ë    ∫Ë∆  ãE¸ãÄº  Ë    ãˇR\€Ω ˛ˇˇõfãÖ˛ˇˇPˇµ˛ˇˇˇµ ˛ˇˇ°    PçÖ¸˝ˇˇPπ   ∫   ∞Ë    ˇµ˛ˇˇh«  ˇµ¸˝ˇˇçÖ$Èˇˇ∫   Ë    ãï$ÈˇˇãE¸ãÄ§  Ë    ∫«  ãE¸ãÄ¥  Ë    ∫(«  ãE¸ãÄº  Ë    ãˇRT›ù˝ˇˇõˇµÙ˝ˇˇˇµ˝ˇˇççÏ˝ˇˇã    ∏»∆  Ë    ∫@«  ãE¸ãÄº  Ë    ãˇR\€Ω‡˝ˇˇõfãÖË˝ˇˇPˇµ‰˝ˇˇˇµ‡˝ˇˇ°    PçÖ‹˝ˇˇPπ   ∫   ∞Ë    ˇµÏ˝ˇˇh«  ˇµ‹˝ˇˇçÖ Èˇˇ∫   Ë    ãï ÈˇˇãE¸ãÄ®  Ë    ∫\«  ãE¸ãÄ∏  Ë    ∫p«  ãE¸ãÄº  Ë    ãˇRT›ù–˝ˇˇõˇµ‘˝ˇˇˇµ–˝ˇˇççÃ˝ˇˇã    ∏»∆  Ë    ∫à«  ãE¸ãÄº  Ë    ãˇR\€Ω¿˝ˇˇõfãÖ»˝ˇˇPˇµƒ˝ˇˇˇµ¿˝ˇˇ°    PçÖº˝ˇˇPπ   ∫   ∞Ë    ˇµÃ˝ˇˇh«  ˇµº˝ˇˇçÖÈˇˇ∫   Ë    ãïÈˇˇãE¸ãÄ¨  Ë    ∫§«  ãE¸ãÄ‡  Ë    ∫∏«  ãE¸ãÄº  Ë    ãˇRT›ù∞˝ˇˇõˇµ¥˝ˇˇˇµ∞˝ˇˇçç¨˝ˇˇã    ∏»∆  Ë    ∫–«  ãE¸ãÄº  Ë    ãˇR\€Ω†˝ˇˇõfãÖ®˝ˇˇPˇµ§˝ˇˇˇµ†˝ˇˇ°    PçÖú˝ˇˇPπ   ∫   ∞Ë    ˇµ¨˝ˇˇh«  ˇµú˝ˇˇçÖÈˇˇ∫   Ë    ãïÈˇˇãE¸ãÄ‰  Ë    ∫Ï«  ãE¸ãÄË  Ë    ∫ »  ãE¸ãÄº  Ë    ãˇRT›ùê˝ˇˇõˇµî˝ˇˇˇµê˝ˇˇççå˝ˇˇã    ∏»∆  Ë    ∫»  ãE¸ãÄº  Ë    ãˇR\€ΩÄ˝ˇˇõfãÖà˝ˇˇPˇµÑ˝ˇˇˇµÄ˝ˇˇ°    PçÖ|˝ˇˇPπ   ∫   ∞Ë    ˇµå˝ˇˇh«  ˇµ|˝ˇˇçÖÈˇˇ∫   Ë    ãïÈˇˇãE¸ãÄÏ  Ë    ∫4»  ãE¸ãÄÙ  Ë    ∫H»  ãE¸ãÄº  Ë    ãˇRT›ùp˝ˇˇõˇµt˝ˇˇˇµp˝ˇˇççl˝ˇˇã    ∏»∆  Ë    ∫`»  ãE¸ãÄº  Ë    ãˇR\€Ω`˝ˇˇõfãÖh˝ˇˇPˇµd˝ˇˇˇµ`˝ˇˇ°    PçÖ\˝ˇˇPπ   ∫   ∞Ë    ˇµl˝ˇˇh«  ˇµ\˝ˇˇçÖÈˇˇ∫   Ë    ãïÈˇˇãE¸ãÄ  Ë    ∫   ãE¸Ë    ÈﬁT  ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞∆  ãE¸ãÄº  Ë    ãˇRT›ùP˝ˇˇõˇµT˝ˇˇˇµP˝ˇˇççL˝ˇˇã    ∏»∆  Ë    ∫Ë∆  ãE¸ãÄº  Ë    ãˇR\€Ω@˝ˇˇõfãÖH˝ˇˇPˇµD˝ˇˇˇµ@˝ˇˇ°    PçÖ<˝ˇˇPπ   ∫   ∞Ë    ˇµL˝ˇˇh«  ˇµ<˝ˇˇçÖÈˇˇ∫   Ë    ãïÈˇˇãE¸ãÄ§  Ë    ∫«  ãE¸ãÄ¥  Ë    ∫(«  ãE¸ãÄº  Ë    ãˇRT›ù0˝ˇˇõˇµ4˝ˇˇˇµ0˝ˇˇçç,˝ˇˇã    ∏»∆  Ë    ∫@«  ãE¸ãÄº  Ë    ãˇR\€Ω ˝ˇˇõfãÖ(˝ˇˇPˇµ$˝ˇˇˇµ ˝ˇˇ°    PçÖ˝ˇˇPπ   ∫   ∞Ë    ˇµ,˝ˇˇh«  ˇµ˝ˇˇçÖÈˇˇ∫   Ë    ãïÈˇˇãE¸ãÄ®  Ë    ∫\«  ãE¸ãÄ∏  Ë    ∫p«  ãE¸ãÄº  Ë    ãˇRT›ù˝ˇˇõˇµ˝ˇˇˇµ˝ˇˇçç˝ˇˇã    ∏»∆  Ë    ∫à«  ãE¸ãÄº  Ë    ãˇR\€Ω ˝ˇˇõfãÖ˝ˇˇPˇµ˝ˇˇˇµ ˝ˇˇ°    PçÖ¸¸ˇˇPπ   ∫   ∞Ë    ˇµ˝ˇˇh«  ˇµ¸¸ˇˇçÖÈˇˇ∫   Ë    ãïÈˇˇãE¸ãÄ¨  Ë    ∫§«  ãE¸ãÄ‡  Ë    ∫∏«  ãE¸ãÄº  Ë    ãˇRT›ù¸ˇˇõˇµÙ¸ˇˇˇµ¸ˇˇççÏ¸ˇˇã    ∏»∆  Ë    ∫–«  ãE¸ãÄº  Ë    ãˇR\€Ω‡¸ˇˇõfãÖË¸ˇˇPˇµ‰¸ˇˇˇµ‡¸ˇˇ°    PçÖ‹¸ˇˇPπ   ∫   ∞Ë    ˇµÏ¸ˇˇh«  ˇµ‹¸ˇˇçÖ Èˇˇ∫   Ë    ãï ÈˇˇãE¸ãÄ‰  Ë    ∫Ï«  ãE¸ãÄË  Ë    ∫ »  ãE¸ãÄº  Ë    ãˇRT›ù–¸ˇˇõˇµ‘¸ˇˇˇµ–¸ˇˇççÃ¸ˇˇã    ∏»∆  Ë    ∫»  ãE¸ãÄº  Ë    ãˇR\€Ω¿¸ˇˇõfãÖ»¸ˇˇPˇµƒ¸ˇˇˇµ¿¸ˇˇ°    PçÖº¸ˇˇPπ   ∫   ∞Ë    ˇµÃ¸ˇˇh«  ˇµº¸ˇˇçÖ¸Ëˇˇ∫   Ë    ãï¸ËˇˇãE¸ãÄÏ  Ë    ∫4»  ãE¸ãÄÙ  Ë    ∫H»  ãE¸ãÄº  Ë    ãˇRT›ù∞¸ˇˇõˇµ¥¸ˇˇˇµ∞¸ˇˇçç¨¸ˇˇã    ∏»∆  Ë    ∫`»  ãE¸ãÄº  Ë    ãˇR\€Ω†¸ˇˇõfãÖ®¸ˇˇPˇµ§¸ˇˇˇµ†¸ˇˇ°    PçÖú¸ˇˇPπ   ∫   ∞Ë    ˇµ¨¸ˇˇh«  ˇµú¸ˇˇçÖ¯Ëˇˇ∫   Ë    ãï¯ËˇˇãE¸ãÄ  Ë    ∫|»  ãE¸ãÄ   Ë    ∫ê»  ãE¸ãÄº  Ë    ãˇRT›ùê¸ˇˇõˇµî¸ˇˇˇµê¸ˇˇççå¸ˇˇã    ∏»∆  Ë    ∫®»  ãE¸ãÄº  Ë    ãˇR\€ΩÄ¸ˇˇõfãÖà¸ˇˇPˇµÑ¸ˇˇˇµÄ¸ˇˇ°    PçÖ|¸ˇˇPπ   ∫   ∞Ë    ˇµå¸ˇˇh«  ˇµ|¸ˇˇçÖÙËˇˇ∫   Ë    ãïÙËˇˇãE¸ãÄ¸  Ë    ∫   ãE¸Ë    È÷N  ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞∆  ãE¸ãÄº  Ë    ãˇRT›ùp¸ˇˇõˇµt¸ˇˇˇµp¸ˇˇççl¸ˇˇã    ∏»∆  Ë    ∫Ë∆  ãE¸ãÄº  Ë    ãˇR\€Ω`¸ˇˇõfãÖh¸ˇˇPˇµd¸ˇˇˇµ`¸ˇˇ°    PçÖ\¸ˇˇPπ   ∫   ∞Ë    ˇµl¸ˇˇh«  ˇµ\¸ˇˇçÖËˇˇ∫   Ë    ãïËˇˇãE¸ãÄ§  Ë    ∫«  ãE¸ãÄ¥  Ë    ∫(«  ãE¸ãÄº  Ë    ãˇRT›ùP¸ˇˇõˇµT¸ˇˇˇµP¸ˇˇççL¸ˇˇã    ∏»∆  Ë    ∫@«  ãE¸ãÄº  Ë    ãˇR\€Ω@¸ˇˇõfãÖH¸ˇˇPˇµD¸ˇˇˇµ@¸ˇˇ°    PçÖ<¸ˇˇPπ   ∫   ∞Ë    ˇµL¸ˇˇh«  ˇµ<¸ˇˇçÖÏËˇˇ∫   Ë    ãïÏËˇˇãE¸ãÄ®  Ë    ∫\«  ãE¸ãÄ∏  Ë    ∫p«  ãE¸ãÄº  Ë    ãˇRT›ù0¸ˇˇõˇµ4¸ˇˇˇµ0¸ˇˇçç,¸ˇˇã    ∏»∆  Ë    ∫à«  ãE¸ãÄº  Ë    ãˇR\€Ω ¸ˇˇõfãÖ(¸ˇˇPˇµ$¸ˇˇˇµ ¸ˇˇ°    PçÖ¸ˇˇPπ   ∫   ∞Ë    ˇµ,¸ˇˇh«  ˇµ¸ˇˇçÖËËˇˇ∫   Ë    ãïËËˇˇãE¸ãÄ¨  Ë    ∫§«  ãE¸ãÄ‡  Ë    ∫∏«  ãE¸ãÄº  Ë    ãˇRT›ù¸ˇˇõˇµ¸ˇˇˇµ¸ˇˇçç¸ˇˇã    ∏»∆  Ë    ∫–«  ãE¸ãÄº  Ë    ãˇR\€Ω ¸ˇˇõfãÖ¸ˇˇPˇµ¸ˇˇˇµ ¸ˇˇ°    PçÖ¸˚ˇˇPπ   ∫   ∞Ë    ˇµ¸ˇˇh«  ˇµ¸˚ˇˇçÖ‰Ëˇˇ∫   Ë    ãï‰ËˇˇãE¸ãÄ‰  Ë    ∫Ï«  ãE¸ãÄË  Ë    ∫ »  ãE¸ãÄº  Ë    ãˇRT›ù˚ˇˇõˇµÙ˚ˇˇˇµ˚ˇˇççÏ˚ˇˇã    ∏»∆  Ë    ∫»  ãE¸ãÄº  Ë    ãˇR\€Ω‡˚ˇˇõfãÖË˚ˇˇPˇµ‰˚ˇˇˇµ‡˚ˇˇ°    PçÖ‹˚ˇˇPπ   ∫   ∞Ë    ˇµÏ˚ˇˇh«  ˇµ‹˚ˇˇçÖ‡Ëˇˇ∫   Ë    ãï‡ËˇˇãE¸ãÄÏ  Ë    ∫4»  ãE¸ãÄÙ  Ë    ∫H»  ãE¸ãÄº  Ë    ãˇRT›ù–˚ˇˇõˇµ‘˚ˇˇˇµ–˚ˇˇççÃ˚ˇˇã    ∏»∆  Ë    ∫`»  ãE¸ãÄº  Ë    ãˇR\€Ω¿˚ˇˇõfãÖ»˚ˇˇPˇµƒ˚ˇˇˇµ¿˚ˇˇ°    PçÖº˚ˇˇPπ   ∫   ∞Ë    ˇµÃ˚ˇˇh«  ˇµº˚ˇˇçÖ‹Ëˇˇ∫   Ë    ãï‹ËˇˇãE¸ãÄ  Ë    ∫|»  ãE¸ãÄ   Ë    ∫ê»  ãE¸ãÄº  Ë    ãˇRT›ù∞˚ˇˇõˇµ¥˚ˇˇˇµ∞˚ˇˇçç¨˚ˇˇã    ∏»∆  Ë    ∫®»  ãE¸ãÄº  Ë    ãˇR\€Ω†˚ˇˇõfãÖ®˚ˇˇPˇµ§˚ˇˇˇµ†˚ˇˇ°    PçÖú˚ˇˇPπ   ∫   ∞Ë    ˇµ¨˚ˇˇh«  ˇµú˚ˇˇçÖÿËˇˇ∫   Ë    ãïÿËˇˇãE¸ãÄ¸  Ë    ∫ƒ»  ãE¸ãÄ  Ë    ∫ÿ»  ãE¸ãÄº  Ë    ãˇRT›ùê˚ˇˇõˇµî˚ˇˇˇµê˚ˇˇççå˚ˇˇã    ∏»∆  Ë    ∫»  ãE¸ãÄº  Ë    ãˇR\€ΩÄ˚ˇˇõfãÖà˚ˇˇPˇµÑ˚ˇˇˇµÄ˚ˇˇ°    PçÖ|˚ˇˇPπ   ∫   ∞Ë    ˇµå˚ˇˇh«  ˇµ|˚ˇˇçÖ‘Ëˇˇ∫   Ë    ãï‘ËˇˇãE¸ãÄ  Ë    ∫	   ãE¸Ë    ÈÙG  ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞∆  ãE¸ãÄº  Ë    ãˇRT›ùp˚ˇˇõˇµt˚ˇˇˇµp˚ˇˇççl˚ˇˇã    ∏»∆  Ë    ∫Ë∆  ãE¸ãÄº  Ë    ãˇR\€Ω`˚ˇˇõfãÖh˚ˇˇPˇµd˚ˇˇˇµ`˚ˇˇ°    PçÖ\˚ˇˇPπ   ∫   ∞Ë    ˇµl˚ˇˇh«  ˇµ\˚ˇˇçÖ–Ëˇˇ∫   Ë    ãï–ËˇˇãE¸ãÄ§  Ë    ∫«  ãE¸ãÄ¥  Ë    ∫(«  ãE¸ãÄº  Ë    ãˇRT›ùP˚ˇˇõˇµT˚ˇˇˇµP˚ˇˇççL˚ˇˇã    ∏»∆  Ë    ∫@«  ãE¸ãÄº  Ë    ãˇR\€Ω@˚ˇˇõfãÖH˚ˇˇPˇµD˚ˇˇˇµ@˚ˇˇ°    PçÖ<˚ˇˇPπ   ∫   ∞Ë    ˇµL˚ˇˇh«  ˇµ<˚ˇˇçÖÃËˇˇ∫   Ë    ãïÃËˇˇãE¸ãÄ®  Ë    ∫\«  ãE¸ãÄ∏  Ë    ∫p«  ãE¸ãÄº  Ë    ãˇRT›ù0˚ˇˇõˇµ4˚ˇˇˇµ0˚ˇˇçç,˚ˇˇã    ∏»∆  Ë    ∫à«  ãE¸ãÄº  Ë    ãˇR\€Ω ˚ˇˇõfãÖ(˚ˇˇPˇµ$˚ˇˇˇµ ˚ˇˇ°    PçÖ˚ˇˇPπ   ∫   ∞Ë    ˇµ,˚ˇˇh«  ˇµ˚ˇˇçÖ»Ëˇˇ∫   Ë    ãï»ËˇˇãE¸ãÄ¨  Ë    ∫§«  ãE¸ãÄ‡  Ë    ∫∏«  ãE¸ãÄº  Ë    ãˇRT›ù˚ˇˇõˇµ˚ˇˇˇµ˚ˇˇçç˚ˇˇã    ∏»∆  Ë    ∫–«  ãE¸ãÄº  Ë    ãˇR\€Ω ˚ˇˇõfãÖ˚ˇˇPˇµ˚ˇˇˇµ ˚ˇˇ°    PçÖ¸˙ˇˇPπ   ∫   ∞Ë    ˇµ˚ˇˇh«  ˇµ¸˙ˇˇçÖƒËˇˇ∫   Ë    ãïƒËˇˇãE¸ãÄ‰  Ë    ∫Ï«  ãE¸ãÄË  Ë    ∫ »  ãE¸ãÄº  Ë    ãˇRT›ù˙ˇˇõˇµÙ˙ˇˇˇµ˙ˇˇççÏ˙ˇˇã    ∏»∆  Ë    ∫»  ãE¸ãÄº  Ë    ãˇR\€Ω‡˙ˇˇõfãÖË˙ˇˇPˇµ‰˙ˇˇˇµ‡˙ˇˇ°    PçÖ‹˙ˇˇPπ   ∫   ∞Ë    ˇµÏ˙ˇˇh«  ˇµ‹˙ˇˇçÖ¿Ëˇˇ∫   Ë    ãï¿ËˇˇãE¸ãÄÏ  Ë    ∫4»  ãE¸ãÄÙ  Ë    ∫H»  ãE¸ãÄº  Ë    ãˇRT›ù–˙ˇˇõˇµ‘˙ˇˇˇµ–˙ˇˇççÃ˙ˇˇã    ∏»∆  Ë    ∫`»  ãE¸ãÄº  Ë    ãˇR\€Ω¿˙ˇˇõfãÖ»˙ˇˇPˇµƒ˙ˇˇˇµ¿˙ˇˇ°    PçÖº˙ˇˇPπ   ∫   ∞Ë    ˇµÃ˙ˇˇh«  ˇµº˙ˇˇçÖºËˇˇ∫   Ë    ãïºËˇˇãE¸ãÄ  Ë    ∫|»  ãE¸ãÄ   Ë    ∫ê»  ãE¸ãÄº  Ë    ãˇRT›ù∞˙ˇˇõˇµ¥˙ˇˇˇµ∞˙ˇˇçç¨˙ˇˇã    ∏»∆  Ë    ∫®»  ãE¸ãÄº  Ë    ãˇR\€Ω†˙ˇˇõfãÖ®˙ˇˇPˇµ§˙ˇˇˇµ†˙ˇˇ°    PçÖú˙ˇˇPπ   ∫   ∞Ë    ˇµ¨˙ˇˇh«  ˇµú˙ˇˇçÖ∏Ëˇˇ∫   Ë    ãï∏ËˇˇãE¸ãÄ¸  Ë    ∫ƒ»  ãE¸ãÄ  Ë    ∫ÿ»  ãE¸ãÄº  Ë    ãˇRT›ùê˙ˇˇõˇµî˙ˇˇˇµê˙ˇˇççå˙ˇˇã    ∏»∆  Ë    ∫»  ãE¸ãÄº  Ë    ãˇR\€ΩÄ˙ˇˇõfãÖà˙ˇˇPˇµÑ˙ˇˇˇµÄ˙ˇˇ°    PçÖ|˙ˇˇPπ   ∫   ∞Ë    ˇµå˙ˇˇh«  ˇµ|˙ˇˇçÖ¥Ëˇˇ∫   Ë    ãï¥ËˇˇãE¸ãÄ  Ë    ∫…  ãE¸ãÄ  Ë    ∫ …  ãE¸ãÄº  Ë    ãˇRT›ùp˙ˇˇõˇµt˙ˇˇˇµp˙ˇˇççl˙ˇˇã    ∏»∆  Ë    ∫8…  ãE¸ãÄº  Ë    ãˇR\€Ω`˙ˇˇõfãÖh˙ˇˇPˇµd˙ˇˇˇµ`˙ˇˇ°    PçÖ\˙ˇˇPπ   ∫   ∞Ë    ˇµl˙ˇˇh«  ˇµ\˙ˇˇçÖ∞Ëˇˇ∫   Ë    ãï∞ËˇˇãE¸ãÄ  Ë    ∫
+   ãE¸Ë    È8@  ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞∆  ãE¸ãÄº  Ë    ãˇRT›ùP˙ˇˇõˇµT˙ˇˇˇµP˙ˇˇççL˙ˇˇã    ∏»∆  Ë    ∫Ë∆  ãE¸ãÄº  Ë    ãˇR\€Ω@˙ˇˇõfãÖH˙ˇˇPˇµD˙ˇˇˇµ@˙ˇˇ°    PçÖ<˙ˇˇPπ   ∫   ∞Ë    ˇµL˙ˇˇh«  ˇµ<˙ˇˇçÖ¨Ëˇˇ∫   Ë    ãï¨ËˇˇãE¸ãÄ§  Ë    ∫«  ãE¸ãÄ¥  Ë    ∫(«  ãE¸ãÄº  Ë    ãˇRT›ù0˙ˇˇõˇµ4˙ˇˇˇµ0˙ˇˇçç,˙ˇˇã    ∏»∆  Ë    ∫@«  ãE¸ãÄº  Ë    ãˇR\€Ω ˙ˇˇõfãÖ(˙ˇˇPˇµ$˙ˇˇˇµ ˙ˇˇ°    PçÖ˙ˇˇPπ   ∫   ∞Ë    ˇµ,˙ˇˇh«  ˇµ˙ˇˇçÖ®Ëˇˇ∫   Ë    ãï®ËˇˇãE¸ãÄ®  Ë    ∫\«  ãE¸ãÄ∏  Ë    ∫p«  ãE¸ãÄº  Ë    ãˇRT›ù˙ˇˇõˇµ˙ˇˇˇµ˙ˇˇçç˙ˇˇã    ∏»∆  Ë    ∫à«  ãE¸ãÄº  Ë    ãˇR\€Ω ˙ˇˇõfãÖ˙ˇˇPˇµ˙ˇˇˇµ ˙ˇˇ°    PçÖ¸˘ˇˇPπ   ∫   ∞Ë    ˇµ˙ˇˇh«  ˇµ¸˘ˇˇçÖ§Ëˇˇ∫   Ë    ãï§ËˇˇãE¸ãÄ¨  Ë    ∫§«  ãE¸ãÄ‡  Ë    ∫∏«  ãE¸ãÄº  Ë    ãˇRT›ù˘ˇˇõˇµÙ˘ˇˇˇµ˘ˇˇççÏ˘ˇˇã    ∏»∆  Ë    ∫–«  ãE¸ãÄº  Ë    ãˇR\€Ω‡˘ˇˇõfãÖË˘ˇˇPˇµ‰˘ˇˇˇµ‡˘ˇˇ°    PçÖ‹˘ˇˇPπ   ∫   ∞Ë    ˇµÏ˘ˇˇh«  ˇµ‹˘ˇˇçÖ†Ëˇˇ∫   Ë    ãï†ËˇˇãE¸ãÄ‰  Ë    ∫Ï«  ãE¸ãÄË  Ë    ∫ »  ãE¸ãÄº  Ë    ãˇRT›ù–˘ˇˇõˇµ‘˘ˇˇˇµ–˘ˇˇççÃ˘ˇˇã    ∏»∆  Ë    ∫»  ãE¸ãÄº  Ë    ãˇR\€Ω¿˘ˇˇõfãÖ»˘ˇˇPˇµƒ˘ˇˇˇµ¿˘ˇˇ°    PçÖº˘ˇˇPπ   ∫   ∞Ë    ˇµÃ˘ˇˇh«  ˇµº˘ˇˇçÖúËˇˇ∫   Ë    ãïúËˇˇãE¸ãÄÏ  Ë    ∫4»  ãE¸ãÄÙ  Ë    ∫H»  ãE¸ãÄº  Ë    ãˇRT›ù∞˘ˇˇõˇµ¥˘ˇˇˇµ∞˘ˇˇçç¨˘ˇˇã    ∏»∆  Ë    ∫`»  ãE¸ãÄº  Ë    ãˇR\€Ω†˘ˇˇõfãÖ®˘ˇˇPˇµ§˘ˇˇˇµ†˘ˇˇ°    PçÖú˘ˇˇPπ   ∫   ∞Ë    ˇµ¨˘ˇˇh«  ˇµú˘ˇˇçÖòËˇˇ∫   Ë    ãïòËˇˇãE¸ãÄ  Ë    ∫|»  ãE¸ãÄ   Ë    ∫ê»  ãE¸ãÄº  Ë    ãˇRT›ùê˘ˇˇõˇµî˘ˇˇˇµê˘ˇˇççå˘ˇˇã    ∏»∆  Ë    ∫®»  ãE¸ãÄº  Ë    ãˇR\€ΩÄ˘ˇˇõfãÖà˘ˇˇPˇµÑ˘ˇˇˇµÄ˘ˇˇ°    PçÖ|˘ˇˇPπ   ∫   ∞Ë    ˇµå˘ˇˇh«  ˇµ|˘ˇˇçÖîËˇˇ∫   Ë    ãïîËˇˇãE¸ãÄ¸  Ë    ∫ƒ»  ãE¸ãÄ  Ë    ∫ÿ»  ãE¸ãÄº  Ë    ãˇRT›ùp˘ˇˇõˇµt˘ˇˇˇµp˘ˇˇççl˘ˇˇã    ∏»∆  Ë    ∫»  ãE¸ãÄº  Ë    ãˇR\€Ω`˘ˇˇõfãÖh˘ˇˇPˇµd˘ˇˇˇµ`˘ˇˇ°    PçÖ\˘ˇˇPπ   ∫   ∞Ë    ˇµl˘ˇˇh«  ˇµ\˘ˇˇçÖêËˇˇ∫   Ë    ãïêËˇˇãE¸ãÄ  Ë    ∫…  ãE¸ãÄ  Ë    ∫ …  ãE¸ãÄº  Ë    ãˇRT›ùP˘ˇˇõˇµT˘ˇˇˇµP˘ˇˇççL˘ˇˇã    ∏»∆  Ë    ∫8…  ãE¸ãÄº  Ë    ãˇR\€Ω@˘ˇˇõfãÖH˘ˇˇPˇµD˘ˇˇˇµ@˘ˇˇ°    PçÖ<˘ˇˇPπ   ∫   ∞Ë    ˇµL˘ˇˇh«  ˇµ<˘ˇˇçÖåËˇˇ∫   Ë    ãïåËˇˇãE¸ãÄ  Ë    ∫T…  ãE¸ãÄ0  Ë    ∫h…  ãE¸ãÄº  Ë    ãˇRT›ù0˘ˇˇõˇµ4˘ˇˇˇµ0˘ˇˇçç,˘ˇˇã    ∏»∆  Ë    ∫Ñ…  ãE¸ãÄº  Ë    ãˇR\€Ω ˘ˇˇõfãÖ(˘ˇˇPˇµ$˘ˇˇˇµ ˘ˇˇ°    PçÖ˘ˇˇPπ   ∫   ∞Ë    ˇµ,˘ˇˇh«  ˇµ˘ˇˇçÖàËˇˇ∫   Ë    ãïàËˇˇãE¸ãÄ$  Ë    ∫   ãE¸Ë    È¢7  ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞∆  ãE¸ãÄº  Ë    ãˇRT›ù˘ˇˇõˇµ˘ˇˇˇµ˘ˇˇçç˘ˇˇã    ∏»∆  Ë    ∫Ë∆  ãE¸ãÄº  Ë    ãˇR\€Ω ˘ˇˇõfãÖ˘ˇˇPˇµ˘ˇˇˇµ ˘ˇˇ°    PçÖ¸¯ˇˇPπ   ∫   ∞Ë    ˇµ˘ˇˇh«  ˇµ¸¯ˇˇçÖÑËˇˇ∫   Ë    ãïÑËˇˇãE¸ãÄ§  Ë    ∫«  ãE¸ãÄ¥  Ë    ∫(«  ãE¸ãÄº  Ë    ãˇRT›ù¯ˇˇõˇµÙ¯ˇˇˇµ¯ˇˇççÏ¯ˇˇã    ∏»∆  Ë    ∫@«  ãE¸ãÄº  Ë    ãˇR\€Ω‡¯ˇˇõfãÖË¯ˇˇPˇµ‰¯ˇˇˇµ‡¯ˇˇ°    PçÖ‹¯ˇˇPπ   ∫   ∞Ë    ˇµÏ¯ˇˇh«  ˇµ‹¯ˇˇçÖÄËˇˇ∫   Ë    ãïÄËˇˇãE¸ãÄ®  Ë    ∫\«  ãE¸ãÄ∏  Ë    ∫p«  ãE¸ãÄº  Ë    ãˇRT›ù–¯ˇˇõˇµ‘¯ˇˇˇµ–¯ˇˇççÃ¯ˇˇã    ∏»∆  Ë    ∫à«  ãE¸ãÄº  Ë    ãˇR\€Ω¿¯ˇˇõfãÖ»¯ˇˇPˇµƒ¯ˇˇˇµ¿¯ˇˇ°    PçÖº¯ˇˇPπ   ∫   ∞Ë    ˇµÃ¯ˇˇh«  ˇµº¯ˇˇçÖ|Ëˇˇ∫   Ë    ãï|ËˇˇãE¸ãÄ¨  Ë    ∫§«  ãE¸ãÄ‡  Ë    ∫∏«  ãE¸ãÄº  Ë    ãˇRT›ù∞¯ˇˇõˇµ¥¯ˇˇˇµ∞¯ˇˇçç¨¯ˇˇã    ∏»∆  Ë    ∫–«  ãE¸ãÄº  Ë    ãˇR\€Ω†¯ˇˇõfãÖ®¯ˇˇPˇµ§¯ˇˇˇµ†¯ˇˇ°    PçÖú¯ˇˇPπ   ∫   ∞Ë    ˇµ¨¯ˇˇh«  ˇµú¯ˇˇçÖxËˇˇ∫   Ë    ãïxËˇˇãE¸ãÄ‰  Ë    ∫Ï«  ãE¸ãÄË  Ë    ∫ »  ãE¸ãÄº  Ë    ãˇRT›ùê¯ˇˇõˇµî¯ˇˇˇµê¯ˇˇççå¯ˇˇã    ∏»∆  Ë    ∫»  ãE¸ãÄº  Ë    ãˇR\€ΩÄ¯ˇˇõfãÖà¯ˇˇPˇµÑ¯ˇˇˇµÄ¯ˇˇ°    PçÖ|¯ˇˇPπ   ∫   ∞Ë    ˇµå¯ˇˇh«  ˇµ|¯ˇˇçÖtËˇˇ∫   Ë    ãïtËˇˇãE¸ãÄÏ  Ë    ∫4»  ãE¸ãÄÙ  Ë    ∫H»  ãE¸ãÄº  Ë    ãˇRT›ùp¯ˇˇõˇµt¯ˇˇˇµp¯ˇˇççl¯ˇˇã    ∏»∆  Ë    ∫`»  ãE¸ãÄº  Ë    ãˇR\€Ω`¯ˇˇõfãÖh¯ˇˇPˇµd¯ˇˇˇµ`¯ˇˇ°    PçÖ\¯ˇˇPπ   ∫   ∞Ë    ˇµl¯ˇˇh«  ˇµ\¯ˇˇçÖpËˇˇ∫   Ë    ãïpËˇˇãE¸ãÄ  Ë    ∫|»  ãE¸ãÄ   Ë    ∫ê»  ãE¸ãÄº  Ë    ãˇRT›ùP¯ˇˇõˇµT¯ˇˇˇµP¯ˇˇççL¯ˇˇã    ∏»∆  Ë    ∫®»  ãE¸ãÄº  Ë    ãˇR\€Ω@¯ˇˇõfãÖH¯ˇˇPˇµD¯ˇˇˇµ@¯ˇˇ°    PçÖ<¯ˇˇPπ   ∫   ∞Ë    ˇµL¯ˇˇh«  ˇµ<¯ˇˇçÖlËˇˇ∫   Ë    ãïlËˇˇãE¸ãÄ¸  Ë    ∫ƒ»  ãE¸ãÄ  Ë    ∫ÿ»  ãE¸ãÄº  Ë    ãˇRT›ù0¯ˇˇõˇµ4¯ˇˇˇµ0¯ˇˇçç,¯ˇˇã    ∏»∆  Ë    ∫»  ãE¸ãÄº  Ë    ãˇR\€Ω ¯ˇˇõfãÖ(¯ˇˇPˇµ$¯ˇˇˇµ ¯ˇˇ°    PçÖ¯ˇˇPπ   ∫   ∞Ë    ˇµ,¯ˇˇh«  ˇµ¯ˇˇçÖhËˇˇ∫   Ë    ãïhËˇˇãE¸ãÄ  Ë    ∫…  ãE¸ãÄ  Ë    ∫ …  ãE¸ãÄº  Ë    ãˇRT›ù¯ˇˇõˇµ¯ˇˇˇµ¯ˇˇçç¯ˇˇã    ∏»∆  Ë    ∫8…  ãE¸ãÄº  Ë    ãˇR\€Ω ¯ˇˇõfãÖ¯ˇˇPˇµ¯ˇˇˇµ ¯ˇˇ°    PçÖ¸˜ˇˇPπ   ∫   ∞Ë    ˇµ¯ˇˇh«  ˇµ¸˜ˇˇçÖdËˇˇ∫   Ë    ãïdËˇˇãE¸ãÄ  Ë    ∫T…  ãE¸ãÄ0  Ë    ∫h…  ãE¸ãÄº  Ë    ãˇRT›ù˜ˇˇõˇµÙ˜ˇˇˇµ˜ˇˇççÏ˜ˇˇã    ∏»∆  Ë    ∫Ñ…  ãE¸ãÄº  Ë    ãˇR\€Ω‡˜ˇˇõfãÖË˜ˇˇPˇµ‰˜ˇˇˇµ‡˜ˇˇ°    PçÖ‹˜ˇˇPπ   ∫   ∞Ë    ˇµÏ˜ˇˇh«  ˇµ‹˜ˇˇçÖ`Ëˇˇ∫   Ë    ãï`ËˇˇãE¸ãÄ$  Ë    ∫†…  ãE¸ãÄ4  Ë    ∫¥…  ãE¸ãÄº  Ë    ãˇRT›ù–˜ˇˇõˇµ‘˜ˇˇˇµ–˜ˇˇççÃ˜ˇˇã    ∏»∆  Ë    ∫–…  ãE¸ãÄº  Ë    ãˇR\€Ω¿˜ˇˇõfãÖ»˜ˇˇPˇµƒ˜ˇˇˇµ¿˜ˇˇ°    PçÖº˜ˇˇPπ   ∫   ∞Ë    ˇµÃ˜ˇˇh«  ˇµº˜ˇˇçÖ\Ëˇˇ∫   Ë    ãï\ËˇˇãE¸ãÄ  Ë    ∫   ãE¸Ë    È2.  ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞∆  ãE¸ãÄº  Ë    ãˇRT›ù∞˜ˇˇõˇµ¥˜ˇˇˇµ∞˜ˇˇçç¨˜ˇˇã    ∏»∆  Ë    ∫Ë∆  ãE¸ãÄº  Ë    ãˇR\€Ω†˜ˇˇõfãÖ®˜ˇˇPˇµ§˜ˇˇˇµ†˜ˇˇ°    PçÖú˜ˇˇPπ   ∫   ∞Ë    ˇµ¨˜ˇˇh«  ˇµú˜ˇˇçÖXËˇˇ∫   Ë    ãïXËˇˇãE¸ãÄ§  Ë    ∫«  ãE¸ãÄ¥  Ë    ∫(«  ãE¸ãÄº  Ë    ãˇRT›ùê˜ˇˇõˇµî˜ˇˇˇµê˜ˇˇççå˜ˇˇã    ∏»∆  Ë    ∫@«  ãE¸ãÄº  Ë    ãˇR\€ΩÄ˜ˇˇõfãÖà˜ˇˇPˇµÑ˜ˇˇˇµÄ˜ˇˇ°    PçÖ|˜ˇˇPπ   ∫   ∞Ë    ˇµå˜ˇˇh«  ˇµ|˜ˇˇçÖTËˇˇ∫   Ë    ãïTËˇˇãE¸ãÄ®  Ë    ∫\«  ãE¸ãÄ∏  Ë    ∫p«  ãE¸ãÄº  Ë    ãˇRT›ùp˜ˇˇõˇµt˜ˇˇˇµp˜ˇˇççl˜ˇˇã    ∏»∆  Ë    ∫à«  ãE¸ãÄº  Ë    ãˇR\€Ω`˜ˇˇõfãÖh˜ˇˇPˇµd˜ˇˇˇµ`˜ˇˇ°    PçÖ\˜ˇˇPπ   ∫   ∞Ë    ˇµl˜ˇˇh«  ˇµ\˜ˇˇçÖPËˇˇ∫   Ë    ãïPËˇˇãE¸ãÄ¨  Ë    ∫§«  ãE¸ãÄ‡  Ë    ∫∏«  ãE¸ãÄº  Ë    ãˇRT›ùP˜ˇˇõˇµT˜ˇˇˇµP˜ˇˇççL˜ˇˇã    ∏»∆  Ë    ∫–«  ãE¸ãÄº  Ë    ãˇR\€Ω@˜ˇˇõfãÖH˜ˇˇPˇµD˜ˇˇˇµ@˜ˇˇ°    PçÖ<˜ˇˇPπ   ∫   ∞Ë    ˇµL˜ˇˇh«  ˇµ<˜ˇˇçÖLËˇˇ∫   Ë    ãïLËˇˇãE¸ãÄ‰  Ë    ∫Ï«  ãE¸ãÄË  Ë    ∫ »  ãE¸ãÄº  Ë    ãˇRT›ù0˜ˇˇõˇµ4˜ˇˇˇµ0˜ˇˇçç,˜ˇˇã    ∏»∆  Ë    ∫»  ãE¸ãÄº  Ë    ãˇR\€Ω ˜ˇˇõfãÖ(˜ˇˇPˇµ$˜ˇˇˇµ ˜ˇˇ°    PçÖ˜ˇˇPπ   ∫   ∞Ë    ˇµ,˜ˇˇh«  ˇµ˜ˇˇçÖHËˇˇ∫   Ë    ãïHËˇˇãE¸ãÄÏ  Ë    ∫4»  ãE¸ãÄÙ  Ë    ∫H»  ãE¸ãÄº  Ë    ãˇRT›ù˜ˇˇõˇµ˜ˇˇˇµ˜ˇˇçç˜ˇˇã    ∏»∆  Ë    ∫`»  ãE¸ãÄº  Ë    ãˇR\€Ω ˜ˇˇõfãÖ˜ˇˇPˇµ˜ˇˇˇµ ˜ˇˇ°    PçÖ¸ˆˇˇPπ   ∫   ∞Ë    ˇµ˜ˇˇh«  ˇµ¸ˆˇˇçÖDËˇˇ∫   Ë    ãïDËˇˇãE¸ãÄ  Ë    ∫|»  ãE¸ãÄ   Ë    ∫ê»  ãE¸ãÄº  Ë    ãˇRT›ùˆˇˇõˇµÙˆˇˇˇµˆˇˇççÏˆˇˇã    ∏»∆  Ë    ∫®»  ãE¸ãÄº  Ë    ãˇR\€Ω‡ˆˇˇõfãÖËˆˇˇPˇµ‰ˆˇˇˇµ‡ˆˇˇ°    PçÖ‹ˆˇˇPπ   ∫   ∞Ë    ˇµÏˆˇˇh«  ˇµ‹ˆˇˇçÖ@Ëˇˇ∫   Ë    ãï@ËˇˇãE¸ãÄ¸  Ë    ∫ƒ»  ãE¸ãÄ  Ë    ∫ÿ»  ãE¸ãÄº  Ë    ãˇRT›ù–ˆˇˇõˇµ‘ˆˇˇˇµ–ˆˇˇççÃˆˇˇã    ∏»∆  Ë    ∫»  ãE¸ãÄº  Ë    ãˇR\€Ω¿ˆˇˇõfãÖ»ˆˇˇPˇµƒˆˇˇˇµ¿ˆˇˇ°    PçÖºˆˇˇPπ   ∫   ∞Ë    ˇµÃˆˇˇh«  ˇµºˆˇˇçÖ<Ëˇˇ∫   Ë    ãï<ËˇˇãE¸ãÄ  Ë    ∫…  ãE¸ãÄ  Ë    ∫ …  ãE¸ãÄº  Ë    ãˇRT›ù∞ˆˇˇõˇµ¥ˆˇˇˇµ∞ˆˇˇçç¨ˆˇˇã    ∏»∆  Ë    ∫8…  ãE¸ãÄº  Ë    ãˇR\€Ω†ˆˇˇõfãÖ®ˆˇˇPˇµ§ˆˇˇˇµ†ˆˇˇ°    PçÖúˆˇˇPπ   ∫   ∞Ë    ˇµ¨ˆˇˇh«  ˇµúˆˇˇçÖ8Ëˇˇ∫   Ë    ãï8ËˇˇãE¸ãÄ  Ë    ∫T…  ãE¸ãÄ0  Ë    ∫h…  ãE¸ãÄº  Ë    ãˇRT›ùêˆˇˇõˇµîˆˇˇˇµêˆˇˇççåˆˇˇã    ∏»∆  Ë    ∫Ñ…  ãE¸ãÄº  Ë    ãˇR\€ΩÄˆˇˇõfãÖàˆˇˇPˇµÑˆˇˇˇµÄˆˇˇ°    PçÖ|ˆˇˇPπ   ∫   ∞Ë    ˇµåˆˇˇh«  ˇµ|ˆˇˇçÖ4Ëˇˇ∫   Ë    ãï4ËˇˇãE¸ãÄ$  Ë    ∫†…  ãE¸ãÄ4  Ë    ∫¥…  ãE¸ãÄº  Ë    ãˇRT›ùpˆˇˇõˇµtˆˇˇˇµpˆˇˇççlˆˇˇã    ∏»∆  Ë    ∫–…  ãE¸ãÄº  Ë    ãˇR\€Ω`ˆˇˇõfãÖhˆˇˇPˇµdˆˇˇˇµ`ˆˇˇ°    PçÖ\ˆˇˇPπ   ∫   ∞Ë    ˇµlˆˇˇh«  ˇµ\ˆˇˇçÖ0Ëˇˇ∫   Ë    ãï0ËˇˇãE¸ãÄ  Ë    ∫Ï…  ãE¸ãÄ8  Ë    ∫    ãE¸ãÄº  Ë    ãˇRT›ùPˆˇˇõˇµTˆˇˇˇµPˆˇˇççLˆˇˇã    ∏»∆  Ë    ∫   ãE¸ãÄº  Ë    ãˇR\€Ω@ˆˇˇõfãÖHˆˇˇPˇµDˆˇˇˇµ@ˆˇˇ°    PçÖ<ˆˇˇPπ   ∫   ∞Ë    ˇµLˆˇˇh«  ˇµ<ˆˇˇçÖ,Ëˇˇ∫   Ë    ãï,ËˇˇãE¸ãÄ  Ë    ∫   ãE¸Ë    ÈË#  ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞∆  ãE¸ãÄº  Ë    ãˇRT›ù0ˆˇˇõˇµ4ˆˇˇˇµ0ˆˇˇçç,ˆˇˇã    ∏»∆  Ë    ∫Ë∆  ãE¸ãÄº  Ë    ãˇR\€Ω ˆˇˇõfãÖ(ˆˇˇPˇµ$ˆˇˇˇµ ˆˇˇ°    PçÖˆˇˇPπ   ∫   ∞Ë    ˇµ,ˆˇˇh«  ˇµˆˇˇçÖ(Ëˇˇ∫   Ë    ãï(ËˇˇãE¸ãÄ§  Ë    ∫«  ãE¸ãÄ¥  Ë    ∫(«  ãE¸ãÄº  Ë    ãˇRT›ùˆˇˇõˇµˆˇˇˇµˆˇˇççˆˇˇã    ∏»∆  Ë    ∫@«  ãE¸ãÄº  Ë    ãˇR\€Ω ˆˇˇõfãÖˆˇˇPˇµˆˇˇˇµ ˆˇˇ°    PçÖ¸ıˇˇPπ   ∫   ∞Ë    ˇµˆˇˇh«  ˇµ¸ıˇˇçÖ$Ëˇˇ∫   Ë    ãï$ËˇˇãE¸ãÄ®  Ë    ∫\«  ãE¸ãÄ∏  Ë    ∫p«  ãE¸ãÄº  Ë    ãˇRT›ùıˇˇõˇµÙıˇˇˇµıˇˇççÏıˇˇã    ∏»∆  Ë    ∫à«  ãE¸ãÄº  Ë    ãˇR\€Ω‡ıˇˇõfãÖËıˇˇPˇµ‰ıˇˇˇµ‡ıˇˇ°    PçÖ‹ıˇˇPπ   ∫   ∞Ë    ˇµÏıˇˇh«  ˇµ‹ıˇˇçÖ Ëˇˇ∫   Ë    ãï ËˇˇãE¸ãÄ¨  Ë    ∫§«  ãE¸ãÄ‡  Ë    ∫∏«  ãE¸ãÄº  Ë    ãˇRT›ù–ıˇˇõˇµ‘ıˇˇˇµ–ıˇˇççÃıˇˇã    ∏»∆  Ë    ∫–«  ãE¸ãÄº  Ë    ãˇR\€Ω¿ıˇˇõfãÖ»ıˇˇPˇµƒıˇˇˇµ¿ıˇˇ°    PçÖºıˇˇPπ   ∫   ∞Ë    ˇµÃıˇˇh«  ˇµºıˇˇçÖËˇˇ∫   Ë    ãïËˇˇãE¸ãÄ‰  Ë    ∫Ï«  ãE¸ãÄË  Ë    ∫ »  ãE¸ãÄº  Ë    ãˇRT›ù∞ıˇˇõˇµ¥ıˇˇˇµ∞ıˇˇçç¨ıˇˇã    ∏»∆  Ë    ∫»  ãE¸ãÄº  Ë    ãˇR\€Ω†ıˇˇõfãÖ®ıˇˇPˇµ§ıˇˇˇµ†ıˇˇ°    PçÖúıˇˇPπ   ∫   ∞Ë    ˇµ¨ıˇˇh«  ˇµúıˇˇçÖËˇˇ∫   Ë    ãïËˇˇãE¸ãÄÏ  Ë    ∫4»  ãE¸ãÄÙ  Ë    ∫H»  ãE¸ãÄº  Ë    ãˇRT›ùêıˇˇõˇµîıˇˇˇµêıˇˇççåıˇˇã    ∏»∆  Ë    ∫`»  ãE¸ãÄº  Ë    ãˇR\€ΩÄıˇˇõfãÖàıˇˇPˇµÑıˇˇˇµÄıˇˇ°    PçÖ|ıˇˇPπ   ∫   ∞Ë    ˇµåıˇˇh«  ˇµ|ıˇˇçÖËˇˇ∫   Ë    ãïËˇˇãE¸ãÄ  Ë    ∫|»  ãE¸ãÄ   Ë    ∫ê»  ãE¸ãÄº  Ë    ãˇRT›ùpıˇˇõˇµtıˇˇˇµpıˇˇççlıˇˇã    ∏»∆  Ë    ∫®»  ãE¸ãÄº  Ë    ãˇR\€Ω`ıˇˇõfãÖhıˇˇPˇµdıˇˇˇµ`ıˇˇ°    PçÖ\ıˇˇPπ   ∫   ∞Ë    ˇµlıˇˇh«  ˇµ\ıˇˇçÖËˇˇ∫   Ë    ãïËˇˇãE¸ãÄ¸  Ë    ∫ƒ»  ãE¸ãÄ  Ë    ∫ÿ»  ãE¸ãÄº  Ë    ãˇRT›ùPıˇˇõˇµTıˇˇˇµPıˇˇççLıˇˇã    ∏»∆  Ë    ∫»  ãE¸ãÄº  Ë    ãˇR\€Ω@ıˇˇõfãÖHıˇˇPˇµDıˇˇˇµ@ıˇˇ°    PçÖ<ıˇˇPπ   ∫   ∞Ë    ˇµLıˇˇh«  ˇµ<ıˇˇçÖËˇˇ∫   Ë    ãïËˇˇãE¸ãÄ  Ë    ∫…  ãE¸ãÄ  Ë    ∫ …  ãE¸ãÄº  Ë    ãˇRT›ù0ıˇˇõˇµ4ıˇˇˇµ0ıˇˇçç,ıˇˇã    ∏»∆  Ë    ∫8…  ãE¸ãÄº  Ë    ãˇR\€Ω ıˇˇõfãÖ(ıˇˇPˇµ$ıˇˇˇµ ıˇˇ°    PçÖıˇˇPπ   ∫   ∞Ë    ˇµ,ıˇˇh«  ˇµıˇˇçÖËˇˇ∫   Ë    ãïËˇˇãE¸ãÄ  Ë    ∫T…  ãE¸ãÄ0  Ë    ∫h…  ãE¸ãÄº  Ë    ãˇRT›ùıˇˇõˇµıˇˇˇµıˇˇççıˇˇã    ∏»∆  Ë    ∫Ñ…  ãE¸ãÄº  Ë    ãˇR\€Ω ıˇˇõfãÖıˇˇPˇµıˇˇˇµ ıˇˇ°    PçÖ¸ÙˇˇPπ   ∫   ∞Ë    ˇµıˇˇh«  ˇµ¸ÙˇˇçÖËˇˇ∫   Ë    ãïËˇˇãE¸ãÄ$  Ë    ∫†…  ãE¸ãÄ4  Ë    ∫¥…  ãE¸ãÄº  Ë    ãˇRT›ùÙˇˇõˇµÙÙˇˇˇµÙˇˇççÏÙˇˇã    ∏»∆  Ë    ∫–…  ãE¸ãÄº  Ë    ãˇR\€Ω‡ÙˇˇõfãÖËÙˇˇPˇµ‰Ùˇˇˇµ‡Ùˇˇ°    PçÖ‹ÙˇˇPπ   ∫   ∞Ë    ˇµÏÙˇˇh«  ˇµ‹ÙˇˇçÖ Ëˇˇ∫   Ë    ãï ËˇˇãE¸ãÄ  Ë    ∫Ï…  ãE¸ãÄ8  Ë    ∫    ãE¸ãÄº  Ë    ãˇRT›ù–Ùˇˇõˇµ‘Ùˇˇˇµ–ÙˇˇççÃÙˇˇã    ∏»∆  Ë    ∫   ãE¸ãÄº  Ë    ãˇR\€Ω¿ÙˇˇõfãÖ»ÙˇˇPˇµƒÙˇˇˇµ¿Ùˇˇ°    PçÖºÙˇˇPπ   ∫   ∞Ë    ˇµÃÙˇˇh«  ˇµºÙˇˇçÖ¸Áˇˇ∫   Ë    ãï¸ÁˇˇãE¸ãÄ  Ë    ∫8   ãE¸ãÄ(  Ë    ∫L   ãE¸ãÄº  Ë    ãˇRT›ù∞Ùˇˇõˇµ¥Ùˇˇˇµ∞Ùˇˇçç¨Ùˇˇã    ∏»∆  Ë    ∫h   ãE¸ãÄº  Ë    ãˇR\€Ω†ÙˇˇõfãÖ®ÙˇˇPˇµ§Ùˇˇˇµ†Ùˇˇ°    PçÖúÙˇˇPπ   ∫   ∞Ë    ˇµ¨Ùˇˇh«  ˇµúÙˇˇçÖ¯Áˇˇ∫   Ë    ãï¯ÁˇˇãE¸ãÄ,  Ë    ∫   ãE¸Ë    Èƒ  ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞∆  ãE¸ãÄº  Ë    ãˇRT›ùêÙˇˇõˇµîÙˇˇˇµêÙˇˇççåÙˇˇã    ∏»∆  Ë    ∫Ë∆  ãE¸ãÄº  Ë    ãˇR\€ΩÄÙˇˇõfãÖàÙˇˇPˇµÑÙˇˇˇµÄÙˇˇ°    PçÖ|ÙˇˇPπ   ∫   ∞Ë    ˇµåÙˇˇh«  ˇµ|ÙˇˇçÖÙÁˇˇ∫   Ë    ãïÙÁˇˇãE¸ãÄ§  Ë    ∫«  ãE¸ãÄ¥  Ë    ∫(«  ãE¸ãÄº  Ë    ãˇRT›ùpÙˇˇõˇµtÙˇˇˇµpÙˇˇççlÙˇˇã    ∏»∆  Ë    ∫@«  ãE¸ãÄº  Ë    ãˇR\€Ω`ÙˇˇõfãÖhÙˇˇPˇµdÙˇˇˇµ`Ùˇˇ°    PçÖ\ÙˇˇPπ   ∫   ∞Ë    ˇµlÙˇˇh«  ˇµ\ÙˇˇçÖÁˇˇ∫   Ë    ãïÁˇˇãE¸ãÄ®  Ë    ∫\«  ãE¸ãÄ∏  Ë    ∫p«  ãE¸ãÄº  Ë    ãˇRT›ùPÙˇˇõˇµTÙˇˇˇµPÙˇˇççLÙˇˇã    ∏»∆  Ë    ∫à«  ãE¸ãÄº  Ë    ãˇR\€Ω@ÙˇˇõfãÖHÙˇˇPˇµDÙˇˇˇµ@Ùˇˇ°    PçÖ<ÙˇˇPπ   ∫   ∞Ë    ˇµLÙˇˇh«  ˇµ<ÙˇˇçÖÏÁˇˇ∫   Ë    ãïÏÁˇˇãE¸ãÄ¨  Ë    ∫§«  ãE¸ãÄ‡  Ë    ∫∏«  ãE¸ãÄº  Ë    ãˇRT›ù0Ùˇˇõˇµ4Ùˇˇˇµ0Ùˇˇçç,Ùˇˇã    ∏»∆  Ë    ∫–«  ãE¸ãÄº  Ë    ãˇR\€Ω ÙˇˇõfãÖ(ÙˇˇPˇµ$Ùˇˇˇµ Ùˇˇ°    PçÖÙˇˇPπ   ∫   ∞Ë    ˇµ,Ùˇˇh«  ˇµÙˇˇçÖËÁˇˇ∫   Ë    ãïËÁˇˇãE¸ãÄ‰  Ë    ∫Ï«  ãE¸ãÄË  Ë    ∫ »  ãE¸ãÄº  Ë    ãˇRT›ùÙˇˇõˇµÙˇˇˇµÙˇˇççÙˇˇã    ∏»∆  Ë    ∫»  ãE¸ãÄº  Ë    ãˇR\€Ω ÙˇˇõfãÖÙˇˇPˇµÙˇˇˇµ Ùˇˇ°    PçÖ¸ÛˇˇPπ   ∫   ∞Ë    ˇµÙˇˇh«  ˇµ¸ÛˇˇçÖ‰Áˇˇ∫   Ë    ãï‰ÁˇˇãE¸ãÄÏ  Ë    ∫4»  ãE¸ãÄÙ  Ë    ∫H»  ãE¸ãÄº  Ë    ãˇRT›ùÛˇˇõˇµÙÛˇˇˇµÛˇˇççÏÛˇˇã    ∏»∆  Ë    ∫`»  ãE¸ãÄº  Ë    ãˇR\€Ω‡ÛˇˇõfãÖËÛˇˇPˇµ‰Ûˇˇˇµ‡Ûˇˇ°    PçÖ‹ÛˇˇPπ   ∫   ∞Ë    ˇµÏÛˇˇh«  ˇµ‹ÛˇˇçÖ‡Áˇˇ∫   Ë    ãï‡ÁˇˇãE¸ãÄ  Ë    ∫|»  ãE¸ãÄ   Ë    ∫ê»  ãE¸ãÄº  Ë    ãˇRT›ù–Ûˇˇõˇµ‘Ûˇˇˇµ–ÛˇˇççÃÛˇˇã    ∏»∆  Ë    ∫®»  ãE¸ãÄº  Ë    ãˇR\€Ω¿ÛˇˇõfãÖ»ÛˇˇPˇµƒÛˇˇˇµ¿Ûˇˇ°    PçÖºÛˇˇPπ   ∫   ∞Ë    ˇµÃÛˇˇh«  ˇµºÛˇˇçÖ‹Áˇˇ∫   Ë    ãï‹ÁˇˇãE¸ãÄ¸  Ë    ∫ƒ»  ãE¸ãÄ  Ë    ∫ÿ»  ãE¸ãÄº  Ë    ãˇRT›ù∞Ûˇˇõˇµ¥Ûˇˇˇµ∞Ûˇˇçç¨Ûˇˇã    ∏»∆  Ë    ∫»  ãE¸ãÄº  Ë    ãˇR\€Ω†ÛˇˇõfãÖ®ÛˇˇPˇµ§Ûˇˇˇµ†Ûˇˇ°    PçÖúÛˇˇPπ   ∫   ∞Ë    ˇµ¨Ûˇˇh«  ˇµúÛˇˇçÖÿÁˇˇ∫   Ë    ãïÿÁˇˇãE¸ãÄ  Ë    ∫…  ãE¸ãÄ  Ë    ∫ …  ãE¸ãÄº  Ë    ãˇRT›ùêÛˇˇõˇµîÛˇˇˇµêÛˇˇççåÛˇˇã    ∏»∆  Ë    ∫8…  ãE¸ãÄº  Ë    ãˇR\€ΩÄÛˇˇõfãÖàÛˇˇPˇµÑÛˇˇˇµÄÛˇˇ°    PçÖ|ÛˇˇPπ   ∫   ∞Ë    ˇµåÛˇˇh«  ˇµ|ÛˇˇçÖ‘Áˇˇ∫   Ë    ãï‘ÁˇˇãE¸ãÄ  Ë    ∫T…  ãE¸ãÄ0  Ë    ∫h…  ãE¸ãÄº  Ë    ãˇRT›ùpÛˇˇõˇµtÛˇˇˇµpÛˇˇççlÛˇˇã    ∏»∆  Ë    ∫Ñ…  ãE¸ãÄº  Ë    ãˇR\€Ω`ÛˇˇõfãÖhÛˇˇPˇµdÛˇˇˇµ`Ûˇˇ°    PçÖ\ÛˇˇPπ   ∫   ∞Ë    ˇµlÛˇˇh«  ˇµ\ÛˇˇçÖ–Áˇˇ∫   Ë    ãï–ÁˇˇãE¸ãÄ$  Ë    ∫†…  ãE¸ãÄ4  Ë    ∫¥…  ãE¸ãÄº  Ë    ãˇRT›ùPÛˇˇõˇµTÛˇˇˇµPÛˇˇççLÛˇˇã    ∏»∆  Ë    ∫–…  ãE¸ãÄº  Ë    ãˇR\€Ω@ÛˇˇõfãÖHÛˇˇPˇµDÛˇˇˇµ@Ûˇˇ°    PçÖ<ÛˇˇPπ   ∫   ∞Ë    ˇµLÛˇˇh«  ˇµ<ÛˇˇçÖÃÁˇˇ∫   Ë    ãïÃÁˇˇãE¸ãÄ  Ë    ∫Ï…  ãE¸ãÄ8  Ë    ∫    ãE¸ãÄº  Ë    ãˇRT›ù0Ûˇˇõˇµ4Ûˇˇˇµ0Ûˇˇçç,Ûˇˇã    ∏»∆  Ë    ∫   ãE¸ãÄº  Ë    ãˇR\€Ω ÛˇˇõfãÖ(ÛˇˇPˇµ$Ûˇˇˇµ Ûˇˇ°    PçÖÛˇˇPπ   ∫   ∞Ë    ˇµ,Ûˇˇh«  ˇµÛˇˇçÖ»Áˇˇ∫   Ë    ãï»ÁˇˇãE¸ãÄ  Ë    ∫8   ãE¸ãÄ(  Ë    ∫L   ãE¸ãÄº  Ë    ãˇRT›ùÛˇˇõˇµÛˇˇˇµÛˇˇççÛˇˇã    ∏»∆  Ë    ∫h   ãE¸ãÄº  Ë    ãˇR\€Ω ÛˇˇõfãÖÛˇˇPˇµÛˇˇˇµ Ûˇˇ°    PçÖ¸ÚˇˇPπ   ∫   ∞Ë    ˇµÛˇˇh«  ˇµ¸ÚˇˇçÖƒÁˇˇ∫   Ë    ãïƒÁˇˇãE¸ãÄ,  Ë    ∫Ñ   ãE¸ãÄ<  Ë    ∫ò   ãE¸ãÄº  Ë    ãˇRT›ùÚˇˇõˇµÙÚˇˇˇµÚˇˇççÏÚˇˇã    ∏»∆  Ë    ∫¥   ãE¸ãÄº  Ë    ãˇR\€Ω‡ÚˇˇõfãÖËÚˇˇPˇµ‰Úˇˇˇµ‡Úˇˇ°    PçÖ‹ÚˇˇPπ   ∫   ∞Ë    ˇµÏÚˇˇh«  ˇµ‹ÚˇˇçÖ¿Áˇˇ∫   Ë    ãï¿ÁˇˇãE¸ãÄ@  Ë    ∫   ãE¸Ë    È∆  ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞∆  ãE¸ãÄº  Ë    ãˇRT›ù–Úˇˇõˇµ‘Úˇˇˇµ–ÚˇˇççÃÚˇˇã    ∏»∆  Ë    ∫Ë∆  ãE¸ãÄº  Ë    ãˇR\€Ω¿ÚˇˇõfãÖ»ÚˇˇPˇµƒÚˇˇˇµ¿Úˇˇ°    PçÖºÚˇˇPπ   ∫   ∞Ë    ˇµÃÚˇˇh«  ˇµºÚˇˇçÖºÁˇˇ∫   Ë    ãïºÁˇˇãE¸ãÄ§  Ë    ∫«  ãE¸ãÄ¥  Ë    ∫(«  ãE¸ãÄº  Ë    ãˇRT›ù∞Úˇˇõˇµ¥Úˇˇˇµ∞Úˇˇçç¨Úˇˇã    ∏»∆  Ë    ∫@«  ãE¸ãÄº  Ë    ãˇR\€Ω†ÚˇˇõfãÖ®ÚˇˇPˇµ§Úˇˇˇµ†Úˇˇ°    PçÖúÚˇˇPπ   ∫   ∞Ë    ˇµ¨Úˇˇh«  ˇµúÚˇˇçÖ∏Áˇˇ∫   Ë    ãï∏ÁˇˇãE¸ãÄ®  Ë    ∫\«  ãE¸ãÄ∏  Ë    ∫p«  ãE¸ãÄº  Ë    ãˇRT›ùêÚˇˇõˇµîÚˇˇˇµêÚˇˇççåÚˇˇã    ∏»∆  Ë    ∫à«  ãE¸ãÄº  Ë    ãˇR\€ΩÄÚˇˇõfãÖàÚˇˇPˇµÑÚˇˇˇµÄÚˇˇ°    PçÖ|ÚˇˇPπ   ∫   ∞Ë    ˇµåÚˇˇh«  ˇµ|ÚˇˇçÖ¥Áˇˇ∫   Ë    ãï¥ÁˇˇãE¸ãÄ¨  Ë    ∫§«  ãE¸ãÄ‡  Ë    ∫∏«  ãE¸ãÄº  Ë    ãˇRT›ùpÚˇˇõˇµtÚˇˇˇµpÚˇˇççlÚˇˇã    ∏»∆  Ë    ∫–«  ãE¸ãÄº  Ë    ãˇR\€Ω`ÚˇˇõfãÖhÚˇˇPˇµdÚˇˇˇµ`Úˇˇ°    PçÖ\ÚˇˇPπ   ∫   ∞Ë    ˇµlÚˇˇh«  ˇµ\ÚˇˇçÖ∞Áˇˇ∫   Ë    ãï∞ÁˇˇãE¸ãÄ‰  Ë    ∫Ï«  ãE¸ãÄË  Ë    ∫ »  ãE¸ãÄº  Ë    ãˇRT›ùPÚˇˇõˇµTÚˇˇˇµPÚˇˇççLÚˇˇã    ∏»∆  Ë    ∫»  ãE¸ãÄº  Ë    ãˇR\€Ω@ÚˇˇõfãÖHÚˇˇPˇµDÚˇˇˇµ@Úˇˇ°    PçÖ<ÚˇˇPπ   ∫   ∞Ë    ˇµLÚˇˇh«  ˇµ<ÚˇˇçÖ¨Áˇˇ∫   Ë    ãï¨ÁˇˇãE¸ãÄÏ  Ë    ∫4»  ãE¸ãÄÙ  Ë    ∫H»  ãE¸ãÄº  Ë    ãˇRT›ù0Úˇˇõˇµ4Úˇˇˇµ0Úˇˇçç,Úˇˇã    ∏»∆  Ë    ∫`»  ãE¸ãÄº  Ë    ãˇR\€Ω ÚˇˇõfãÖ(ÚˇˇPˇµ$Úˇˇˇµ Úˇˇ°    PçÖÚˇˇPπ   ∫   ∞Ë    ˇµ,Úˇˇh«  ˇµÚˇˇçÖ®Áˇˇ∫   Ë    ãï®ÁˇˇãE¸ãÄ  Ë    ∫|»  ãE¸ãÄ   Ë    ∫ê»  ãE¸ãÄº  Ë    ãˇRT›ùÚˇˇõˇµÚˇˇˇµÚˇˇççÚˇˇã    ∏»∆  Ë    ∫®»  ãE¸ãÄº  Ë    ãˇR\€Ω ÚˇˇõfãÖÚˇˇPˇµÚˇˇˇµ Úˇˇ°    PçÖ¸ÒˇˇPπ   ∫   ∞Ë    ˇµÚˇˇh«  ˇµ¸ÒˇˇçÖ§Áˇˇ∫   Ë    ãï§ÁˇˇãE¸ãÄ¸  Ë    ∫ƒ»  ãE¸ãÄ  Ë    ∫ÿ»  ãE¸ãÄº  Ë    ãˇRT›ùÒˇˇõˇµÙÒˇˇˇµÒˇˇççÏÒˇˇã    ∏»∆  Ë    ∫»  ãE¸ãÄº  Ë    ãˇR\€Ω‡ÒˇˇõfãÖËÒˇˇPˇµ‰Òˇˇˇµ‡Òˇˇ°    PçÖ‹ÒˇˇPπ   ∫   ∞Ë    ˇµÏÒˇˇh«  ˇµ‹ÒˇˇçÖ†Áˇˇ∫   Ë    ãï†ÁˇˇãE¸ãÄ  Ë    ∫…  ãE¸ãÄ  Ë    ∫ …  ãE¸ãÄº  Ë    ãˇRT›ù–Òˇˇõˇµ‘Òˇˇˇµ–ÒˇˇççÃÒˇˇã    ∏»∆  Ë    ∫8…  ãE¸ãÄº  Ë    ãˇR\€Ω¿ÒˇˇõfãÖ»ÒˇˇPˇµƒÒˇˇˇµ¿Òˇˇ°    PçÖºÒˇˇPπ   ∫   ∞Ë    ˇµÃÒˇˇh«  ˇµºÒˇˇçÖúÁˇˇ∫   Ë    ãïúÁˇˇãE¸ãÄ  Ë    ∫T…  ãE¸ãÄ0  Ë    ∫h…  ãE¸ãÄº  Ë    ãˇRT›ù∞Òˇˇõˇµ¥Òˇˇˇµ∞Òˇˇçç¨Òˇˇã    ∏»∆  Ë    ∫Ñ…  ãE¸ãÄº  Ë    ãˇR\€Ω†ÒˇˇõfãÖ®ÒˇˇPˇµ§Òˇˇˇµ†Òˇˇ°    PçÖúÒˇˇPπ   ∫   ∞Ë    ˇµ¨Òˇˇh«  ˇµúÒˇˇçÖòÁˇˇ∫   Ë    ãïòÁˇˇãE¸ãÄ$  Ë    ∫†…  ãE¸ãÄ4  Ë    ∫¥…  ãE¸ãÄº  Ë    ãˇRT›ùêÒˇˇõˇµîÒˇˇˇµêÒˇˇççåÒˇˇã    ∏»∆  Ë    ∫–…  ãE¸ãÄº  Ë    ãˇR\€ΩÄÒˇˇõfãÖàÒˇˇPˇµÑÒˇˇˇµÄÒˇˇ°    PçÖ|ÒˇˇPπ   ∫   ∞Ë    ˇµåÒˇˇh«  ˇµ|ÒˇˇçÖîÁˇˇ∫   Ë    ãïîÁˇˇãE¸ãÄ  Ë    ∫Ï…  ãE¸ãÄ8  Ë    ∫    ãE¸ãÄº  Ë    ãˇRT›ùpÒˇˇõˇµtÒˇˇˇµpÒˇˇççlÒˇˇã    ∏»∆  Ë    ∫   ãE¸ãÄº  Ë    ãˇR\€Ω`ÒˇˇõfãÖhÒˇˇPˇµdÒˇˇˇµ`Òˇˇ°    PçÖ\ÒˇˇPπ   ∫   ∞Ë    ˇµlÒˇˇh«  ˇµ\ÒˇˇçÖêÁˇˇ∫   Ë    ãïêÁˇˇãE¸ãÄ  Ë    ∫8   ãE¸ãÄ(  Ë    ∫L   ãE¸ãÄº  Ë    ãˇRT›ùPÒˇˇõˇµTÒˇˇˇµPÒˇˇççLÒˇˇã    ∏»∆  Ë    ∫h   ãE¸ãÄº  Ë    ãˇR\€Ω@ÒˇˇõfãÖHÒˇˇPˇµDÒˇˇˇµ@Òˇˇ°    PçÖ<ÒˇˇPπ   ∫   ∞Ë    ˇµLÒˇˇh«  ˇµ<ÒˇˇçÖåÁˇˇ∫   Ë    ãïåÁˇˇãE¸ãÄ,  Ë    ∫Ñ   ãE¸ãÄ<  Ë    ∫ò   ãE¸ãÄº  Ë    ãˇRT›ù0Òˇˇõˇµ4Òˇˇˇµ0Òˇˇçç,Òˇˇã    ∏»∆  Ë    ∫¥   ãE¸ãÄº  Ë    ãˇR\€Ω ÒˇˇõfãÖ(ÒˇˇPˇµ$Òˇˇˇµ Òˇˇ°    PçÖÒˇˇPπ   ∫   ∞Ë    ˇµ,Òˇˇh«  ˇµÒˇˇçÖàÁˇˇ∫   Ë    ãïàÁˇˇãE¸ãÄ@  Ë    ∫–   ãE¸ãÄD  Ë    ∫‰   ãE¸ãÄº  Ë    ãˇRT›ùÒˇˇõˇµÒˇˇˇµÒˇˇççÒˇˇã    ∏»∆  Ë    ∫ À  ãE¸ãÄº  Ë    ãˇR\€Ω ÒˇˇõfãÖÒˇˇPˇµÒˇˇˇµ Òˇˇ°    PçÖ¸ˇˇPπ   ∫   ∞Ë    ˇµÒˇˇh«  ˇµ¸ˇˇçÖÑÁˇˇ∫   Ë    ãïÑÁˇˇãE¸ãÄH  Ë    ∫À  ãE¸ãÄº  Ë    çï|ÁˇˇãˇQtãÖ|ÁˇˇçïÄÁˇˇË    ãÖÄÁˇˇ∫l∆  Ë    ÖÇK  ∫   ãE¸Ë    ÈpK  3“ãE¸Ë    ∫À  ãE¸ãÄº  Ë    çïtÁˇˇãˇQtãÖtÁˇˇçïxÁˇˇË    ãÖxÁˇˇ∫l∆  Ë    Ö!K  3“ãE¸ãÄ∏  Ë    3“ãE¸ãÄ¥  Ë    ãE¸ãÄò  ∆Ä≤  ∫HÀ  ãE¸ãÄò  Ë    ÈŸJ  3“ãE¸ãÄú  ãˇë®  ãE¸ãÄú  ãÄh  ãˇRDãE¸ãÄú  ãÄh  ∫Ã  ãˇQ8ãE¸ãÄú  ãÄh  ∫ÿÃ  ãˇQ8h8Õ  ∫ÿ≈  ãE¸ãÄº  Ë    ãˇRdçïlÁˇˇË    ˇµlÁˇˇhƒ≈  çÖpÁˇˇ∫   Ë    ãïpÁˇˇãE¸ãÄú  ãÄh  ãˇQ8≤ãE¸ãÄú  ãˇë®  ∫êÕ  ãE¸ãÄú  Ë    çïhÁˇˇãˇQtãïhÁˇˇãE¸ãÄò  Ë    °    ã ãÄ∏   ∫(∆  Ë    çïdÁˇˇãˇQtãÖdÁˇˇ∫l∆  Ë    ÖúI  ∫|∆  ãE¸ãÄÿ  Ë    ãˇRdÉ¯á+I  ˇ$Ö%k  ek  wk  $l  lm  Oo  Õq  Êt  öx  È|  ”Å  :á  <ç  Ÿì  õ  ‰¢  R´  ∫   ãE¸Ë    È“H  ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞Õ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùˇˇõˇµÙˇˇˇµˇˇççÏˇˇã    ∏»∆  Ë    ãïÏˇˇãE¸ãÄ§  Ë    ∫   ãE¸Ë    È%H  ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞Õ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù‡ˇˇõˇµ‰ˇˇˇµ‡ˇˇçç‹ˇˇã    ∏»∆  Ë    ãï‹ˇˇãE¸ãÄ§  Ë    ∫«  ãE¸ãÄ¥  Ë    ∫Õ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù–ˇˇõˇµ‘ˇˇˇµ–ˇˇççÃˇˇã    ∏»∆  Ë    ãïÃˇˇãE¸ãÄ®  Ë    ∫   ãE¸Ë    È›F  ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞Õ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù¿ˇˇõˇµƒˇˇˇµ¿ˇˇççºˇˇã    ∏»∆  Ë    ãïºˇˇãE¸ãÄ§  Ë    ∫«  ãE¸ãÄ¥  Ë    ∫Õ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù∞ˇˇõˇµ¥ˇˇˇµ∞ˇˇçç¨ˇˇã    ∏»∆  Ë    ãï¨ˇˇãE¸ãÄ®  Ë    ∫\«  ãE¸ãÄ∏  Ë    ∫Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù†ˇˇõˇµ§ˇˇˇµ†ˇˇççúˇˇã    ∏»∆  Ë    ãïúˇˇãE¸ãÄ¨  Ë    ∫   ãE¸Ë    È˙D  ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞Õ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùêˇˇõˇµîˇˇˇµêˇˇççåˇˇã    ∏»∆  Ë    ãïåˇˇãE¸ãÄ§  Ë    ∫«  ãE¸ãÄ¥  Ë    ∫Õ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùÄˇˇõˇµÑˇˇˇµÄˇˇçç|ˇˇã    ∏»∆  Ë    ãï|ˇˇãE¸ãÄ®  Ë    ∫\«  ãE¸ãÄ∏  Ë    ∫Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùpˇˇõˇµtˇˇˇµpˇˇççlˇˇã    ∏»∆  Ë    ãïlˇˇãE¸ãÄ¨  Ë    ∫§«  ãE¸ãÄ‡  Ë    ∫0Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù`ˇˇõˇµdˇˇˇµ`ˇˇçç\ˇˇã    ∏»∆  Ë    ãï\ˇˇãE¸ãÄ‰  Ë    ∫   ãE¸Ë    È|B  ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞Õ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùPˇˇõˇµTˇˇˇµPˇˇççLˇˇã    ∏»∆  Ë    ãïLˇˇãE¸ãÄ§  Ë    ∫«  ãE¸ãÄ¥  Ë    ∫Õ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù@ˇˇõˇµDˇˇˇµ@ˇˇçç<ˇˇã    ∏»∆  Ë    ãï<ˇˇãE¸ãÄ®  Ë    ∫\«  ãE¸ãÄ∏  Ë    ∫Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù0ˇˇõˇµ4ˇˇˇµ0ˇˇçç,ˇˇã    ∏»∆  Ë    ãï,ˇˇãE¸ãÄ¨  Ë    ∫§«  ãE¸ãÄ‡  Ë    ∫0Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù ˇˇõˇµ$ˇˇˇµ ˇˇççˇˇã    ∏»∆  Ë    ãïˇˇãE¸ãÄ‰  Ë    ∫Ï«  ãE¸ãÄË  Ë    ∫PŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùˇˇõˇµˇˇˇµˇˇççˇˇã    ∏»∆  Ë    ãïˇˇãE¸ãÄÏ  Ë    ∫   ãE¸Ë    Èc?  ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞Õ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù ˇˇõˇµˇˇˇµ ˇˇçç¸Ôˇˇã    ∏»∆  Ë    ãï¸ÔˇˇãE¸ãÄ§  Ë    ∫«  ãE¸ãÄ¥  Ë    ∫Õ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùÔˇˇõˇµÙÔˇˇˇµÔˇˇççÏÔˇˇã    ∏»∆  Ë    ãïÏÔˇˇãE¸ãÄ®  Ë    ∫\«  ãE¸ãÄ∏  Ë    ∫Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù‡Ôˇˇõˇµ‰Ôˇˇˇµ‡Ôˇˇçç‹Ôˇˇã    ∏»∆  Ë    ãï‹ÔˇˇãE¸ãÄ¨  Ë    ∫§«  ãE¸ãÄ‡  Ë    ∫0Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù–Ôˇˇõˇµ‘Ôˇˇˇµ–ÔˇˇççÃÔˇˇã    ∏»∆  Ë    ãïÃÔˇˇãE¸ãÄ‰  Ë    ∫Ï«  ãE¸ãÄË  Ë    ∫PŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù¿ÔˇˇõˇµƒÔˇˇˇµ¿ÔˇˇççºÔˇˇã    ∏»∆  Ë    ãïºÔˇˇãE¸ãÄÏ  Ë    ∫4»  ãE¸ãÄÙ  Ë    ∫pŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù∞Ôˇˇõˇµ¥Ôˇˇˇµ∞Ôˇˇçç¨Ôˇˇã    ∏»∆  Ë    ãï¨ÔˇˇãE¸ãÄ  Ë    ∫   ãE¸Ë    ÈØ;  ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞Õ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù†Ôˇˇõˇµ§Ôˇˇˇµ†ÔˇˇççúÔˇˇã    ∏»∆  Ë    ãïúÔˇˇãE¸ãÄ§  Ë    ∫«  ãE¸ãÄ¥  Ë    ∫Õ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùêÔˇˇõˇµîÔˇˇˇµêÔˇˇççåÔˇˇã    ∏»∆  Ë    ãïåÔˇˇãE¸ãÄ®  Ë    ∫\«  ãE¸ãÄ∏  Ë    ∫Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùÄÔˇˇõˇµÑÔˇˇˇµÄÔˇˇçç|Ôˇˇã    ∏»∆  Ë    ãï|ÔˇˇãE¸ãÄ¨  Ë    ∫§«  ãE¸ãÄ‡  Ë    ∫0Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùpÔˇˇõˇµtÔˇˇˇµpÔˇˇççlÔˇˇã    ∏»∆  Ë    ãïlÔˇˇãE¸ãÄ‰  Ë    ∫Ï«  ãE¸ãÄË  Ë    ∫PŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù`ÔˇˇõˇµdÔˇˇˇµ`Ôˇˇçç\Ôˇˇã    ∏»∆  Ë    ãï\ÔˇˇãE¸ãÄÏ  Ë    ∫4»  ãE¸ãÄÙ  Ë    ∫pŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùPÔˇˇõˇµTÔˇˇˇµPÔˇˇççLÔˇˇã    ∏»∆  Ë    ãïLÔˇˇãE¸ãÄ  Ë    ∫|»  ãE¸ãÄ   Ë    ∫êŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù@ÔˇˇõˇµDÔˇˇˇµ@Ôˇˇçç<Ôˇˇã    ∏»∆  Ë    ãï<ÔˇˇãE¸ãÄ¸  Ë    ∫   ãE¸Ë    È`7  ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞Õ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù0Ôˇˇõˇµ4Ôˇˇˇµ0Ôˇˇçç,Ôˇˇã    ∏»∆  Ë    ãï,ÔˇˇãE¸ãÄ§  Ë    ∫«  ãE¸ãÄ¥  Ë    ∫Õ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù Ôˇˇõˇµ$Ôˇˇˇµ ÔˇˇççÔˇˇã    ∏»∆  Ë    ãïÔˇˇãE¸ãÄ®  Ë    ∫\«  ãE¸ãÄ∏  Ë    ∫Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùÔˇˇõˇµÔˇˇˇµÔˇˇççÔˇˇã    ∏»∆  Ë    ãïÔˇˇãE¸ãÄ¨  Ë    ∫§«  ãE¸ãÄ‡  Ë    ∫0Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù ÔˇˇõˇµÔˇˇˇµ Ôˇˇçç¸Óˇˇã    ∏»∆  Ë    ãï¸ÓˇˇãE¸ãÄ‰  Ë    ∫Ï«  ãE¸ãÄË  Ë    ∫PŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùÓˇˇõˇµÙÓˇˇˇµÓˇˇççÏÓˇˇã    ∏»∆  Ë    ãïÏÓˇˇãE¸ãÄÏ  Ë    ∫4»  ãE¸ãÄÙ  Ë    ∫pŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù‡Óˇˇõˇµ‰Óˇˇˇµ‡Óˇˇçç‹Óˇˇã    ∏»∆  Ë    ãï‹ÓˇˇãE¸ãÄ  Ë    ∫|»  ãE¸ãÄ   Ë    ∫êŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù–Óˇˇõˇµ‘Óˇˇˇµ–ÓˇˇççÃÓˇˇã    ∏»∆  Ë    ãïÃÓˇˇãE¸ãÄ¸  Ë    ∫ƒ»  ãE¸ãÄ  Ë    ∫∞Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù¿ÓˇˇõˇµƒÓˇˇˇµ¿ÓˇˇççºÓˇˇã    ∏»∆  Ë    ãïºÓˇˇãE¸ãÄ  Ë    ∫	   ãE¸Ë    Èv2  ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞Õ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù∞Óˇˇõˇµ¥Óˇˇˇµ∞Óˇˇçï¨Óˇˇ°    Ë    ãï¨ÓˇˇãE¸ãÄ§  Ë    ∫«  ãE¸ãÄ¥  Ë    ∫Õ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù†Óˇˇõˇµ§Óˇˇˇµ†ÓˇˇçïúÓˇˇ°    Ë    ãïúÓˇˇãE¸ãÄ®  Ë    ∫\«  ãE¸ãÄ∏  Ë    ∫Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùêÓˇˇõˇµîÓˇˇˇµêÓˇˇçïåÓˇˇ°    Ë    ãïåÓˇˇãE¸ãÄ¨  Ë    ∫§«  ãE¸ãÄ‡  Ë    ∫0Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùÄÓˇˇõˇµÑÓˇˇˇµÄÓˇˇçï|Óˇˇ°    Ë    ãï|ÓˇˇãE¸ãÄ‰  Ë    ∫Ï«  ãE¸ãÄË  Ë    ∫PŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùpÓˇˇõˇµtÓˇˇˇµpÓˇˇçïlÓˇˇ°    Ë    ãïlÓˇˇãE¸ãÄÏ  Ë    ∫4»  ãE¸ãÄÙ  Ë    ∫pŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù`ÓˇˇõˇµdÓˇˇˇµ`Óˇˇçç\Óˇˇã    ∏»∆  Ë    ãï\ÓˇˇãE¸ãÄ  Ë    ∫|»  ãE¸ãÄ   Ë    ∫êŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùPÓˇˇõˇµTÓˇˇˇµPÓˇˇççLÓˇˇã    ∏»∆  Ë    ãïLÓˇˇãE¸ãÄ¸  Ë    ∫ƒ»  ãE¸ãÄ  Ë    ∫∞Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù@ÓˇˇõˇµDÓˇˇˇµ@Óˇˇçç<Óˇˇã    ∏»∆  Ë    ãï<ÓˇˇãE¸ãÄ  Ë    ∫…  ãE¸ãÄ  Ë    ∫–Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù0Óˇˇõˇµ4Óˇˇˇµ0Óˇˇçç,Óˇˇã    ∏»∆  Ë    ãï,ÓˇˇãE¸ãÄ  Ë    ∫
+   ãE¸Ë    È-  ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞Õ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù Óˇˇõˇµ$Óˇˇˇµ ÓˇˇçïÓˇˇ°    Ë    ãïÓˇˇãE¸ãÄ§  Ë    ∫«  ãE¸ãÄ¥  Ë    ∫Õ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùÓˇˇõˇµÓˇˇˇµÓˇˇçïÓˇˇ°    Ë    ãïÓˇˇãE¸ãÄ®  Ë    ∫\«  ãE¸ãÄ∏  Ë    ∫Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù ÓˇˇõˇµÓˇˇˇµ Óˇˇçï¸Ìˇˇ°    Ë    ãï¸ÌˇˇãE¸ãÄ¨  Ë    ∫§«  ãE¸ãÄ‡  Ë    ∫0Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùÌˇˇõˇµÙÌˇˇˇµÌˇˇçïÏÌˇˇ°    Ë    ãïÏÌˇˇãE¸ãÄ‰  Ë    ∫Ï«  ãE¸ãÄË  Ë    ∫PŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù‡Ìˇˇõˇµ‰Ìˇˇˇµ‡Ìˇˇçï‹Ìˇˇ°    Ë    ãï‹ÌˇˇãE¸ãÄÏ  Ë    ∫4»  ãE¸ãÄÙ  Ë    ∫pŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù–Ìˇˇõˇµ‘Ìˇˇˇµ–ÌˇˇççÃÌˇˇã    ∏»∆  Ë    ãïÃÌˇˇãE¸ãÄ  Ë    ∫|»  ãE¸ãÄ   Ë    ∫êŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù¿ÌˇˇõˇµƒÌˇˇˇµ¿ÌˇˇççºÌˇˇã    ∏»∆  Ë    ãïºÌˇˇãE¸ãÄ¸  Ë    ∫ƒ»  ãE¸ãÄ  Ë    ∫∞Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù∞Ìˇˇõˇµ¥Ìˇˇˇµ∞Ìˇˇçç¨Ìˇˇã    ∏»∆  Ë    ãï¨ÌˇˇãE¸ãÄ  Ë    ∫…  ãE¸ãÄ  Ë    ∫–Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù†Ìˇˇõˇµ§Ìˇˇˇµ†ÌˇˇççúÌˇˇã    ∏»∆  Ë    ãïúÌˇˇãE¸ãÄ  Ë    ∫T…  ãE¸ãÄ0  Ë    ∫Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùêÌˇˇõˇµîÌˇˇˇµêÌˇˇççåÌˇˇã    ∏»∆  Ë    ãïåÌˇˇãE¸ãÄ$  Ë    ∫   ãE¸Ë    È'  ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞Õ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùÄÌˇˇõˇµÑÌˇˇˇµÄÌˇˇçï|Ìˇˇ°    Ë    ãï|ÌˇˇãE¸ãÄ§  Ë    ∫«  ãE¸ãÄ¥  Ë    ∫Õ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùpÌˇˇõˇµtÌˇˇˇµpÌˇˇçïlÌˇˇ°    Ë    ãïlÌˇˇãE¸ãÄ®  Ë    ∫\«  ãE¸ãÄ∏  Ë    ∫Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù`ÌˇˇõˇµdÌˇˇˇµ`Ìˇˇçï\Ìˇˇ°    Ë    ãï\ÌˇˇãE¸ãÄ¨  Ë    ∫§«  ãE¸ãÄ‡  Ë    ∫0Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùPÌˇˇõˇµTÌˇˇˇµPÌˇˇçïLÌˇˇ°    Ë    ãïLÌˇˇãE¸ãÄ‰  Ë    ∫Ï«  ãE¸ãÄË  Ë    ∫PŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù@ÌˇˇõˇµDÌˇˇˇµ@Ìˇˇçï<Ìˇˇ°    Ë    ãï<ÌˇˇãE¸ãÄÏ  Ë    ∫4»  ãE¸ãÄÙ  Ë    ∫pŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù0Ìˇˇõˇµ4Ìˇˇˇµ0Ìˇˇçç,Ìˇˇã    ∏»∆  Ë    ãï,ÌˇˇãE¸ãÄ  Ë    ∫|»  ãE¸ãÄ   Ë    ∫êŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù Ìˇˇõˇµ$Ìˇˇˇµ ÌˇˇççÌˇˇã    ∏»∆  Ë    ãïÌˇˇãE¸ãÄ¸  Ë    ∫ƒ»  ãE¸ãÄ  Ë    ∫∞Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùÌˇˇõˇµÌˇˇˇµÌˇˇççÌˇˇã    ∏»∆  Ë    ãïÌˇˇãE¸ãÄ  Ë    ∫…  ãE¸ãÄ  Ë    ∫–Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù ÌˇˇõˇµÌˇˇˇµ Ìˇˇçç¸Ïˇˇã    ∏»∆  Ë    ãï¸ÏˇˇãE¸ãÄ  Ë    ∫T…  ãE¸ãÄ0  Ë    ∫Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùÏˇˇõˇµÙÏˇˇˇµÏˇˇççÏÏˇˇã    ∏»∆  Ë    ãïÏÏˇˇãE¸ãÄ$  Ë    ∫†…  ãE¸ãÄ4  Ë    ∫œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù‡Ïˇˇõˇµ‰Ïˇˇˇµ‡Ïˇˇçç‹Ïˇˇã    ∏»∆  Ë    ãï‹ÏˇˇãE¸ãÄ  Ë    ∫   ãE¸Ë    Èp   ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞Õ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù–Ïˇˇõˇµ‘Ïˇˇˇµ–ÏˇˇçïÃÏˇˇ°    Ë    ãïÃÏˇˇãE¸ãÄ§  Ë    ∫«  ãE¸ãÄ¥  Ë    ∫Õ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù¿ÏˇˇõˇµƒÏˇˇˇµ¿ÏˇˇçïºÏˇˇ°    Ë    ãïºÏˇˇãE¸ãÄ®  Ë    ∫\«  ãE¸ãÄ∏  Ë    ∫Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù∞Ïˇˇõˇµ¥Ïˇˇˇµ∞Ïˇˇçï¨Ïˇˇ°    Ë    ãï¨ÏˇˇãE¸ãÄ¨  Ë    ∫§«  ãE¸ãÄ‡  Ë    ∫0Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù†Ïˇˇõˇµ§Ïˇˇˇµ†ÏˇˇçïúÏˇˇ°    Ë    ãïúÏˇˇãE¸ãÄ‰  Ë    ∫Ï«  ãE¸ãÄË  Ë    ∫PŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùêÏˇˇõˇµîÏˇˇˇµêÏˇˇçïåÏˇˇ°    Ë    ãïåÏˇˇãE¸ãÄÏ  Ë    ∫4»  ãE¸ãÄÙ  Ë    ∫pŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùÄÏˇˇõˇµÑÏˇˇˇµÄÏˇˇçç|Ïˇˇã    ∏»∆  Ë    ãï|ÏˇˇãE¸ãÄ  Ë    ∫|»  ãE¸ãÄ   Ë    ∫êŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùpÏˇˇõˇµtÏˇˇˇµpÏˇˇççlÏˇˇã    ∏»∆  Ë    ãïlÏˇˇãE¸ãÄ¸  Ë    ∫ƒ»  ãE¸ãÄ  Ë    ∫∞Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù`ÏˇˇõˇµdÏˇˇˇµ`Ïˇˇçç\Ïˇˇã    ∏»∆  Ë    ãï\ÏˇˇãE¸ãÄ  Ë    ∫…  ãE¸ãÄ  Ë    ∫–Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùPÏˇˇõˇµTÏˇˇˇµPÏˇˇççLÏˇˇã    ∏»∆  Ë    ãïLÏˇˇãE¸ãÄ  Ë    ∫T…  ãE¸ãÄ0  Ë    ∫Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù@ÏˇˇõˇµDÏˇˇˇµ@Ïˇˇçç<Ïˇˇã    ∏»∆  Ë    ãï<ÏˇˇãE¸ãÄ$  Ë    ∫†…  ãE¸ãÄ4  Ë    ∫œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù0Ïˇˇõˇµ4Ïˇˇˇµ0Ïˇˇçç,Ïˇˇã    ∏»∆  Ë    ãï,ÏˇˇãE¸ãÄ  Ë    ∫Ï…  ãE¸ãÄ8  Ë    ∫0œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù Ïˇˇõˇµ$Ïˇˇˇµ ÏˇˇççÏˇˇã    ∏»∆  Ë    ãïÏˇˇãE¸ãÄ  Ë    ∫   ãE¸Ë    È8  ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞Õ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùÏˇˇõˇµÏˇˇˇµÏˇˇçïÏˇˇ°    Ë    ãïÏˇˇãE¸ãÄ§  Ë    ∫«  ãE¸ãÄ¥  Ë    ∫Õ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù ÏˇˇõˇµÏˇˇˇµ Ïˇˇçï¸Îˇˇ°    Ë    ãï¸ÎˇˇãE¸ãÄ®  Ë    ∫\«  ãE¸ãÄ∏  Ë    ∫Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùÎˇˇõˇµÙÎˇˇˇµÎˇˇçïÏÎˇˇ°    Ë    ãïÏÎˇˇãE¸ãÄ¨  Ë    ∫§«  ãE¸ãÄ‡  Ë    ∫0Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù‡Îˇˇõˇµ‰Îˇˇˇµ‡Îˇˇçï‹Îˇˇ°    Ë    ãï‹ÎˇˇãE¸ãÄ‰  Ë    ∫Ï«  ãE¸ãÄË  Ë    ∫PŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù–Îˇˇõˇµ‘Îˇˇˇµ–ÎˇˇçïÃÎˇˇ°    Ë    ãïÃÎˇˇãE¸ãÄÏ  Ë    ∫4»  ãE¸ãÄÙ  Ë    ∫pŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù¿ÎˇˇõˇµƒÎˇˇˇµ¿ÎˇˇççºÎˇˇã    ∏»∆  Ë    ãïºÎˇˇãE¸ãÄ  Ë    ∫|»  ãE¸ãÄ   Ë    ∫êŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù∞Îˇˇõˇµ¥Îˇˇˇµ∞Îˇˇçç¨Îˇˇã    ∏»∆  Ë    ãï¨ÎˇˇãE¸ãÄ¸  Ë    ∫ƒ»  ãE¸ãÄ  Ë    ∫∞Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù†Îˇˇõˇµ§Îˇˇˇµ†ÎˇˇççúÎˇˇã    ∏»∆  Ë    ãïúÎˇˇãE¸ãÄ  Ë    ∫…  ãE¸ãÄ  Ë    ∫–Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùêÎˇˇõˇµîÎˇˇˇµêÎˇˇççåÎˇˇã    ∏»∆  Ë    ãïåÎˇˇãE¸ãÄ  Ë    ∫T…  ãE¸ãÄ0  Ë    ∫Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùÄÎˇˇõˇµÑÎˇˇˇµÄÎˇˇçç|Îˇˇã    ∏»∆  Ë    ãï|ÎˇˇãE¸ãÄ$  Ë    ∫†…  ãE¸ãÄ4  Ë    ∫œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùpÎˇˇõˇµtÎˇˇˇµpÎˇˇççlÎˇˇã    ∏»∆  Ë    ãïlÎˇˇãE¸ãÄ  Ë    ∫Ï…  ãE¸ãÄ8  Ë    ∫0œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù`ÎˇˇõˇµdÎˇˇˇµ`Îˇˇçç\Îˇˇã    ∏»∆  Ë    ãï\ÎˇˇãE¸ãÄ  Ë    ∫8   ãE¸ãÄ(  Ë    ∫Pœ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùPÎˇˇõˇµTÎˇˇˇµPÎˇˇççLÎˇˇã    ∏»∆  Ë    ãïLÎˇˇãE¸ãÄ  Ë    ∫   ãE¸Ë    Èe  ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞Õ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù@ÎˇˇõˇµDÎˇˇˇµ@Îˇˇçï<Îˇˇ°    Ë    ãï<ÎˇˇãE¸ãÄ§  Ë    ∫«  ãE¸ãÄ¥  Ë    ∫Õ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù0Îˇˇõˇµ4Îˇˇˇµ0Îˇˇçï,Îˇˇ°    Ë    ãï,ÎˇˇãE¸ãÄ®  Ë    ∫\«  ãE¸ãÄ∏  Ë    ∫Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù Îˇˇõˇµ$Îˇˇˇµ ÎˇˇçïÎˇˇ°    Ë    ãïÎˇˇãE¸ãÄ¨  Ë    ∫§«  ãE¸ãÄ‡  Ë    ∫0Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùÎˇˇõˇµÎˇˇˇµÎˇˇçïÎˇˇ°    Ë    ãïÎˇˇãE¸ãÄ‰  Ë    ∫Ï«  ãE¸ãÄË  Ë    ∫PŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù ÎˇˇõˇµÎˇˇˇµ Îˇˇçï¸Íˇˇ°    Ë    ãï¸ÍˇˇãE¸ãÄÏ  Ë    ∫4»  ãE¸ãÄÙ  Ë    ∫pŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùÍˇˇõˇµÙÍˇˇˇµÍˇˇççÏÍˇˇã    ∏»∆  Ë    ãïÏÍˇˇãE¸ãÄ  Ë    ∫|»  ãE¸ãÄ   Ë    ∫êŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù‡Íˇˇõˇµ‰Íˇˇˇµ‡Íˇˇçç‹Íˇˇã    ∏»∆  Ë    ãï‹ÍˇˇãE¸ãÄ¸  Ë    ∫ƒ»  ãE¸ãÄ  Ë    ∫∞Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù–Íˇˇõˇµ‘Íˇˇˇµ–ÍˇˇççÃÍˇˇã    ∏»∆  Ë    ãïÃÍˇˇãE¸ãÄ  Ë    ∫…  ãE¸ãÄ  Ë    ∫–Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù¿ÍˇˇõˇµƒÍˇˇˇµ¿ÍˇˇççºÍˇˇã    ∏»∆  Ë    ãïºÍˇˇãE¸ãÄ  Ë    ∫T…  ãE¸ãÄ0  Ë    ∫Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù∞Íˇˇõˇµ¥Íˇˇˇµ∞Íˇˇçç¨Íˇˇã    ∏»∆  Ë    ãï¨ÍˇˇãE¸ãÄ$  Ë    ∫†…  ãE¸ãÄ4  Ë    ∫œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù†Íˇˇõˇµ§Íˇˇˇµ†ÍˇˇççúÍˇˇã    ∏»∆  Ë    ãïúÍˇˇãE¸ãÄ  Ë    ∫Ï…  ãE¸ãÄ8  Ë    ∫0œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùêÍˇˇõˇµîÍˇˇˇµêÍˇˇççåÍˇˇã    ∏»∆  Ë    ãïåÍˇˇãE¸ãÄ  Ë    ∫8   ãE¸ãÄ(  Ë    ∫Pœ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùÄÍˇˇõˇµÑÍˇˇˇµÄÍˇˇçç|Íˇˇã    ∏»∆  Ë    ãï|ÍˇˇãE¸ãÄ  Ë    ∫Ñ   ãE¸ãÄ<  Ë    ∫pœ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùpÍˇˇõˇµtÍˇˇˇµpÍˇˇççlÍˇˇã    ∏»∆  Ë    ãïlÍˇˇãE¸ãÄ@  Ë    ∫   ãE¸Ë    È˜  ∫ú∆  ãE¸ãÄ∞  Ë    ∫∞Õ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù`ÍˇˇõˇµdÍˇˇˇµ`Íˇˇçï\Íˇˇ°    Ë    ãï\ÍˇˇãE¸ãÄ§  Ë    ∫«  ãE¸ãÄ¥  Ë    ∫Õ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùPÍˇˇõˇµTÍˇˇˇµPÍˇˇçïLÍˇˇ°    Ë    ãïLÍˇˇãE¸ãÄ®  Ë    ∫\«  ãE¸ãÄ∏  Ë    ∫Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù@ÍˇˇõˇµDÍˇˇˇµ@Íˇˇçï<Íˇˇ°    Ë    ãï<ÍˇˇãE¸ãÄ¨  Ë    ∫§«  ãE¸ãÄ‡  Ë    ∫0Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù0Íˇˇõˇµ4Íˇˇˇµ0Íˇˇçï,Íˇˇ°    Ë    ãï,ÍˇˇãE¸ãÄ‰  Ë    ∫Ï«  ãE¸ãÄË  Ë    ∫PŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù Íˇˇõˇµ$Íˇˇˇµ ÍˇˇçïÍˇˇ°    Ë    ãïÍˇˇãE¸ãÄÏ  Ë    ∫4»  ãE¸ãÄÙ  Ë    ∫pŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùÍˇˇõˇµÍˇˇˇµÍˇˇççÍˇˇã    ∏»∆  Ë    ãïÍˇˇãE¸ãÄ  Ë    ∫|»  ãE¸ãÄ   Ë    ∫êŒ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù ÍˇˇõˇµÍˇˇˇµ Íˇˇçç¸Èˇˇã    ∏»∆  Ë    ãï¸ÈˇˇãE¸ãÄ¸  Ë    ∫ƒ»  ãE¸ãÄ  Ë    ∫∞Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùÈˇˇõˇµÙÈˇˇˇµÈˇˇççÏÈˇˇã    ∏»∆  Ë    ãïÏÈˇˇãE¸ãÄ  Ë    ∫…  ãE¸ãÄ  Ë    ∫–Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù‡Èˇˇõˇµ‰Èˇˇˇµ‡Èˇˇçç‹Èˇˇã    ∏»∆  Ë    ãï‹ÈˇˇãE¸ãÄ  Ë    ∫T…  ãE¸ãÄ0  Ë    ∫Œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù–Èˇˇõˇµ‘Èˇˇˇµ–ÈˇˇççÃÈˇˇã    ∏»∆  Ë    ãïÃÈˇˇãE¸ãÄ$  Ë    ∫†…  ãE¸ãÄ4  Ë    ∫œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù¿ÈˇˇõˇµƒÈˇˇˇµ¿ÈˇˇççºÈˇˇã    ∏»∆  Ë    ãïºÈˇˇãE¸ãÄ  Ë    ∫Ï…  ãE¸ãÄ8  Ë    ∫0œ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù∞Èˇˇõˇµ¥Èˇˇˇµ∞Èˇˇçç¨Èˇˇã    ∏»∆  Ë    ãï¨ÈˇˇãE¸ãÄ  Ë    ∫8   ãE¸ãÄ(  Ë    ∫Pœ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ù†Èˇˇõˇµ§Èˇˇˇµ†ÈˇˇççúÈˇˇã    ∏»∆  Ë    ãïúÈˇˇãE¸ãÄ  Ë    ∫Ñ   ãE¸ãÄ<  Ë    ∫pœ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùêÈˇˇõˇµîÈˇˇˇµêÈˇˇççåÈˇˇã    ∏»∆  Ë    ãïåÈˇˇãE¸ãÄ@  Ë    ∫–   ãE¸ãÄD  Ë    ∫êœ  ãE¸ãÄú  Ë    ãˇRdâÖ`Áˇˇ€Ö`Áˇˇ€ΩTÁˇˇõ∫–Õ  ãE¸ãÄÿ  Ë    ãˇRT€≠TÁˇˇﬁ¡›ùÄÈˇˇõˇµÑÈˇˇˇµÄÈˇˇçç|Èˇˇã    ∏»∆  Ë    ãï|ÈˇˇãE¸ãÄH  Ë    ∫À  ãE¸ãÄº  Ë    çïLÁˇˇãˇQtãÖLÁˇˇçïPÁˇˇË    ãÖPÁˇˇ∫l∆  Ë    u∫   ãE¸Ë    Î
+3“ãE¸Ë    3¿ZYYdâhNƒ  çÖLÁˇˇ∫   Ë    çÖdÁˇˇ∫b   Ë    çÖÏËˇˇ∫$   Ë    çÖ¸˚ˇˇË    çÖ¸ˇˇË    çÖ¸ˇˇË    çÖ,¸ˇˇË    çÖ<¸ˇˇË    çÖL¸ˇˇË    çÖ\¸ˇˇË    çÖl¸ˇˇË    çÖ|¸ˇˇË    çÖå¸ˇˇË    çÖú¸ˇˇË    çÖ¨¸ˇˇË    çÖº¸ˇˇË    çÖÃ¸ˇˇË    çÖ‹¸ˇˇË    çÖÏ¸ˇˇË    çÖ¸¸ˇˇË    çÖ˝ˇˇË    çÖ˝ˇˇË    çÖ,˝ˇˇË    çÖ<˝ˇˇË    çÖL˝ˇˇË    çÖ\˝ˇˇË    çÖl˝ˇˇË    çÖ|˝ˇˇË    çÖå˝ˇˇË    çÖú˝ˇˇË    çÖ¨˝ˇˇË    çÖº˝ˇˇË    çÖÃ˝ˇˇË    çÖ‹˝ˇˇË    çÖÏ˝ˇˇË    çÖ¸˝ˇˇË    çÖ˛ˇˇË    çÖ˛ˇˇË    çÖ,˛ˇˇË    çÖ<˛ˇˇË    çÖL˛ˇˇË    çÖ\˛ˇˇË    çÖl˛ˇˇË    çÖ|˛ˇˇË    çÖå˛ˇˇË    çÖú˛ˇˇË    çÖ¨˛ˇˇË    çÖº˛ˇˇË    çÖÃ˛ˇˇË    çÖ‹˛ˇˇË    çÖÏ˛ˇˇË    çÖ¸˛ˇˇË    çÖˇˇˇË    çÖˇˇˇË    çÖ,ˇˇˇË    çÖ<ˇˇˇË    çÖLˇˇˇË    çÖ\ˇˇˇË    çÖlˇˇˇË    çÖ|ˇˇˇË    çEåË    çEúË    çE¨Ë    çEºË    çEÃË    çE‹Ë    çEÏË    çÖºıˇˇË    çÖÃıˇˇË    çÖ‹ıˇˇË    çÖÏıˇˇË    çÖ¸ıˇˇË    çÖˆˇˇË    çÖˆˇˇË    çÖ,ˆˇˇË    çÖ<ˆˇˇË    çÖLˆˇˇË    çÖ\ˆˇˇË    çÖlˆˇˇË    çÖ|ˆˇˇË    çÖåˆˇˇË    çÖúˆˇˇË    çÖ¨ˆˇˇË    çÖºˆˇˇË    çÖÃˆˇˇË    çÖ‹ˆˇˇË    çÖÏˆˇˇË    çÖ¸ˆˇˇË    çÖ˜ˇˇË    çÖ˜ˇˇË    çÖ,˜ˇˇË    çÖ<˜ˇˇË    çÖL˜ˇˇË    çÖ\˜ˇˇË    çÖl˜ˇˇË    çÖ|˜ˇˇË    çÖå˜ˇˇË    çÖú˜ˇˇË    çÖ¨˜ˇˇË    çÖº˜ˇˇË    çÖÃ˜ˇˇË    çÖ‹˜ˇˇË    çÖÏ˜ˇˇË    çÖ¸˜ˇˇË    çÖ¯ˇˇË    çÖ¯ˇˇË    çÖ,¯ˇˇË    çÖ<¯ˇˇË    çÖL¯ˇˇË    çÖ\¯ˇˇË    çÖl¯ˇˇË    çÖ|¯ˇˇË    çÖå¯ˇˇË    çÖú¯ˇˇË    çÖ¨¯ˇˇË    çÖº¯ˇˇË    çÖÃ¯ˇˇË    çÖ‹¯ˇˇË    çÖÏ¯ˇˇË    çÖ¸¯ˇˇË    çÖ˘ˇˇË    çÖ˘ˇˇË    çÖ,˘ˇˇË    çÖ<˘ˇˇË    çÖL˘ˇˇË    çÖ\˘ˇˇË    çÖl˘ˇˇË    çÖ|˘ˇˇË    çÖå˘ˇˇË    çÖú˘ˇˇË    çÖ¨˘ˇˇË    çÖº˘ˇˇË    çÖÃ˘ˇˇË    çÖ‹˘ˇˇË    çÖÏ˘ˇˇË    çÖ¸˘ˇˇË    çÖ˙ˇˇË    çÖ˙ˇˇË    çÖ,˙ˇˇË    çÖ<˙ˇˇË    çÖL˙ˇˇË    çÖ\˙ˇˇË    çÖl˙ˇˇË    çÖ|˙ˇˇË    çÖå˙ˇˇË    çÖú˙ˇˇË    çÖ¨˙ˇˇË    çÖº˙ˇˇË    çÖÃ˙ˇˇË    çÖ‹˙ˇˇË    çÖÏ˙ˇˇË    çÖ¸˙ˇˇË    çÖ˚ˇˇË    çÖ˚ˇˇË    çÖ,˚ˇˇË    çÖ<˚ˇˇË    çÖL˚ˇˇË    çÖ\˚ˇˇË    çÖl˚ˇˇË    çÖ|˚ˇˇË    çÖå˚ˇˇË    çÖú˚ˇˇË    çÖ¨˚ˇˇË    çÖº˚ˇˇË    çÖÃ˚ˇˇË    çÖ‹˚ˇˇË    çÖÏ˚ˇˇË    çÖ|ÔˇˇË    çÖåÔˇˇË    çÖúÔˇˇË    çÖ¨ÔˇˇË    çÖºÔˇˇË    çÖÃÔˇˇË    çÖ‹ÔˇˇË    çÖÏÔˇˇË    çÖ¸ÔˇˇË    çÖˇˇË    çÖˇˇË    çÖ,ˇˇË    çÖ<ˇˇË    çÖLˇˇË    çÖ\ˇˇË    çÖlˇˇË    çÖ|ˇˇË    çÖåˇˇË    çÖúˇˇË    çÖ¨ˇˇË    çÖºˇˇË    çÖÃˇˇË    çÖ‹ˇˇË    çÖÏˇˇË    çÖ¸ˇˇË    çÖÒˇˇË    çÖÒˇˇË    çÖ,ÒˇˇË    çÖ<ÒˇˇË    çÖLÒˇˇË    çÖ\ÒˇˇË    çÖlÒˇˇË    çÖ|ÒˇˇË    çÖåÒˇˇË    çÖúÒˇˇË    çÖ¨ÒˇˇË    çÖºÒˇˇË    çÖÃÒˇˇË    çÖ‹ÒˇˇË    çÖÏÒˇˇË    çÖ¸ÒˇˇË    çÖÚˇˇË    çÖÚˇˇË    çÖ,ÚˇˇË    çÖ<ÚˇˇË    çÖLÚˇˇË    çÖ\ÚˇˇË    çÖlÚˇˇË    çÖ|ÚˇˇË    çÖåÚˇˇË    çÖúÚˇˇË    çÖ¨ÚˇˇË    çÖºÚˇˇË    çÖÃÚˇˇË    çÖ‹ÚˇˇË    çÖÏÚˇˇË    çÖ¸ÚˇˇË    çÖÛˇˇË    çÖÛˇˇË    çÖ,ÛˇˇË    çÖ<ÛˇˇË    çÖLÛˇˇË    çÖ\ÛˇˇË    çÖlÛˇˇË    çÖ|ÛˇˇË    çÖåÛˇˇË    çÖúÛˇˇË    çÖ¨ÛˇˇË    çÖºÛˇˇË    çÖÃÛˇˇË    çÖ‹ÛˇˇË    çÖÏÛˇˇË    çÖ¸ÛˇˇË    çÖÙˇˇË    çÖÙˇˇË    çÖ,ÙˇˇË    çÖ<ÙˇˇË    çÖLÙˇˇË    çÖ\ÙˇˇË    çÖlÙˇˇË    çÖ|ÙˇˇË    çÖåÙˇˇË    çÖúÙˇˇË    çÖ¨ÙˇˇË    çÖºÙˇˇË    çÖÃÙˇˇË    çÖ‹ÙˇˇË    çÖÏÙˇˇË    çÖ¸ÙˇˇË    çÖıˇˇË    çÖıˇˇË    çÖ,ıˇˇË    çÖ<ıˇˇË    çÖLıˇˇË    çÖ\ıˇˇË    çÖlıˇˇË    çÖ|ıˇˇË    çÖåıˇˇË    çÖúıˇˇË    çÖ¨ıˇˇË    çÖ|ÈˇˇË    çÖåÈˇˇË    çÖúÈˇˇË    çÖ¨ÈˇˇË    çÖºÈˇˇË    çÖÃÈˇˇË    çÖ‹ÈˇˇË    çÖÏÈˇˇË    çÖ¸ÈˇˇË    çÖÍˇˇË    çÖÍˇˇË    çÖ,ÍˇˇË    çÖ<ÍˇˇË    çÖLÍˇˇË    çÖ\ÍˇˇË    çÖlÍˇˇË    çÖ|ÍˇˇË    çÖåÍˇˇË    çÖúÍˇˇË    çÖ¨ÍˇˇË    çÖºÍˇˇË    çÖÃÍˇˇË    çÖ‹ÍˇˇË    çÖÏÍˇˇË    çÖ¸ÍˇˇË    çÖÎˇˇË    çÖÎˇˇË    çÖ,ÎˇˇË    çÖ<ÎˇˇË    çÖLÎˇˇË    çÖ\ÎˇˇË    çÖlÎˇˇË    çÖ|ÎˇˇË    çÖåÎˇˇË    çÖúÎˇˇË    çÖ¨ÎˇˇË    çÖºÎˇˇË    çÖÃÎˇˇË    çÖ‹ÎˇˇË    çÖÏÎˇˇË    çÖ¸ÎˇˇË    çÖÏˇˇË    çÖÏˇˇË    çÖ,ÏˇˇË    çÖ<ÏˇˇË    çÖLÏˇˇË    çÖ\ÏˇˇË    çÖlÏˇˇË    çÖ|ÏˇˇË    çÖåÏˇˇË    çÖúÏˇˇË    çÖ¨ÏˇˇË    çÖºÏˇˇË    çÖÃÏˇˇË    çÖ‹ÏˇˇË    çÖÏÏˇˇË    çÖ¸ÏˇˇË    çÖÌˇˇË    çÖÌˇˇË    çÖ,ÌˇˇË    çÖ<ÌˇˇË    çÖLÌˇˇË    çÖ\ÌˇˇË    çÖlÌˇˇË    çÖ|ÌˇˇË    çÖåÌˇˇË    çÖúÌˇˇË    çÖ¨ÌˇˇË    çÖºÌˇˇË    çÖÃÌˇˇË    çÖ‹ÌˇˇË    çÖÏÌˇˇË    çÖ¸ÌˇˇË    çÖÓˇˇË    çÖÓˇˇË    çÖ,ÓˇˇË    çÖ<ÓˇˇË    çÖLÓˇˇË    çÖ\ÓˇˇË    çÖlÓˇˇË    çÖ|ÓˇˇË    çÖåÓˇˇË    çÖúÓˇˇË    çÖ¨ÓˇˇË    çÖºÓˇˇË    çÖÃÓˇˇË    çÖ‹ÓˇˇË    çÖÏÓˇˇË    çÖ¸ÓˇˇË    çÖÔˇˇË    çÖÔˇˇË    çÖ,ÔˇˇË    çÖ<ÔˇˇË    çÖLÔˇˇË    çÖ\ÔˇˇË    çÖlÔˇˇË    √È    ÈbˇˇãÂ]√  ∞ ˇˇˇˇ   C o n d i Á „ o   d e   P a g a m e n t o   ∞ ˇˇˇˇ   S E L E C T   F i r s t   1   *   F R O M   P E D I D O F   ∞ ˇˇˇˇE   L e f t   J o i n   C O N D P A G _ C O M P R A S   o n   ( C O N D P A G _ C O M P R A S . C D C O N D =   P e d i d o f . C D C O N D )   ∞ ˇˇˇˇ   W H E R E   N U M E R O   =   '     ∞ ˇˇˇˇ   N U M E R O     ∞ ˇˇˇˇ   '       ∞ ˇˇˇˇ   C D C O N D     ∞ ˇˇˇˇ   C O N D I C A O _ P A G A M E N T O     ∞ ˇˇˇˇ   M O S T R A _ D A T A _ P E D I D O _ C O M P R A S     ∞ ˇˇˇˇ   S   ∞ ˇˇˇˇ   D E S D O B R A     ∞ ˇˇˇˇ   1 -     ∞ ˇˇˇˇ   D A T A 1   ∞ ˇˇˇˇ   d d / m m / y y     ∞ ˇˇˇˇ   V A L O R 1     ∞ ˇˇˇˇ   -   ∞ ˇˇˇˇ   2 -     ∞ ˇˇˇˇ   D A T A 2   ∞ ˇˇˇˇ   V A L O R 2     ∞ ˇˇˇˇ   3 -     ∞ ˇˇˇˇ   D A T A 3   ∞ ˇˇˇˇ   V A L O R 3     ∞ ˇˇˇˇ   4 -     ∞ ˇˇˇˇ   D A T A 4   ∞ ˇˇˇˇ   V A L O R 4     ∞ ˇˇˇˇ   5 -     ∞ ˇˇˇˇ   D A T A 5   ∞ ˇˇˇˇ   V A L O R 5     ∞ ˇˇˇˇ   6 -     ∞ ˇˇˇˇ   D A T A 6   ∞ ˇˇˇˇ   V A L O R 6     ∞ ˇˇˇˇ   7 -     ∞ ˇˇˇˇ   D A T A 7   ∞ ˇˇˇˇ   V A L O R 7     ∞ ˇˇˇˇ   8 -     ∞ ˇˇˇˇ   D A T A 8   ∞ ˇˇˇˇ   V A L O R 8     ∞ ˇˇˇˇ   9 -     ∞ ˇˇˇˇ   D A T A 9   ∞ ˇˇˇˇ   V A L O R 9     ∞ ˇˇˇˇ   1 0 -   ∞ ˇˇˇˇ   D A T A 1 0     ∞ ˇˇˇˇ   V A L O R 1 0   ∞ ˇˇˇˇ   1 1 -   ∞ ˇˇˇˇ   D A T A 1 1     ∞ ˇˇˇˇ   V A L O R 1 1   ∞ ˇˇˇˇ   1 2 -   ∞ ˇˇˇˇ   D A T A 1 2     ∞ ˇˇˇˇ   V A L O R 1 2   ∞ ˇˇˇˇ   1 3 -   ∞ ˇˇˇˇ   D A T A 1 3     ∞ ˇˇˇˇ   V A L O R 1 3   ∞ ˇˇˇˇ   1 4 -   ∞ ˇˇˇˇ   D A T A 1 4     ∞ ˇˇˇˇ   V A L O R 1 4   ∞ ˇˇˇˇ   1 5 -   ∞ ˇˇˇˇ   D A T A 1 5     ∞ ˇˇˇˇ   V A L O R 1 5   ∞ ˇˇˇˇ   P G T O _ A N T E C I P A D O   ∞ ˇˇˇˇ[     A T E N « √ O :   O r d e m   d e   C o m p r a   c o m   P a g a m e n t o   A n t e c i p a d o   e   E n t r e g a   e m   a t È   5   d i a s   a p Û s   o   P a g a m e n t o   ∞ ˇˇˇˇ^   S E L E C T   F i r s t   1   N M C O N D P G ,   D D P A G T O 1 ,   D D P A G T O 2 ,   D D P A G T O 3 ,   D D P A G T O 4 ,   D D P A G T O 4 ,   D D P A G T O 5 ,   D D P A G T O 6 ,     ∞ ˇˇˇˇ(   D D P A G T O 7 ,   D D P A G T O 8 ,   D D P A G T O 9 ,   D D P A G T O 1 0       ∞ ˇˇˇˇ%   F R O M   C O N D P A G _ C O M P R A S   W H E R E   C D C O N D   =   '   ∞ ˇˇˇˇ   N M C O N D P G     ∞ ˇˇˇˇ   D D P A G T O 1     ∞ ˇˇˇˇ	   D T E N T R E G A   ∞ ˇˇˇˇ   D D P A G T O 2     ∞ ˇˇˇˇ   D D P A G T O 3     ∞ ˇˇˇˇ   D D P A G T O 4     ∞ ˇˇˇˇ   D D P A G T O 5     ∞ ˇˇˇˇ   D D P A G T O 6     ∞ ˇˇˇˇ   D D P A G T O 7     ∞ ˇˇˇˇ   D D P A G T O 8     ∞ ˇˇˇˇ   D D P A G T O 9     ∞ ˇˇˇˇ	   D D P A G T O 1 0   ∞ ˇˇˇˇ	   D D P A G T O 1 1   ∞ ˇˇˇˇ	   D D P A G T O 1 2   ∞ ˇˇˇˇ	   D D P A G T O 1 3   ∞ ˇˇˇˇ	   D D P A G T O 1 4   ∞ ˇˇˇˇ	   D D P A G T O 1 5   UãÏQπ/   j j Iu˘áM¸SVWâçTˇˇˇâïXˇˇˇâE¸3¿Uh  dˇ0dâ °    ã ãÄ∏   ∫(  Ë    çïDˇˇˇãˇQtãÖDˇˇˇçïHˇˇˇË    ãÖHˇˇˇ∫\  Ë    tãE¸ãÄd  3“Ë    ÎHãE¸ãÄÿ  ∫l  Ë    çï<ˇˇˇãˇQtãç<ˇˇˇçÖ@ˇˇˇ∫î  Ë    ãï@ˇˇˇãE¸ãÄd  Ë    °    ã ãÄƒ  ãÄÄ  ÉËrtDÎUãE¸ãÄÿ  ∫º  Ë    ãˇRT›]ËõˇuÏˇuËçU‰°    Ë    ãE¸ãÄ¥  ãU‰Ë    ÎãE¸ãÄ¥  ∫‹  Ë    ãE¸ãÄÿ  ∫  Ë    çï4ˇˇˇãˇQtãÖ4ˇˇˇçï8ˇˇˇË    ÉΩ8ˇˇˇ uiãE¸ãÄƒ  ∫$  Ë    ãE¸ãÄÿ  ∫<  Ë    çï(ˇˇˇãˇQtãÖ(ˇˇˇçï,ˇˇˇË    ãÖ,ˇˇˇçï0ˇˇˇË    ãï0ˇˇˇãE¸ãÄÃ  Ë    ÎgãE¸ãÄƒ  ∫P  Ë    ãE¸ãÄÿ  ∫  Ë    çïˇˇˇãˇQtãÖˇˇˇçï ˇˇˇË    ãÖ ˇˇˇçï$ˇˇˇË    ãï$ˇˇˇãE¸ãÄÃ  Ë    ãE¸ãÄÿ  ∫l  Ë    çïˇˇˇãˇQtãÖˇˇˇçïˇˇˇË    ÉΩˇˇˇ uãE¸ãÄ–  ∫à  Ë    ÎzãE¸ãÄÿ  ∫§  Ë    çïˇˇˇãˇQtãÖˇˇˇPãE¸ãÄÿ  ∫l  Ë    çïˇˇˇãˇQtãÖˇˇˇçïˇˇˇË    ãÖˇˇˇççˇˇˇZË    ãïˇˇˇãE¸ãÄ–  Ë    çï ˇˇˇãE¸ãÄÃ  Ë    ãÖ ˇˇˇPãE¸ãÄÿ  ∫¿  Ë    çï¸˛ˇˇãˇQtãï¸˛ˇˇXË    t3¿â    â   ãE¸ãÄÿ  ∫¿  Ë    çï¯˛ˇˇãˇQtãï¯˛ˇˇãE¸ãÄÃ  Ë    3¿âEãE¸ãÄ@  Ë    ãE¸ãÄ@  ãÄh  ãˇRDãE¸ãÄ@  ãÄh  ∫‹  ãˇQ8hL  çïÏ˛ˇˇãE¸ãÄÃ  Ë    ãÖÏ˛ˇˇçï˛ˇˇË    ˇµ˛ˇˇh|  çÖÙ˛ˇˇ∫   Ë    ãïÙ˛ˇˇãE¸ãÄ@  ãÄh  ãˇQ8ãE¸ãÄ@  Ë    ãE¸ãÄ@  ∫ê  Ë    ãˇRdâE›    ÿ§  õﬂ‡ûu€Eÿ5®  ›    õÉ}è;  ãE¸ãÄî  3“ãˇë®  ãE¸ãÄî  ãÄh  ãˇRDãE¸ãÄî  ãÄh  ∫∏  ãˇQ8ãE¸ãÄî  ãÄh  ∫<  ãˇQ8ãE¸ãÄî  ãÄh  ∫¥  ãˇQ8h,  ãE¸ãÄÿ  ∫¿  Ë    çï‰˛ˇˇãˇQtˇµ‰˛ˇˇh|  çÖË˛ˇˇ∫   Ë    ãïË˛ˇˇãE¸ãÄî  ãÄh  ãˇQ8ãE¸ãÄî  ≤ãˇë®  ãE¸ãÄî  ∫d  Ë    ãˇR\›ù‹˛ˇˇõãE¸ãÄî  ∫|  Ë    ãˇR\‹Ö‹˛ˇˇ€}–õfãEÿPˇu‘ˇu–çMÃã    ∏ú  Ë    ãE¸ãÄt  ãUÃË    ãE¸ãÄî  ∫|  Ë    ãˇR\€}¿õfãE»Pˇuƒˇu¿çMºã    ∏ú  Ë    ãE¸ãÄú  ãUºË    ãE¸ãÄî  ∫–  Ë    ãˇR\€}∞õfãE∏Pˇu¥ˇu∞çM¨ã    ∏ú  Ë    ãE¸ãÄ†  ãU¨Ë    ãE¸ãÄî  ∫d  Ë    ãˇR\€}†õfãE®Pˇu§ˇu†çMúã    ∏ú  Ë    ãE¸ãÄ§  ãUúË    ãE¸Ë    È‚  ›    ÿ‰  õﬂ‡ûÜ#  ãE¸ãÄÏ  ∫Ù  Ë    3“ãE¸Ë    ãE¸ãÄx  3“Ë    ãE¸ãÄt  3“Ë    ãE¸ãÄt  ∫  Ë    ãE¸ãÄú  ∫  Ë    ãE¸ãÄ†  ∫  Ë    ãE¸ãÄ§  ∫  Ë    h   çï‘˛ˇˇãEË    ˇµ‘˛ˇˇhX  çÖÿ˛ˇˇ∫   Ë    ãïÿ˛ˇˇãE¸ãÄò  Ë    ›    ÿ%‰  ›    õãE¸ãÄÄ  3“Ë    ãE¸ãÄÑ  3“ãˇQtãE¸ãÄå  3“Ë    ãE¸ãÄà  3“Ë    È©  ãE¸ãÄî  3“ãˇë®  ãE¸ãÄî  ãÄh  ãˇRDãE¸ãÄî  ãÄh  ∫∏  ãˇQ8ãE¸ãÄî  ãÄh  ∫<  ãˇQ8ãE¸ãÄî  ãÄh  ∫¥  ãˇQ8h,  ãE¸ãÄÿ  ∫¿  Ë    çïÃ˛ˇˇãˇQtˇµÃ˛ˇˇh|  çÖ–˛ˇˇ∫   Ë    ãï–˛ˇˇãE¸ãÄî  ãÄh  ãˇQ8ãE¸ãÄî  ≤ãˇë®  ãE¸ãÄî  ∫d  Ë    ãˇR\›ù‹˛ˇˇõãE¸ãÄî  ∫|  Ë    ãˇR\‹Ö‹˛ˇˇ€}êõfãEòPˇuîˇuêçMåã    ∏ú  Ë    ãE¸ãÄt  ãUåË    ãE¸ãÄî  ∫|  Ë    ãˇR\€}ÄõfãEàPˇuÑˇuÄçç|ˇˇˇã    ∏ú  Ë    ãE¸ãÄú  ãï|ˇˇˇË    ãE¸ãÄî  ∫–  Ë    ãˇR\€ΩpˇˇˇõfãÖxˇˇˇPˇµtˇˇˇˇµpˇˇˇççlˇˇˇã    ∏ú  Ë    ãE¸ãÄ†  ãïlˇˇˇË    ãE¸ãÄî  ∫d  Ë    ãˇR\€Ω`ˇˇˇõfãÖhˇˇˇPˇµdˇˇˇˇµ`ˇˇˇçç\ˇˇˇã    ∏ú  Ë    ãE¸ãÄ§  ãï\ˇˇˇË    ãE¸Ë    ãE¸ãÄÄ  ∫¨  Ë    ãE¸ãÄÑ  ≤ãˇQtãE¸ãÄå  ∫–  Ë    ãE¸ãÄà  ∫Ë  Ë    °    ã ã@t∫$  Ë    çïƒ˛ˇˇãˇQtãÖƒ˛ˇˇçï»˛ˇˇË    ãÖ»˛ˇˇ∫D  Ë    u-ãE¸ãÄ†  ãPLãE¸ãÄ†  Ë    ãE¸ãÄ†  ∫2   Ë    °    ã ã@t∫$  Ë    çïº˛ˇˇãˇQtãÖº˛ˇˇçï¿˛ˇˇË    ãÖ¿˛ˇˇ∫p  Ë    u@ãE¸ãÄ†  ãPLãE¸ãÄ†  Ë    ãE¸ãÄ†  ∫2   Ë    ãE¸ãÄ†  ∫ÔˇˇˇË    °    ã ã@t∫$  Ë    çï¥˛ˇˇãˇQtãÖ¥˛ˇˇçï∏˛ˇˇË    ãÖ∏˛ˇˇ∫§  Ë    uãE¸ãÄP  3“ãˇQt°    ã ã@t∫–  Ë    çï∞˛ˇˇãˇQtãï∞˛ˇˇãE¸ãÄP  Ë    °    ã ã@t∫  Ë    çï®˛ˇˇãˇQtˇµ®˛ˇˇh  °    ã ã@t∫$  Ë    çï§˛ˇˇãˇQtˇµ§˛ˇˇhL  °    ã ã@t∫`  Ë    çï†˛ˇˇãˇQtˇµ†˛ˇˇh|  °    ã ã@t∫å  Ë    çïú˛ˇˇãˇQtˇµú˛ˇˇhL  °    ã ã@t∫®  Ë    çïò˛ˇˇãˇQtˇµò˛ˇˇhL  hƒ  °    ã ã@t∫‡  Ë    çïî˛ˇˇãˇQtˇµî˛ˇˇh|  hÙ  °    ã ã@t∫  Ë    çïå˛ˇˇãˇQtãÖå˛ˇˇçïê˛ˇˇË    ˇµê˛ˇˇh(  h@  °    ã ã@t∫p  Ë    çïà˛ˇˇãˇQtˇµà˛ˇˇh|  °    ã ã@t∫Ñ  Ë    çïÑ˛ˇˇãˇQtˇµÑ˛ˇˇçÖ¨˛ˇˇ∫   Ë    ãï¨˛ˇˇãE¸ãÄD  Ë    °    ã ã@t∫§  Ë    ã–°    ã ã@t3…ãˇìd  âE¯ãE¯ãˇÉ˙ uÉ¯ vYÎ~U3¿Uhd  dˇ0dâ ≤°    Ë    âEÙãU¯ãEÙãˇQ\ãE¸ãÄ†  ãÄ∞  ãUÙãˇQ3¿ZYYdâÎ"È    Ë    ÎãE¸ãÄ†  ãÄ∞  3“ãˇQãE¯Ë    3¿ZYYdâh  çÖÑ˛ˇˇ∫   Ë    çÖ‰˛ˇˇ∫   Ë    çÖ\ˇˇˇË    çÖlˇˇˇË    çÖ|ˇˇˇË    çEåË    çEúË    çE¨Ë    çEºË    çEÃË    çE‰Ë    √È    Îá_^[ãÂ]√ ∞ ˇˇˇˇ   E X I B E _ R E Q U I S I C A O _ O C   ∞ ˇˇˇˇ   S   ∞ ˇˇˇˇ   C D R E Q U I S I C A O     ∞ ˇˇˇˇ   R e q u i s i Á „ o :       ∞ ˇˇˇˇ	   D T E N T R E G A   ∞ ˇˇˇˇ   C o n f o r m e   P r g r a m a Á „ o   ∞ ˇˇˇˇ   C G C   ∞ ˇˇˇˇ   C P F :     ∞ ˇˇˇˇ   C P F   ∞ ˇˇˇˇ   C N P J . :     ∞ ˇˇˇˇ   I N S C E S T   ∞ ˇˇˇˇ   I S E N T A     ∞ ˇˇˇˇ   E S T A D O     ∞ ˇˇˇˇ   N U M E R O     ∞ ˇˇˇˇ1   S e l e c t   C o u n t ( N U M E R O )   a s   C o n t a g e m   f r o m   P e d i d o f i t e m   ∞ ˇˇˇˇ   W h e r e   N U M E R O   =   '     ∞ ˇˇˇˇ   '       ∞ ˇˇˇˇ   C O N T A G E M           0A∞ ˇˇˇˇ:   s e l e c t   S u m ( ( p f i . v a l o r t o t s e m i p i ) *   p f i . i p i / 1 0 0 )   a s   t o t a l i p i ,     ∞ ˇˇˇˇ5   S u m ( ( p f i . v a l o r t o t s e m i p i ) *   p f i . i c m s / 1 0 0 )   a s   t o t a l i c m s ,   ∞ ˇˇˇˇ5   S u m ( p f i . v a l o r t o t s e m i p i ) a s   t o t a l   f r o m   p e d i d o f i t e m   p f i     ∞ ˇˇˇˇ   w h e r e   p f i . n u m e r o   =   '     ∞ ˇˇˇˇ   T O T A L   ∞ ˇˇˇˇ   T O T A L I P I     ∞ ˇˇˇˇ   R $   # , # # # , # # # , # # 0 . 0 0   ∞ ˇˇˇˇ	   T O T A L I C M S     Ä?∞ ˇˇˇˇ   A v i s o   ∞ ˇˇˇˇ   - -     ∞ ˇˇˇˇ   A t e n Á „ o :   P e d i d o   c o m       ∞ ˇˇˇˇ#     Ì t e n s .   C o n t i n u a   n a   p r Û x i m a   p · g i n a .   ∞ ˇˇˇˇ
+   C o m p r a d o r :     ∞ ˇˇˇˇ   D a t a :   ∞ ˇˇˇˇ   _ _ _ _ _ / _ _ _ _ _ _ / _ _ _ _ _ _ _ _ _     ∞ ˇˇˇˇ   E M P R E S A 1     ∞ ˇˇˇˇ   P O R T O   F E L I Z   S / A   ∞ ˇˇˇˇ   P O R T O   F E L I Z   F I L I A L     ∞ ˇˇˇˇ   E M B .   M A R A   L T D A     ∞ ˇˇˇˇ   E M P R E S A 2     ∞ ˇˇˇˇ	   E n d e r e c o 1   ∞ ˇˇˇˇ   ,       ∞ ˇˇˇˇ   N u m _ e n d e r e c o     ∞ ˇˇˇˇ     -     ∞ ˇˇˇˇ   B a i r r o     ∞ ˇˇˇˇ      ∞ ˇˇˇˇ   C i d a d e     ∞ ˇˇˇˇ   E s t a d o     ∞ ˇˇˇˇ   C E P . :       ∞ ˇˇˇˇ   C E P   ∞ ˇˇˇˇ   C N P J :       ∞ ˇˇˇˇ   C N P J     ∞ ˇˇˇˇ               ∞ ˇˇˇˇ   I n s c r .   E s t a d u a l :     ∞ ˇˇˇˇ   I E     ∞ ˇˇˇˇ	   E n d e r e c o 3   ∞ ˇˇˇˇ   L O G O _ J P G     UãÏÉƒÙâMÙâU¯âE¸∆     3“ãE¸ãÄ∞  Ë    3“ãE¸ãÄ¥  Ë    3“ãE¸ãÄ∏  Ë    3“ãE¸ãÄ‡  Ë    3“ãE¸ãÄË  Ë    3“ãE¸ãÄÙ  Ë    3“ãE¸ãÄ§  Ë    3“ãE¸ãÄ®  Ë    3“ãE¸ãÄ¨  Ë    3“ãE¸ãÄ‰  Ë    3“ãE¸ãÄÏ  Ë    3“ãE¸ãÄ  Ë    ∫h  ãE¸ãÄú  Ë    ∫h  ãE¸ãÄ†  Ë    ∫h  ãE¸ãÄ§  Ë    ãE¸ãÄ@  Ë    ãE¸ãÄ@  ãÄh  ãˇRDãE¸ãÄ@  ãÄh  ∫|  ãˇQ8ãE¸ãÄ@  Ë    ãÂ]√∞ ˇˇˇˇ   - -     ∞ ˇˇˇˇ)   S e l e c t   E M A I L _ R E C E B I M E N T O _ N F E   f r o m   E M P R E S A   UãÏÉƒ¥SVW3€â]¥â]¿â]ºâ]∏â]ƒàMÀâUÃâE¸3¿Uh  dˇ0dâ ãE¸ãÄÿ  ∫   Ë    çUƒãˇQtãEƒâEËj j j ã    ãEËË    €}–õ€m–›]õãE¸Ä∏|  Öh  3¿Uhí  dˇ0dâ ãE¸ãÄ»  3“Ë    ãE¸ãÄ»  Ë    ãE¸ãÄ@  3“ãˇë®  ãE¸ãÄ@  ãÄh  ãˇRDãE¸ãÄ@  ãÄh  ∫@  ãˇQ8hò  ãE¸ãÄÿ  ∫ÿ  Ë    çU∏Ë    ãE∏çUºË    ˇuºhÙ  çE¿∫   Ë    ãU¿ãE¸ãÄ@  ãÄh  ãˇQ8›Eÿ¸  Éƒ¯›$õãE¸ãÄ@  ∫   Ë    Ë    ãE¸ãÄ@  Ë    ãE¸ãÄ»  Ë    3¿ZYYdâÎWÈ           £  âEÏãE¸ãÄ»  Ë    j ãEÏãHçE¥∫  Ë    ãE¥Ë    ã–πå  °    ã Ë    Ë    3¿ZYYdâh  çE¥∫   Ë    √È    ÎÎ_^[ãÂ]√  ∞ ˇˇˇˇ   I M P R E S S O     ∞ ˇˇˇˇ%   U P D A T E   P E D I D O F   S E T   I M P R E S S O = : I M P R E S S O   ∞ ˇˇˇˇ   W h e r e   P e d i d o f . N U M E R O   =   '     ∞ ˇˇˇˇ   N U M E R O     ∞ ˇˇˇˇ   '         Ä?∞ ˇˇˇˇ?   E R R O   N A   G R A V A « √ O ,   D E S E J A   T E N T A R   G R A V A R   N O V A M E N T E ?  C Û d   d o   e r r o :     A v i s o   UãÏÉƒ¯âU¯âE¸ãE¸∆Ä|  3“ãE¸ãÄÃ  Ë    YY]√UãÏπ   j j Iu˘âU¯âE¸3¿UhA  dˇ0dâ 3“ãE¸ãÄÿ  ãˇë®  ãE¸ãÄÿ  ãÄh  ãˇRDãE¸ãÄÿ  ãÄh  ∫X  ãˇQ8ãE¸ãÄÿ  ãÄh  ∫  ãˇQ8ãE¸ãÄÿ  ãÄh  ∫ÿ  ãˇQ8ãE¸ãÄÿ  ãÄh  ∫§  ãˇQ8ãE¸ãÄÿ  ãÄh  ∫P  ãˇQ8ãE¸ãÄÿ  ãÄh  ∫Ï  ãˇQ8ãE¸ãÄÿ  ãÄh  ∫§  ãˇQ8ãE¸ãÄÿ  ãÄh  ∫d  ãˇQ8ãE¸ãÄÿ  ãÄh  ∫|	  ãˇQ8ãE¸ãÄÿ  ãÄh  ∫à  ãˇQ8ãE¸ãÄÿ  ãÄh  ∫p  ãˇQ8ãE¸ãÄÿ  ãÄh  ∫¿  ãˇQ8ãE¸ãÄÿ  ãÄh  ∫  ãˇQ8ãE¸ãÄÿ  ãÄh  ∫|  ãˇQ8ãE¸ãÄÿ  ãÄh  ∫  ãˇQ8ãE¸ãÄÿ  ãÄh  ∫†  ãˇQ8h8  çU°    ã ãÄî  Ë    ˇuhå  çUÏ°    ã ãÄò  Ë    ˇuÏh®  çEÙ∫   Ë    ãUÙãE¸ãÄÿ  ãÄh  ãˇQ8ãE¸ãÄÿ  ãÄh  ∫º  ãˇQ8çU‰°    ã ãÄ‰  Ë    ãE‰çUËË    É}Ë tQh<  çUÿ°    ã ãÄ‰  Ë    ãEÿçU‹Ë    ˇu‹hò  çE‡∫   Ë    ãU‡ãE¸ãÄÿ  ãÄh  ãˇQ8ãE¸ãÄÿ  ãÄh  ∫¨  ãˇQ8≤ãE¸ãÄÿ  ãˇë®  3¿ZYYdâhH  çEÿË    çE‹∫   Ë    çE‰Ë    çEËË    çEÏ∫   Ë    çEÙË    √È    ÎæãÂ]√∞ ˇˇˇˇR   S E L E C T   P e d i d o f i t e m . N U M E R O ,   P e d i d o f i t e m . I C M S ,   P e d i d o f i t e m . I T E M P ,   P e d i d o f i t e m . C O N T A ,     ∞ ˇˇˇˇ_   P e d i d o f i t e m . I T E M ,   I t e n s . D E S C R I C A O ,   I t e n s . U N I D A D E ,   P e d i d o f i t e m . Q U A N T I D A D E ,   P e d i d o f i t e m . V A L O R U ,       ∞ ˇˇˇˇ^   P e d i d o f i t e m . V A L O R T O T ,   P l c o n t a s . N O M E ,   P e d i d o f i t e m . L I B E R A D O P O R ,   P e d i d o f i t e m . I P I ,   P e d i d o f i t e m . O E ,     ∞ ˇˇˇˇN   F o r n e c e d . R E A C H _ R O H S ,   F o r n e c e d . E M A I L ,   P e d i d o f . C D R E Q U I S I C A O ,   p e d i d o f . g e r a d o _ p o r ,     ∞ ˇˇˇˇF   P e d i d o f . N U M E R O ,   P e d i d o f . D E S D O B R A ,   P e d i d o f . C D F O R N E C E D ,   P e d i d o f . V A L O R T ,       ∞ ˇˇˇˇT   P e d i d o f . D T E N T R E G A ,   P e d i d o f . B A I X A ,   P e d i d o f . C D C O N D ,   I t e n s . e x i g e _ f i s p q ,   i t e n s . e x i g e _ c a ,     ∞ ˇˇˇˇY   P e d i d o f . D A T A 1 ,   P e d i d o f . D A T A 2 ,   P e d i d o f . D A T A 3 ,   P e d i d o f . D A T A 4 ,   P e d i d o f . D A T A 5 ,   P e d i d o f . D A T A 6 ,   ∞ ˇˇˇˇÑ     P e d i d o f . V A L O R 1 ,   P e d i d o f . V A L O R 2 ,   P e d i d o f . V A L O R 3 ,   P e d i d o f . V A L O R 4 ,   P e d i d o f . V A L O R 5 ,   P e d i d o f . V A L O R 6 ,   P e d i d o f . P e r m u t a ,   P e d i d o f . I M P R E S S O ,       ∞ ˇˇˇˇ˛   P e d i d o f . G E R A C A O ,   P e d i d o f . F R E T E ,   P e d i d o f . P O S I C A O ,   F o r n e c e d . N O M E   a s   N O M E F O R N ,   F o r n e c e d . E N D E R E C O | | ' ,   ' | | F o r n e c e d . n u m _ e n d e r e c o | | '     ' | | F o r n e c e d . C o m p l e m   a s   E N D E R E C O ,   F o r n e c e d . B A I R R O ,   F o r n e c e d . C I D A D E ,   F o r n e c e d . E S T A D O ,   F o r n e c e d . C E P ,   F o r n e c e d . F O N E ,   F o r n e c e d . F A X ,       ∞ ˇˇˇˇÏ   P e d i d o f . T O T A L _ V I R R F ,   F o r n e c e d . E N Q U A D R A M E N T O _ I M P O S T O ,   P e d i d o f . A L T E R A D O _ P O R ,   P e d i d o f . A L T E R A D O _ E M ,   P e d i d o f . O B S C O M P R A ,   P e d i d o f . A N T E C I P A D O ,   P e d i d o f i t e m . V A L O R U S E M I P I ,   P e d i d o f i t e m . V A L O R T O T S E M I P I ,   F o r n e c e d . I N S C E S T ,   F o r n e c e d . C G C ,   F o r n e c e d . C P F ,         ∞ ˇˇˇˇ    f o r n e c e d . c o n t a t o ,   f o r n e c e d . e m a i l     ∞ ˇˇˇˇ   F R O M   P e d i d o f i t e m     ∞ ˇˇˇˇ?   L E F T   O U T E R   J O I N   I t e n s         O N   ( P e d i d o f i t e m . I T E M       =   I t e n s . C D I T E M )   ∞ ˇˇˇˇB   L E F T   O U T E R   J O I N   P l c o n t a s   O N   ( P e d i d o f i t e m . C O N T A     =   P l c o n t a s . C O D I G O )     ∞ ˇˇˇˇA   L E F T   O U T E R   J O I N   P e d i d o f     O N   ( P e d i d o f i t e m . N U M E R O   =   P e d i d o f . N U M E R O )   ∞ ˇˇˇˇE   L E F T   O U T E R   J O I N   F o r n e c e d   O N   ( P e d i d o f . C D F O R N E C E D   =   F o r n e c e d . C D F O R N E C E )   ∞ ˇˇˇˇ"   W h e r e   P e d i d o f i t e m . N U M E R O   B e t w e e n   '     ∞ ˇˇˇˇ   '   a n d   '   ∞ ˇˇˇˇ   '       ∞ ˇˇˇˇ9   a n d   ( ( P e d i d o f . P O S I C A O < > ' G ' )   o r   ( P e d i d o f . A N T E C I P A D O = ' S ' ) )     ∞ ˇˇˇˇ'   a n d   u p p e r ( p e d i d o f . g e r a d o _ p o r )   =   u p p e r ( '   ∞ ˇˇˇˇ   ' )     ∞ ˇˇˇˇ.   O r d e r   B y   P e d i d o f i t e m . N U M E R O ,   P e d i d o f i t e m . I T E M P     UãÏÉƒ¯âU¯âE¸ãE¸∆Ä|   YY]√ˇ    √É-    √mŸD  ≈ ≈ …≈≈≈IÄ-1åﬁÑÏÓÚ¬|¸~	Çêéí¥AE∂ûË¢∏Í∫Ùºæ¿¯ˆƒ˛∆»¨Æ∞≤5‘îÿ⁄‹ñò‡‚öú†§¶®™9=÷‰Ê˙!%)≈µ0˝2%450M2Õ296I0i8Å"u&m*]bëïΩ¡ô≈…Õ—Ì5A … …<≈“L Ÿ › Ò6ÒÒÒÒÒÒÒÒÒÒÒÒÒÒÒÒÒÒ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’Ò’
+Ò’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’*’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’*’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’*’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’*’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’*’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’*’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’*’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’*’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’*’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’*’ ’ ’ ’ ’ ’ ’ ’ ’ ’*’ ’ ’ ’ ’ ’ ’ ’*’ ’ ’ ’ ’ ’*’ ’ ’ ’*’ ’*’ ’*Ò’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’Ò ˝B˝˝]’
+˝] ˝
+(˝] ˝
+(Ÿ˝] ˝
+(˝]&T"’˝]&T˝
+˝]&T *"’
+˝]:^
+˝
+\^`˝]:^
+˝
+\^`.˝ŸI˝
+] ˝
+(˝Ÿ˝Ÿ˝,..0q %"——ù 565X’
+I5
+]Id5!
+%h4
+6@25
+]2’—"5.0¢ MDMIM
+] M
+(NM]2’nIM
+] M
+(M] M
+(÷M]<’
+M
+IM
+] M*"’
+IM
+] M
+(M’
+IM
+]&T,’M
+IM
+]&TM*"’vM2M2MM
+M] M*^M]&TM
+(M’
+IM
+]&M
+8"’
+M’ŸM’
+M’Ÿ&’
+M’
+M’$’ ’ ’ ’ ’M,0M% ]B]]]&T]
+(]]&T]
+(]]&T]
+(]]&T]
+8
+]]&T]
+(]]&T]
+(]
+:]]&T:],0© mBmm]&T.m,>m*m,>$*m,>m*:m,,0  Ö.ÖÖ’vÖ2ÖÖ
+Ö]8TÖ *dÖ]$Ö]8T(’
+IÖ
+],Ö
+(,’
+Ö]*ÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÒÖ’
+Ö]0^
+Ö
+n
+Ö]2^,pÖ&*(’ÒÖ’
+Ö]0^
+Ö
+n
+Ö]2^,pÖ&*(’
+Ö’
+Ö]0^
+Ö
+n
+Ö]2^,pÖ&*(’ÒÖ’
+Ö]0^
+Ö
+n
+Ö]2^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’ÒÖ’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’ÒÖ’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’ÒÖ’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’ÒÖ’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’ÒÖ’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’ÒÖ’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’ÒÖ’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’ÒÖ’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’ÒÖ’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’ÒÖ’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’ÒÖ’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’ÒÖ’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö’
+Ö]H^
+Ö
+n
+Ö]J^2pÖ,*(’
+Ö]8TÖ
+(&ÒÒ
+Ö]8TÖ
+(,’ ’*Ö’ÄÖ2ÖÖ
+Ö] jÖ *dÖ]>’
+IÖ
+],Ö
+(Ö]*ÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÒÖ’
+Ö]:Ö]X^
+Ö
+n(’ÒÖ’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’ÒÖ’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’ÒÖ’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’ÒÖ’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’ÒÖ’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’ÒÖ’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’ÒÖ’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’ÒÖ’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’ÒÖ’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’ÒÖ’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’ÒÖ’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’ÒÖ’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’ÒÖ’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’ÒÖ’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]V^
+r(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö’
+Ö]:Ö]X^
+Ö
+n(’
+Ö]8TÖ
+(ÒÒÖ , , ,........................................................................................................................................................................................................................................................................................................................................................................0}- ÕRÕIÕ
+]8TÕ
+($’ Õ
+]8Õ
+8(’
+QJÕ
+].^
+r"’ Õ
+’Õ
+]8T.Õ
+’Õ
+]8T"Y(’ Õ
+’Õ
+]8T"Y(’Õ
+]8T.Õ
+’ Õ
+]@Õ
+]8T$](’(›*Õ
+].(››Õ
+]>’&iPÕÕ(›"TÕ *PmÕ
+]›ÕÕ›åÕ2Õ2ÕÕÕ
+],Õ *vÕ
+]4Õ
+]F^
+Õ
+\"’Õ
+]:^
+Õ
+\"’Õ
+]:^
+Õ
+\"’Õ
+]:^
+Õ
+\"’Ö›Õ0Õ
+’Ò ’ ’Õ
+’Õ
+’Õ
+’Õ
+’
+ÕjÕ *(’›Õ›"’@’ ’ÄÕ2Õ2ÕÕÕ
+],Õ *vÕ
+]4Õ
+]F^
+Õ
+\"’Õ
+]@^
+Õ
+\(’Õ
+]X^
+Õ
+\(’Õ
+]X^
+Õ
+\(’ÖÕ
+’<Õ
+’Õ
+’
+IÕ
+]8TÕ
+(8 &Ã
+IÕ
+]8TÕ
+(8 &Ã&Œ
+IÕ
+]8TÕ
+(.IÕ
+]>’
+IÕ
+],Õ
+IÕ
+],Õ
+IÕ
+],Õ
+IÕ
+],Õ
+IÕ
+],Õ
+Õ
+IÕ
+],Õ
+Õ
+IÕ
+]8YÕ
+Õ
+IÕ
+],Õ
+IÕ
+]B*(’
+IÕ
+]I^Õ!
+%h4
+6@2Õ , ,.........0©" 9"Ÿ"’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’
+9’
+9’
+9’iP9&m¯ INI(I
+]4^`FI,ÒıvIII
+]qTI*@I*I
+
+u˘FvI"˝ I
+8HI
+MQ
+6I,0M iD’ u2uÇu2u2u2u2u2u2u2u2u2u2u2u2u2u2u2uuQeuQeu*VuQeTuQeTu*VuJu.,..,.0); Å4 ç·
+ ·êi±y=Æ                             *&&                           *                           *                         *                       *                     *                   *                 *               *             *           *         *       *     *   * *   &                              ·V:®TrÍ…*\*&!	J, f*L,X–X\  \  
+ \T $ $  B éV&Z$§&(222ò&r&z&&
+0 &*     Ω%V‹jljj
+bVLf`f9B&&(22“&@Üp –$&ô$&ô&ô$&±&&$&&&&$&&&&&$&&&&&&$&&&&&&&$&&&&&&&&$&&&&&&&&&$&&&&&&&&&&$&&&&&&&&&&&$&&&&&&&&&&&&$&&&&&&&&&&&&&$&&&&&&&&&&&&&&$&&&&&&&&&&&&&&&ä$ä   0&(22∫&dp–$&!$&!&!$&!&!&!$&!&!&!&!$&!&!&!&!&!$&!&!&!&!&!&!$&!&!&!&!&!&!&!$&!&!&!&!&!&!&!&!$&	&	&	&	&	&!&!&!&!$&	&	&	&	&	&!&!&!&!&!$&	&	&	&	&	&!&!&!&!&!&!$&	&	&	&	&	&!&!&!&!&!&!&!$&	&	&	&	&	&!&!&!&!&!&!&!&!$&	&	&	&	&	&!&!&!&!&!&!&!&!&!$&	&	&	&	&	&!&!&!&!&!&!&!&!&!&!Çlfä$ê8Ñ&p&¨&®p*Ùéd
+(2æ6$ &(222∞&‡ñññ
+,&  &&&&Ñ&   *&(222∞&‡¢∫∫& &&Ñ4&Ñ4&&Ñ fÂZ*L,©$            &&&(2bÄ  &(2ÆPRjΩ F&(2222222222222222∆2L¢2&M<ëi íF  Aì˝  )%  -5  1M  5Õ  99  =I  Ai  EÅ  Iu  Mm  Q]  UÖ  mÒ  qî@Ò   ˝ Ë %   5 0 pRM ∞ ] à m H Ö —b  Õ Ò pR9   I ò pRi   u P  Å   ç          a
